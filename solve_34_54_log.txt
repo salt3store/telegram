@@ -1,0 +1,29 @@
+  📋 HTML(2) | review | lectures=3
+  📋 5 سؤال | best=0 | completed=False
+  📖 15 إجابة
+  📤 إرسال 5 إجابة...
+    ❌ [1/5] 90034010
+    ❌ [2/5] 90034020
+    ❌ [3/5] 90034030
+    ❌ [4/5] 90034040
+    ❌ [5/5] 90034050
+  📊 النتيجة: 0/5 (completed=False)
+  📋 CSS(2) | review | lectures=4
+  ❌ فشل جلب أسئلة 90035
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90036
+  📋 جمل switch | review | lectures=3
+  ❌ فشل جلب أسئلة 90037
+  📋 المتبقي (Modulo) | review | lectures=3
+  ❌ فشل جلب أسئلة 90038
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90039
+  📋 const / عدم المساواة | review | lectures=3
+  ❌ فشل جلب أسئلة 90040
+  📋 جمل while | review | lectures=3
+  ❌ فشل جلب أسئلة 90041
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90042
+  📋 CSS(3) | review | lectures=3
+  ❌ فشل جلب أسئلة 90043
+  📋 إنشاء موقع ويب | review | lectures=5

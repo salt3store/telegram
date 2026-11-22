@@ -1,0 +1,27 @@
+  📋 HTML(2) | review | lectures=3
+  📋 5 سؤال | best=0 | completed=False
+  ▶️ start: False ({"last_lecture_not_completed":true}
+)
+  📤 إرسال 5 إجابة...
+    ❌ [1/5] 90034010 → 400: {"already_answered":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not
+    ❌ [2/5] 90034020 → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_an
+    ❌ [3/5] 90034030 → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_an
+    ❌ [4/5] 90034040 → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_an
+    ❌ [5/5] 90034050 → 400: {"already_answered":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not
+  📊 النتيجة: 0/5 (completed=False)
+  📋 CSS(2) | review | lectures=4
+  ❌ فشل جلب أسئلة 90035
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90036
+  📋 جمل switch | review | lectures=3
+  ❌ فشل جلب أسئلة 90037
+  📋 المتبقي (Modulo) | review | lectures=3
+  ❌ فشل جلب أسئلة 90038
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90039
+  📋 const / عدم المساواة | review | lectures=3
+  ❌ فشل جلب أسئلة 90040
+  📋 جمل while | review | lectures=3
+  ❌ فشل جلب أسئلة 90041
+  📋 مراجعة الفهم | test | lectures=1
+  ❌ فشل جلب أسئلة 90042

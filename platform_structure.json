@@ -1,0 +1,3982 @@
+{
+  "67": {
+    "chapter_id": 67,
+    "chapter": {
+      "chapter": {
+        "id": 67,
+        "name": "دور المال",
+        "section_id": 19,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 19,
+        "unit_name": "أساسيات المال والتمويل",
+        "unit_order": 1,
+        "test_ids": [
+          23
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 67,
+          "id": 70,
+          "seq": 1,
+          "title": "كيف نشأ المال",
+          "review_id": 55,
+          "review_title": "كيف نشأ المال"
+        },
+        {
+          "chapter_id": 67,
+          "id": 74,
+          "seq": 2,
+          "title": "الوظائف الثلاث للمال",
+          "review_id": 59,
+          "review_title": "الوظائف الثلاث للمال"
+        },
+        {
+          "chapter_id": 67,
+          "id": 78,
+          "seq": 3,
+          "title": "أشكال المال الحديث",
+          "review_id": 63,
+          "review_title": "أشكال المال الحديث"
+        }
+      ],
+      "section": {
+        "id": 67,
+        "unit_id": 19,
+        "name": "دور المال",
+        "unit_name": "أساسيات المال والتمويل"
+      },
+      "reviews": [
+        {
+          "id": 55,
+          "title": "كيف نشأ المال"
+        },
+        {
+          "id": 59,
+          "title": "الوظائف الثلاث للمال"
+        },
+        {
+          "id": 63,
+          "title": "أشكال المال الحديث"
+        }
+      ],
+      "tests": [
+        {
+          "id": 23,
+          "title": "دور المال",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "clear"
+        }
+      ],
+      "items": [
+        {
+          "id": 70,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "كيف نشأ المال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 55,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "كيف نشأ المال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 74,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "الوظائف الثلاث للمال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 59,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "الوظائف الثلاث للمال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 78,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "أشكال المال الحديث",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 63,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "أشكال المال الحديث",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 23,
+          "unit_id": 19,
+          "section_id": 67,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "دور المال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "clear"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 67,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "68": {
+    "chapter_id": 68,
+    "chapter": {
+      "chapter": {
+        "id": 68,
+        "name": "دور التمويل في المجتمع",
+        "section_id": 19,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 19,
+        "unit_name": "أساسيات المال والتمويل",
+        "unit_order": 1,
+        "test_ids": [
+          24
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 68,
+          "id": 71,
+          "seq": 1,
+          "title": "الوساطة المالية",
+          "review_id": 56,
+          "review_title": "الوساطة المالية"
+        },
+        {
+          "chapter_id": 68,
+          "id": 75,
+          "seq": 2,
+          "title": "أنواع المؤسسات المالية وأدوارها",
+          "review_id": 60,
+          "review_title": "أنواع المؤسسات المالية وأدوارها"
+        },
+        {
+          "chapter_id": 68,
+          "id": 79,
+          "seq": 3,
+          "title": "كيف يحرّك التمويل المجتمع",
+          "review_id": 64,
+          "review_title": "كيف يحرّك التمويل المجتمع"
+        }
+      ],
+      "section": {
+        "id": 68,
+        "unit_id": 19,
+        "name": "دور التمويل في المجتمع",
+        "unit_name": "أساسيات المال والتمويل"
+      },
+      "reviews": [
+        {
+          "id": 56,
+          "title": "الوساطة المالية"
+        },
+        {
+          "id": 60,
+          "title": "أنواع المؤسسات المالية وأدوارها"
+        },
+        {
+          "id": 64,
+          "title": "كيف يحرّك التمويل المجتمع"
+        }
+      ],
+      "tests": [
+        {
+          "id": 24,
+          "title": "دور التمويل في المجتمع",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "clear"
+        }
+      ],
+      "items": [
+        {
+          "id": 71,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "الوساطة المالية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 56,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "الوساطة المالية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 75,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "أنواع المؤسسات المالية وأدوارها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 60,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "أنواع المؤسسات المالية وأدوارها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 79,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "كيف يحرّك التمويل المجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 64,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "كيف يحرّك التمويل المجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 24,
+          "unit_id": 19,
+          "section_id": 68,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "دور التمويل في المجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "clear"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 68,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "69": {
+    "chapter_id": 69,
+    "chapter": {
+      "chapter": {
+        "id": 69,
+        "name": "البنية الأساسية للاقتصاد",
+        "section_id": 19,
+        "seq": 3,
+        "question_count": 10,
+        "unit_id": 19,
+        "unit_name": "أساسيات المال والتمويل",
+        "unit_order": 1,
+        "test_ids": [
+          25
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 69,
+          "id": 72,
+          "seq": 1,
+          "title": "آليات السوق وتحديد الأسعار",
+          "review_id": 57,
+          "review_title": "آليات السوق وتحديد الأسعار"
+        },
+        {
+          "chapter_id": 69,
+          "id": 76,
+          "seq": 2,
+          "title": "المؤشرات الاقتصادية",
+          "review_id": 61,
+          "review_title": "المؤشرات الاقتصادية"
+        },
+        {
+          "chapter_id": 69,
+          "id": 80,
+          "seq": 3,
+          "title": "النظم الاقتصادية",
+          "review_id": 65,
+          "review_title": "النظم الاقتصادية"
+        }
+      ],
+      "section": {
+        "id": 69,
+        "unit_id": 19,
+        "name": "البنية الأساسية للاقتصاد",
+        "unit_name": "أساسيات المال والتمويل"
+      },
+      "reviews": [
+        {
+          "id": 57,
+          "title": "آليات السوق وتحديد الأسعار"
+        },
+        {
+          "id": 61,
+          "title": "المؤشرات الاقتصادية"
+        },
+        {
+          "id": 65,
+          "title": "النظم الاقتصادية"
+        }
+      ],
+      "tests": [
+        {
+          "id": 25,
+          "title": "البنية الأساسية للاقتصاد",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "clear"
+        }
+      ],
+      "items": [
+        {
+          "id": 72,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "آليات السوق وتحديد الأسعار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 57,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "آليات السوق وتحديد الأسعار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 76,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "المؤشرات الاقتصادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 61,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "المؤشرات الاقتصادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 80,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "النظم الاقتصادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 65,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "النظم الاقتصادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 25,
+          "unit_id": 19,
+          "section_id": 69,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "البنية الأساسية للاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "clear"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 69,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "70": {
+    "chapter_id": 70,
+    "chapter": {
+      "chapter": {
+        "id": 70,
+        "name": "فهم الزكاة",
+        "section_id": 19,
+        "seq": 4,
+        "question_count": 10,
+        "unit_id": 19,
+        "unit_name": "أساسيات المال والتمويل",
+        "unit_order": 1,
+        "test_ids": [
+          26
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 70,
+          "id": 73,
+          "seq": 1,
+          "title": "ما هي الزكاة؟",
+          "review_id": 58,
+          "review_title": "ما هي الزكاة؟"
+        },
+        {
+          "chapter_id": 70,
+          "id": 77,
+          "seq": 2,
+          "title": "كيف تُحسب الزكاة",
+          "review_id": 62,
+          "review_title": "كيف تُحسب الزكاة"
+        },
+        {
+          "chapter_id": 70,
+          "id": 81,
+          "seq": 3,
+          "title": "من يستحق الزكاة؟",
+          "review_id": 66,
+          "review_title": "من يستحق الزكاة؟"
+        }
+      ],
+      "section": {
+        "id": 70,
+        "unit_id": 19,
+        "name": "فهم الزكاة",
+        "unit_name": "أساسيات المال والتمويل"
+      },
+      "reviews": [
+        {
+          "id": 58,
+          "title": "ما هي الزكاة؟"
+        },
+        {
+          "id": 62,
+          "title": "كيف تُحسب الزكاة"
+        },
+        {
+          "id": 66,
+          "title": "من يستحق الزكاة؟"
+        }
+      ],
+      "tests": [
+        {
+          "id": 26,
+          "title": "فهم الزكاة",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 73,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "ما هي الزكاة؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 58,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "ما هي الزكاة؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 77,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "كيف تُحسب الزكاة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 62,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "كيف تُحسب الزكاة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 81,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "من يستحق الزكاة؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 66,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "من يستحق الزكاة؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 26,
+          "unit_id": 19,
+          "section_id": 70,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "فهم الزكاة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 70,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "71": {
+    "chapter_id": 71,
+    "chapter": {
+      "chapter": {
+        "id": 71,
+        "name": "ما هو المشروع التجاري؟",
+        "section_id": 20,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 20,
+        "unit_name": "أساسيات الأعمال والاقتصاد",
+        "unit_order": 2,
+        "test_ids": [
+          28
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 71,
+          "id": 82,
+          "seq": 1,
+          "title": "أنواع ملكية المشاريع التجارية",
+          "review_id": 67,
+          "review_title": "أنواع ملكية المشاريع التجارية"
+        },
+        {
+          "chapter_id": 71,
+          "id": 86,
+          "seq": 2,
+          "title": "الغرض من المشاريع التجارية ودورها",
+          "review_id": 70,
+          "review_title": "الغرض من المشاريع التجارية ودورها"
+        },
+        {
+          "chapter_id": 71,
+          "id": 89,
+          "seq": 3,
+          "title": "المسؤولية الاجتماعية للشركات (CSR)",
+          "review_id": 73,
+          "review_title": "المسؤولية الاجتماعية للشركات (CSR)"
+        }
+      ],
+      "section": {
+        "id": 71,
+        "unit_id": 20,
+        "name": "ما هو المشروع التجاري؟",
+        "unit_name": "أساسيات الأعمال والاقتصاد"
+      },
+      "reviews": [
+        {
+          "id": 67,
+          "title": "أنواع ملكية المشاريع التجارية"
+        },
+        {
+          "id": 70,
+          "title": "الغرض من المشاريع التجارية ودورها"
+        },
+        {
+          "id": 73,
+          "title": "المسؤولية الاجتماعية للشركات (CSR)"
+        }
+      ],
+      "tests": [
+        {
+          "id": 28,
+          "title": "ما هو المشروع التجاري؟",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 82,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "أنواع ملكية المشاريع التجارية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 67,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "أنواع ملكية المشاريع التجارية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 86,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "الغرض من المشاريع التجارية ودورها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 70,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "الغرض من المشاريع التجارية ودورها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 89,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "المسؤولية الاجتماعية للشركات (CSR)",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 73,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "المسؤولية الاجتماعية للشركات (CSR)",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 28,
+          "unit_id": 20,
+          "section_id": 71,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "ما هو المشروع التجاري؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 71,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "72": {
+    "chapter_id": 72,
+    "chapter": {
+      "chapter": {
+        "id": 72,
+        "name": "عمليات الأعمال والاقتصاد",
+        "section_id": 20,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 20,
+        "unit_name": "أساسيات الأعمال والاقتصاد",
+        "unit_order": 2,
+        "test_ids": [
+          29
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 72,
+          "id": 83,
+          "seq": 1,
+          "title": "كيف تحرّك الشركات الاقتصاد",
+          "review_id": 68,
+          "review_title": "كيف تحرّك الشركات الاقتصاد"
+        },
+        {
+          "chapter_id": 72,
+          "id": 87,
+          "seq": 2,
+          "title": "سلاسل التوريد وسلاسل القيمة",
+          "review_id": 71,
+          "review_title": "سلاسل التوريد وسلاسل القيمة"
+        },
+        {
+          "chapter_id": 72,
+          "id": 90,
+          "seq": 3,
+          "title": "المشاريع التجارية والحكومة والمجتمع",
+          "review_id": 74,
+          "review_title": "المشاريع التجارية والحكومة والمجتمع"
+        }
+      ],
+      "section": {
+        "id": 72,
+        "unit_id": 20,
+        "name": "عمليات الأعمال والاقتصاد",
+        "unit_name": "أساسيات الأعمال والاقتصاد"
+      },
+      "reviews": [
+        {
+          "id": 68,
+          "title": "كيف تحرّك الشركات الاقتصاد"
+        },
+        {
+          "id": 71,
+          "title": "سلاسل التوريد وسلاسل القيمة"
+        },
+        {
+          "id": 74,
+          "title": "المشاريع التجارية والحكومة والمجتمع"
+        }
+      ],
+      "tests": [
+        {
+          "id": 29,
+          "title": "عمليات الأعمال والاقتصاد",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 83,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "كيف تحرّك الشركات الاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 68,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "كيف تحرّك الشركات الاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 87,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "سلاسل التوريد وسلاسل القيمة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 71,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "سلاسل التوريد وسلاسل القيمة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 90,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "المشاريع التجارية والحكومة والمجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 74,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "المشاريع التجارية والحكومة والمجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 29,
+          "unit_id": 20,
+          "section_id": 72,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "عمليات الأعمال والاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 72,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "73": {
+    "chapter_id": 73,
+    "chapter": {
+      "chapter": {
+        "id": 73,
+        "name": "الدخل والنفقات والسلوك الاقتصادي",
+        "section_id": 20,
+        "seq": 3,
+        "question_count": 10,
+        "unit_id": 20,
+        "unit_name": "أساسيات الأعمال والاقتصاد",
+        "unit_order": 2,
+        "test_ids": [
+          30
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 73,
+          "id": 84,
+          "seq": 1,
+          "title": "أنواع ومصادر الدخل",
+          "review_id": 69,
+          "review_title": "أنواع ومصادر الدخل"
+        },
+        {
+          "chapter_id": 73,
+          "id": 88,
+          "seq": 2,
+          "title": "فهم النفقات",
+          "review_id": 72,
+          "review_title": "فهم النفقات"
+        },
+        {
+          "chapter_id": 73,
+          "id": 91,
+          "seq": 3,
+          "title": "الأسر والاقتصاد",
+          "review_id": 75,
+          "review_title": "الأسر والاقتصاد"
+        }
+      ],
+      "section": {
+        "id": 73,
+        "unit_id": 20,
+        "name": "الدخل والنفقات والسلوك الاقتصادي",
+        "unit_name": "أساسيات الأعمال والاقتصاد"
+      },
+      "reviews": [
+        {
+          "id": 69,
+          "title": "أنواع ومصادر الدخل"
+        },
+        {
+          "id": 72,
+          "title": "فهم النفقات"
+        },
+        {
+          "id": 75,
+          "title": "الأسر والاقتصاد"
+        }
+      ],
+      "tests": [
+        {
+          "id": 30,
+          "title": "الدخل والنفقات والسلوك الاقتصادي",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 84,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "أنواع ومصادر الدخل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 69,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "أنواع ومصادر الدخل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 88,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "فهم النفقات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 72,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "فهم النفقات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 91,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "الأسر والاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 75,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "الأسر والاقتصاد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 30,
+          "unit_id": 20,
+          "section_id": 73,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "الدخل والنفقات والسلوك الاقتصادي",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 73,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "74": {
+    "chapter_id": 74,
+    "chapter": {
+      "chapter": {
+        "id": 74,
+        "name": "اختبار المعرفة: محاكاة حياة العمل - العمل والكسب والحياة",
+        "section_id": 20,
+        "seq": 4,
+        "question_count": 50,
+        "unit_id": 20,
+        "unit_name": "أساسيات الأعمال والاقتصاد",
+        "unit_order": 2,
+        "test_ids": [
+          27
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 74,
+          "id": 85,
+          "seq": 1,
+          "title": "محاكاة حياة العمل - العمل والكسب والحياة"
+        }
+      ],
+      "section": {
+        "id": 74,
+        "unit_id": 20,
+        "name": "اختبار المعرفة: محاكاة حياة العمل - العمل والكسب والحياة",
+        "unit_name": "أساسيات الأعمال والاقتصاد"
+      },
+      "reviews": [],
+      "tests": [
+        {
+          "id": 27,
+          "title": "اختبار المعرفة: محاكاة حياة العمل - العمل والكسب والحياة",
+          "question_count": 50,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 85,
+          "unit_id": 20,
+          "section_id": 74,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "محاكاة حياة العمل - العمل والكسب والحياة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 27,
+          "unit_id": 20,
+          "section_id": 74,
+          "item_order": 2,
+          "item_type": "test",
+          "title": "اختبار المعرفة: محاكاة حياة العمل - العمل والكسب والحياة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 50,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 74,
+      "completed_items": 2,
+      "total_items": 2,
+      "is_complete": true
+    }
+  },
+  "75": {
+    "chapter_id": 75,
+    "chapter": {
+      "chapter": {
+        "id": 75,
+        "name": "وضع الموازنة وتخصيص الموارد",
+        "section_id": 21,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 21,
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار",
+        "unit_order": 3,
+        "test_ids": [
+          32
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 75,
+          "id": 92,
+          "seq": 1,
+          "title": "ما هي الميزانية؟",
+          "review_id": 76,
+          "review_title": "ما هي الميزانية؟"
+        },
+        {
+          "chapter_id": 75,
+          "id": 96,
+          "seq": 2,
+          "title": "الاحتياجات مقابل الرغبات",
+          "review_id": 79,
+          "review_title": "الاحتياجات مقابل الرغبات"
+        },
+        {
+          "chapter_id": 75,
+          "id": 99,
+          "seq": 3,
+          "title": "تخصيص الموارد المحدودة",
+          "review_id": 82,
+          "review_title": "تخصيص الموارد المحدودة"
+        }
+      ],
+      "section": {
+        "id": 75,
+        "unit_id": 21,
+        "name": "وضع الموازنة وتخصيص الموارد",
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار"
+      },
+      "reviews": [
+        {
+          "id": 76,
+          "title": "ما هي الميزانية؟"
+        },
+        {
+          "id": 79,
+          "title": "الاحتياجات مقابل الرغبات"
+        },
+        {
+          "id": 82,
+          "title": "تخصيص الموارد المحدودة"
+        }
+      ],
+      "tests": [
+        {
+          "id": 32,
+          "title": "وضع الموازنة وتخصيص الموارد",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 92,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "ما هي الميزانية؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 76,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "ما هي الميزانية؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 96,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "الاحتياجات مقابل الرغبات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 79,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "الاحتياجات مقابل الرغبات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 99,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "تخصيص الموارد المحدودة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 82,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "تخصيص الموارد المحدودة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 32,
+          "unit_id": 21,
+          "section_id": 75,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "وضع الموازنة وتخصيص الموارد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 75,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "76": {
+    "chapter_id": 76,
+    "chapter": {
+      "chapter": {
+        "id": 76,
+        "name": "الادّخار والاستقرار والتخطيط للمستقبل",
+        "section_id": 21,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 21,
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار",
+        "unit_order": 3,
+        "test_ids": [
+          33
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 76,
+          "id": 93,
+          "seq": 1,
+          "title": "لماذا الادّخار؟",
+          "review_id": 77,
+          "review_title": "لماذا الادّخار؟"
+        },
+        {
+          "chapter_id": 76,
+          "id": 97,
+          "seq": 2,
+          "title": "سحر الفائدة المركبة",
+          "review_id": 80,
+          "review_title": "سحر الفائدة المركبة"
+        },
+        {
+          "chapter_id": 76,
+          "id": 100,
+          "seq": 3,
+          "title": "التحضير لمخاطر المستقبل",
+          "review_id": 83,
+          "review_title": "التحضير لمخاطر المستقبل"
+        }
+      ],
+      "section": {
+        "id": 76,
+        "unit_id": 21,
+        "name": "الادّخار والاستقرار والتخطيط للمستقبل",
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار"
+      },
+      "reviews": [
+        {
+          "id": 77,
+          "title": "لماذا الادّخار؟"
+        },
+        {
+          "id": 80,
+          "title": "سحر الفائدة المركبة"
+        },
+        {
+          "id": 83,
+          "title": "التحضير لمخاطر المستقبل"
+        }
+      ],
+      "tests": [
+        {
+          "id": 33,
+          "title": "الادّخار والاستقرار والتخطيط للمستقبل",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 93,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "لماذا الادّخار؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 77,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "لماذا الادّخار؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 97,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "سحر الفائدة المركبة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 80,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "سحر الفائدة المركبة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 100,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "التحضير لمخاطر المستقبل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 83,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "التحضير لمخاطر المستقبل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 33,
+          "unit_id": 21,
+          "section_id": 76,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "الادّخار والاستقرار والتخطيط للمستقبل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 76,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "77": {
+    "chapter_id": 77,
+    "chapter": {
+      "chapter": {
+        "id": 77,
+        "name": "العقود والشروط والمسؤولية المالية",
+        "section_id": 21,
+        "seq": 3,
+        "question_count": 10,
+        "unit_id": 21,
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار",
+        "unit_order": 3,
+        "test_ids": [
+          34
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 77,
+          "id": 94,
+          "seq": 1,
+          "title": "ما هو العقد؟",
+          "review_id": 78,
+          "review_title": "ما هو العقد؟"
+        },
+        {
+          "chapter_id": 77,
+          "id": 98,
+          "seq": 2,
+          "title": "كيف يعمل الائتمان",
+          "review_id": 81,
+          "review_title": "كيف يعمل الائتمان"
+        },
+        {
+          "chapter_id": 77,
+          "id": 101,
+          "seq": 3,
+          "title": "المسؤولية عن الديون وحقوق المستهلك",
+          "review_id": 84,
+          "review_title": "المسؤولية عن الديون وحقوق المستهلك"
+        }
+      ],
+      "section": {
+        "id": 77,
+        "unit_id": 21,
+        "name": "العقود والشروط والمسؤولية المالية",
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار"
+      },
+      "reviews": [
+        {
+          "id": 78,
+          "title": "ما هو العقد؟"
+        },
+        {
+          "id": 81,
+          "title": "كيف يعمل الائتمان"
+        },
+        {
+          "id": 84,
+          "title": "المسؤولية عن الديون وحقوق المستهلك"
+        }
+      ],
+      "tests": [
+        {
+          "id": 34,
+          "title": "العقود والشروط والمسؤولية المالية",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 94,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "ما هو العقد؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 78,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "ما هو العقد؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 98,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "كيف يعمل الائتمان",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 81,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "كيف يعمل الائتمان",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 101,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "المسؤولية عن الديون وحقوق المستهلك",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 84,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "المسؤولية عن الديون وحقوق المستهلك",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 34,
+          "unit_id": 21,
+          "section_id": 77,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "العقود والشروط والمسؤولية المالية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 77,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "78": {
+    "chapter_id": 78,
+    "chapter": {
+      "chapter": {
+        "id": 78,
+        "name": "اختبار المعرفة: محاكاة رحلة الحياة - النجاة المالية",
+        "section_id": 21,
+        "seq": 4,
+        "question_count": 50,
+        "unit_id": 21,
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار",
+        "unit_order": 3,
+        "test_ids": [
+          31
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 78,
+          "id": 95,
+          "seq": 1,
+          "title": "محاكاة رحلة الحياة - النجاة المالية"
+        }
+      ],
+      "section": {
+        "id": 78,
+        "unit_id": 21,
+        "name": "اختبار المعرفة: محاكاة رحلة الحياة - النجاة المالية",
+        "unit_name": "التمويل الشخصي والائتمان واتخاذ القرار"
+      },
+      "reviews": [],
+      "tests": [
+        {
+          "id": 31,
+          "title": "اختبار المعرفة: محاكاة رحلة الحياة - النجاة المالية",
+          "question_count": 50,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 95,
+          "unit_id": 21,
+          "section_id": 78,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "محاكاة رحلة الحياة - النجاة المالية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 31,
+          "unit_id": 21,
+          "section_id": 78,
+          "item_order": 2,
+          "item_type": "test",
+          "title": "اختبار المعرفة: محاكاة رحلة الحياة - النجاة المالية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 50,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 78,
+      "completed_items": 2,
+      "total_items": 2,
+      "is_complete": true
+    }
+  },
+  "79": {
+    "chapter_id": 79,
+    "chapter": {
+      "chapter": {
+        "id": 79,
+        "name": "ما هي ريادة الأعمال؟",
+        "section_id": 22,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 22,
+        "unit_name": "ريادة الأعمال",
+        "unit_order": 4,
+        "test_ids": [
+          36
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 79,
+          "id": 102,
+          "seq": 1,
+          "title": "العقلية الريادية",
+          "review_id": 85,
+          "review_title": "العقلية الريادية"
+        },
+        {
+          "chapter_id": 79,
+          "id": 106,
+          "seq": 2,
+          "title": "من الفكرة إلى المشروع التجاري",
+          "review_id": 88,
+          "review_title": "من الفكرة إلى المشروع التجاري"
+        },
+        {
+          "chapter_id": 79,
+          "id": 109,
+          "seq": 3,
+          "title": "المخاطر والتأثير الاجتماعي للمشاريع الناشئة",
+          "review_id": 91,
+          "review_title": "المخاطر والتأثير الاجتماعي للمشاريع الناشئة"
+        }
+      ],
+      "section": {
+        "id": 79,
+        "unit_id": 22,
+        "name": "ما هي ريادة الأعمال؟",
+        "unit_name": "ريادة الأعمال"
+      },
+      "reviews": [
+        {
+          "id": 85,
+          "title": "العقلية الريادية"
+        },
+        {
+          "id": 88,
+          "title": "من الفكرة إلى المشروع التجاري"
+        },
+        {
+          "id": 91,
+          "title": "المخاطر والتأثير الاجتماعي للمشاريع الناشئة"
+        }
+      ],
+      "tests": [
+        {
+          "id": 36,
+          "title": "ما هي ريادة الأعمال؟",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 102,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "العقلية الريادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 85,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "العقلية الريادية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 106,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "من الفكرة إلى المشروع التجاري",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 88,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "من الفكرة إلى المشروع التجاري",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 109,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "المخاطر والتأثير الاجتماعي للمشاريع الناشئة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 91,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "المخاطر والتأثير الاجتماعي للمشاريع الناشئة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 36,
+          "unit_id": 22,
+          "section_id": 79,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "ما هي ريادة الأعمال؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 79,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "80": {
+    "chapter_id": 80,
+    "chapter": {
+      "chapter": {
+        "id": 80,
+        "name": "نماذج الأعمال وهياكل الإيرادات",
+        "section_id": 22,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 22,
+        "unit_name": "ريادة الأعمال",
+        "unit_order": 4,
+        "test_ids": [
+          37
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 80,
+          "id": 103,
+          "seq": 1,
+          "title": "ما هو نموذج العمل؟",
+          "review_id": 86,
+          "review_title": "ما هو نموذج العمل؟"
+        },
+        {
+          "chapter_id": 80,
+          "id": 107,
+          "seq": 2,
+          "title": "نماذج العمل الشائعة",
+          "review_id": 89,
+          "review_title": "نماذج العمل الشائعة"
+        },
+        {
+          "chapter_id": 80,
+          "id": 110,
+          "seq": 3,
+          "title": "تصميم تدفّقات الإيراد",
+          "review_id": 92,
+          "review_title": "تصميم تدفّقات الإيراد"
+        }
+      ],
+      "section": {
+        "id": 80,
+        "unit_id": 22,
+        "name": "نماذج الأعمال وهياكل الإيرادات",
+        "unit_name": "ريادة الأعمال"
+      },
+      "reviews": [
+        {
+          "id": 86,
+          "title": "ما هو نموذج العمل؟"
+        },
+        {
+          "id": 89,
+          "title": "نماذج العمل الشائعة"
+        },
+        {
+          "id": 92,
+          "title": "تصميم تدفّقات الإيراد"
+        }
+      ],
+      "tests": [
+        {
+          "id": 37,
+          "title": "نماذج الأعمال وهياكل الإيرادات",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 103,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "ما هو نموذج العمل؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 86,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "ما هو نموذج العمل؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 107,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "نماذج العمل الشائعة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 89,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "نماذج العمل الشائعة",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 110,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "تصميم تدفّقات الإيراد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 92,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "تصميم تدفّقات الإيراد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 37,
+          "unit_id": 22,
+          "section_id": 80,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "نماذج الأعمال وهياكل الإيرادات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 80,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "81": {
+    "chapter_id": 81,
+    "chapter": {
+      "chapter": {
+        "id": 81,
+        "name": "التكاليف والأرباح وإعادة الاستثمار",
+        "section_id": 22,
+        "seq": 3,
+        "question_count": 10,
+        "unit_id": 22,
+        "unit_name": "ريادة الأعمال",
+        "unit_order": 4,
+        "test_ids": [
+          38
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 81,
+          "id": 104,
+          "seq": 1,
+          "title": "أنواع التكاليف وإدارتها",
+          "review_id": 87,
+          "review_title": "أنواع التكاليف وإدارتها"
+        },
+        {
+          "chapter_id": 81,
+          "id": 108,
+          "seq": 2,
+          "title": "فهم هوامش الربح",
+          "review_id": 90,
+          "review_title": "فهم هوامش الربح"
+        },
+        {
+          "chapter_id": 81,
+          "id": 111,
+          "seq": 3,
+          "title": "إعادة استثمار الأرباح",
+          "review_id": 93,
+          "review_title": "إعادة استثمار الأرباح"
+        }
+      ],
+      "section": {
+        "id": 81,
+        "unit_id": 22,
+        "name": "التكاليف والأرباح وإعادة الاستثمار",
+        "unit_name": "ريادة الأعمال"
+      },
+      "reviews": [
+        {
+          "id": 87,
+          "title": "أنواع التكاليف وإدارتها"
+        },
+        {
+          "id": 90,
+          "title": "فهم هوامش الربح"
+        },
+        {
+          "id": 93,
+          "title": "إعادة استثمار الأرباح"
+        }
+      ],
+      "tests": [
+        {
+          "id": 38,
+          "title": "التكاليف والأرباح وإعادة الاستثمار",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 104,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "أنواع التكاليف وإدارتها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 87,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "أنواع التكاليف وإدارتها",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 108,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "فهم هوامش الربح",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 90,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "فهم هوامش الربح",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 111,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "إعادة استثمار الأرباح",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 93,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "إعادة استثمار الأرباح",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 38,
+          "unit_id": 22,
+          "section_id": 81,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "التكاليف والأرباح وإعادة الاستثمار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 81,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "82": {
+    "chapter_id": 82,
+    "chapter": {
+      "chapter": {
+        "id": 82,
+        "name": "اختبار المعرفة: محاكاة رائد الأعمال - من الفكرة إلى المشروع",
+        "section_id": 22,
+        "seq": 4,
+        "question_count": 50,
+        "unit_id": 22,
+        "unit_name": "ريادة الأعمال",
+        "unit_order": 4,
+        "test_ids": [
+          35
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 82,
+          "id": 105,
+          "seq": 1,
+          "title": "محاكاة رائد الأعمال - من الفكرة إلى المشروع التجاري"
+        }
+      ],
+      "section": {
+        "id": 82,
+        "unit_id": 22,
+        "name": "اختبار المعرفة: محاكاة رائد الأعمال - من الفكرة إلى المشروع",
+        "unit_name": "ريادة الأعمال"
+      },
+      "reviews": [],
+      "tests": [
+        {
+          "id": 35,
+          "title": "اختبار المعرفة: محاكاة رائد الأعمال - من الفكرة إلى المشروع",
+          "question_count": 50,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 105,
+          "unit_id": 22,
+          "section_id": 82,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "محاكاة رائد الأعمال - من الفكرة إلى المشروع التجاري",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 35,
+          "unit_id": 22,
+          "section_id": 82,
+          "item_order": 2,
+          "item_type": "test",
+          "title": "اختبار المعرفة: محاكاة رائد الأعمال - من الفكرة إلى المشروع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 50,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 82,
+      "completed_items": 2,
+      "total_items": 2,
+      "is_complete": true
+    }
+  },
+  "83": {
+    "chapter_id": 83,
+    "chapter": {
+      "chapter": {
+        "id": 83,
+        "name": "ما هو الاستثمار؟",
+        "section_id": 23,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 23,
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات",
+        "unit_order": 5,
+        "test_ids": [
+          40
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 83,
+          "id": 112,
+          "seq": 1,
+          "title": "التعريف الأساسي للاستثمار",
+          "review_id": 94,
+          "review_title": "التعريف الأساسي للاستثمار"
+        },
+        {
+          "chapter_id": 83,
+          "id": 116,
+          "seq": 2,
+          "title": "المخاطرة والعائد",
+          "review_id": 97,
+          "review_title": "المخاطرة والعائد"
+        },
+        {
+          "chapter_id": 83,
+          "id": 119,
+          "seq": 3,
+          "title": "أنواع فئات الأصول",
+          "review_id": 100,
+          "review_title": "أنواع فئات الأصول"
+        }
+      ],
+      "section": {
+        "id": 83,
+        "unit_id": 23,
+        "name": "ما هو الاستثمار؟",
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات"
+      },
+      "reviews": [
+        {
+          "id": 94,
+          "title": "التعريف الأساسي للاستثمار"
+        },
+        {
+          "id": 97,
+          "title": "المخاطرة والعائد"
+        },
+        {
+          "id": 100,
+          "title": "أنواع فئات الأصول"
+        }
+      ],
+      "tests": [
+        {
+          "id": 40,
+          "title": "ما هو الاستثمار؟",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 112,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "التعريف الأساسي للاستثمار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 94,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "التعريف الأساسي للاستثمار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 116,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "المخاطرة والعائد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 97,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "المخاطرة والعائد",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 119,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "أنواع فئات الأصول",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 100,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "أنواع فئات الأصول",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 40,
+          "unit_id": 23,
+          "section_id": 83,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "ما هو الاستثمار؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 83,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "84": {
+    "chapter_id": 84,
+    "chapter": {
+      "chapter": {
+        "id": 84,
+        "name": "ما هي الأسهم؟",
+        "section_id": 23,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 23,
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات",
+        "unit_order": 5,
+        "test_ids": [
+          41
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 84,
+          "id": 113,
+          "seq": 1,
+          "title": "أساسيات الأسهم",
+          "review_id": 95,
+          "review_title": "أساسيات الأسهم"
+        },
+        {
+          "chapter_id": 84,
+          "id": 117,
+          "seq": 2,
+          "title": "لماذا تتغيّر أسعار الأسهم",
+          "review_id": 98,
+          "review_title": "لماذا تتغيّر أسعار الأسهم"
+        },
+        {
+          "chapter_id": 84,
+          "id": 120,
+          "seq": 3,
+          "title": "كيف يعمل سوق الأسهم",
+          "review_id": 101,
+          "review_title": "كيف يعمل سوق الأسهم"
+        }
+      ],
+      "section": {
+        "id": 84,
+        "unit_id": 23,
+        "name": "ما هي الأسهم؟",
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات"
+      },
+      "reviews": [
+        {
+          "id": 95,
+          "title": "أساسيات الأسهم"
+        },
+        {
+          "id": 98,
+          "title": "لماذا تتغيّر أسعار الأسهم"
+        },
+        {
+          "id": 101,
+          "title": "كيف يعمل سوق الأسهم"
+        }
+      ],
+      "tests": [
+        {
+          "id": 41,
+          "title": "ما هي الأسهم؟",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 113,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "أساسيات الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 95,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "أساسيات الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 117,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "لماذا تتغيّر أسعار الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 98,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "لماذا تتغيّر أسعار الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 120,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "كيف يعمل سوق الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 101,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "كيف يعمل سوق الأسهم",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 41,
+          "unit_id": 23,
+          "section_id": 84,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "ما هي الأسهم؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 84,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "85": {
+    "chapter_id": 85,
+    "chapter": {
+      "chapter": {
+        "id": 85,
+        "name": "التنويع وتقييم الشركات",
+        "section_id": 23,
+        "seq": 3,
+        "question_count": 10,
+        "unit_id": 23,
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات",
+        "unit_order": 5,
+        "test_ids": [
+          42
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 85,
+          "id": 114,
+          "seq": 1,
+          "title": "مبادئ التنويع",
+          "review_id": 96,
+          "review_title": "مبادئ التنويع"
+        },
+        {
+          "chapter_id": 85,
+          "id": 118,
+          "seq": 2,
+          "title": "تقييم الشركات",
+          "review_id": 99,
+          "review_title": "تقييم الشركات"
+        },
+        {
+          "chapter_id": 85,
+          "id": 121,
+          "seq": 3,
+          "title": "أدوات الاستثمار",
+          "review_id": 102,
+          "review_title": "أدوات الاستثمار"
+        }
+      ],
+      "section": {
+        "id": 85,
+        "unit_id": 23,
+        "name": "التنويع وتقييم الشركات",
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات"
+      },
+      "reviews": [
+        {
+          "id": 96,
+          "title": "مبادئ التنويع"
+        },
+        {
+          "id": 99,
+          "title": "تقييم الشركات"
+        },
+        {
+          "id": 102,
+          "title": "أدوات الاستثمار"
+        }
+      ],
+      "tests": [
+        {
+          "id": 42,
+          "title": "التنويع وتقييم الشركات",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": "perfect"
+        }
+      ],
+      "items": [
+        {
+          "id": 114,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "مبادئ التنويع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 96,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "مبادئ التنويع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 118,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "تقييم الشركات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 99,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "تقييم الشركات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 121,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "أدوات الاستثمار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 102,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "أدوات الاستثمار",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 42,
+          "unit_id": 23,
+          "section_id": 85,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "التنويع وتقييم الشركات",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": "perfect"
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 85,
+      "completed_items": 7,
+      "total_items": 7,
+      "is_complete": true
+    }
+  },
+  "86": {
+    "chapter_id": 86,
+    "chapter": {
+      "chapter": {
+        "id": 86,
+        "name": "اختبار المعرفة: محاكاة حياة المستثمر - بناء الثروة للمستقبل",
+        "section_id": 23,
+        "seq": 4,
+        "question_count": 50,
+        "unit_id": 23,
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات",
+        "unit_order": 5,
+        "test_ids": [
+          39
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 86,
+          "id": 115,
+          "seq": 1,
+          "title": "محاكاة حياة المستثمر - بناء الثروة للمستقبل"
+        }
+      ],
+      "section": {
+        "id": 86,
+        "unit_id": 23,
+        "name": "اختبار المعرفة: محاكاة حياة المستثمر - بناء الثروة للمستقبل",
+        "unit_name": "أساسيات الاستثمار وإدارة الثروات"
+      },
+      "reviews": [],
+      "tests": [
+        {
+          "id": 39,
+          "title": "اختبار المعرفة: محاكاة حياة المستثمر - بناء الثروة للمستقبل",
+          "question_count": 50,
+          "passing_score": 80,
+          "test_result": ""
+        }
+      ],
+      "items": [
+        {
+          "id": 115,
+          "unit_id": 23,
+          "section_id": 86,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "محاكاة حياة المستثمر - بناء الثروة للمستقبل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": true,
+          "is_unlocked": true,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 39,
+          "unit_id": 23,
+          "section_id": 86,
+          "item_order": 2,
+          "item_type": "test",
+          "title": "اختبار المعرفة: محاكاة حياة المستثمر - بناء الثروة للمستقبل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 50,
+          "is_completed": false,
+          "is_unlocked": true,
+          "is_current": true,
+          "test_result": ""
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 86,
+      "completed_items": 1,
+      "total_items": 2,
+      "is_complete": false
+    }
+  },
+  "87": {
+    "chapter_id": 87,
+    "chapter": {
+      "chapter": {
+        "id": 87,
+        "name": "شركات الذكاء الاصطناعي ونماذج الأعمال",
+        "section_id": 24,
+        "seq": 1,
+        "question_count": 10,
+        "unit_id": 24,
+        "unit_name": "الذكاء الاصطناعي والتمويل ومستقبل الأعمال",
+        "unit_order": 6,
+        "test_ids": [
+          43
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 87,
+          "id": 122,
+          "seq": 1,
+          "title": "كيف يغيّر الذكاء الاصطناعي عالم الأعمال",
+          "review_id": 103,
+          "review_title": "كيف يغيّر الذكاء الاصطناعي عالم الأعمال"
+        },
+        {
+          "chapter_id": 87,
+          "id": 124,
+          "seq": 2,
+          "title": "التكنولوجيا المالية والذكاء الاصطناعي في التمويل",
+          "review_id": 105,
+          "review_title": "التكنولوجيا المالية والذكاء الاصطناعي في التمويل"
+        },
+        {
+          "chapter_id": 87,
+          "id": 126,
+          "seq": 3,
+          "title": "نماذج أعمال الشركات الناشئة في الذكاء الاصطناعي",
+          "review_id": 107,
+          "review_title": "نماذج أعمال الشركات الناشئة في الذكاء الاصطناعي"
+        }
+      ],
+      "section": {
+        "id": 87,
+        "unit_id": 24,
+        "name": "شركات الذكاء الاصطناعي ونماذج الأعمال",
+        "unit_name": "الذكاء الاصطناعي والتمويل ومستقبل الأعمال"
+      },
+      "reviews": [
+        {
+          "id": 103,
+          "title": "كيف يغيّر الذكاء الاصطناعي عالم الأعمال"
+        },
+        {
+          "id": 105,
+          "title": "التكنولوجيا المالية والذكاء الاصطناعي في التمويل"
+        },
+        {
+          "id": 107,
+          "title": "نماذج أعمال الشركات الناشئة في الذكاء الاصطناعي"
+        }
+      ],
+      "tests": [
+        {
+          "id": 43,
+          "title": "شركات الذكاء الاصطناعي ونماذج الأعمال",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": ""
+        }
+      ],
+      "items": [
+        {
+          "id": 122,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "كيف يغيّر الذكاء الاصطناعي عالم الأعمال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 103,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "كيف يغيّر الذكاء الاصطناعي عالم الأعمال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 124,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "التكنولوجيا المالية والذكاء الاصطناعي في التمويل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 105,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "التكنولوجيا المالية والذكاء الاصطناعي في التمويل",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 126,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "نماذج أعمال الشركات الناشئة في الذكاء الاصطناعي",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 107,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "نماذج أعمال الشركات الناشئة في الذكاء الاصطناعي",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 43,
+          "unit_id": 24,
+          "section_id": 87,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "شركات الذكاء الاصطناعي ونماذج الأعمال",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 87,
+      "completed_items": 0,
+      "total_items": 7,
+      "is_complete": false
+    }
+  },
+  "88": {
+    "chapter_id": 88,
+    "chapter": {
+      "chapter": {
+        "id": 88,
+        "name": "تأثير الذكاء الاصطناعي والثقافة الرقمية",
+        "section_id": 24,
+        "seq": 2,
+        "question_count": 10,
+        "unit_id": 24,
+        "unit_name": "الذكاء الاصطناعي والتمويل ومستقبل الأعمال",
+        "unit_order": 6,
+        "test_ids": [
+          44
+        ]
+      },
+      "lectures": [
+        {
+          "chapter_id": 88,
+          "id": 123,
+          "seq": 1,
+          "title": "كيف يغيّر الذكاء الاصطناعي الوظائف والمجتمع",
+          "review_id": 104,
+          "review_title": "كيف يغيّر الذكاء الاصطناعي الوظائف والمجتمع"
+        },
+        {
+          "chapter_id": 88,
+          "id": 125,
+          "seq": 2,
+          "title": "ما هي الثقافة الرقمية للذكاء الاصطناعي؟",
+          "review_id": 106,
+          "review_title": "ما هي الثقافة الرقمية للذكاء الاصطناعي؟"
+        },
+        {
+          "chapter_id": 88,
+          "id": 127,
+          "seq": 3,
+          "title": "استراتيجية شخصية في عصر الذكاء الاصطناعي",
+          "review_id": 108,
+          "review_title": "استراتيجية شخصية في عصر الذكاء الاصطناعي"
+        }
+      ],
+      "section": {
+        "id": 88,
+        "unit_id": 24,
+        "name": "تأثير الذكاء الاصطناعي والثقافة الرقمية",
+        "unit_name": "الذكاء الاصطناعي والتمويل ومستقبل الأعمال"
+      },
+      "reviews": [
+        {
+          "id": 104,
+          "title": "كيف يغيّر الذكاء الاصطناعي الوظائف والمجتمع"
+        },
+        {
+          "id": 106,
+          "title": "ما هي الثقافة الرقمية للذكاء الاصطناعي؟"
+        },
+        {
+          "id": 108,
+          "title": "استراتيجية شخصية في عصر الذكاء الاصطناعي"
+        }
+      ],
+      "tests": [
+        {
+          "id": 44,
+          "title": "تأثير الذكاء الاصطناعي والثقافة الرقمية",
+          "question_count": 10,
+          "passing_score": 80,
+          "test_result": ""
+        }
+      ],
+      "items": [
+        {
+          "id": 123,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 1,
+          "item_type": "chapter",
+          "title": "كيف يغيّر الذكاء الاصطناعي الوظائف والمجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 104,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 2,
+          "item_type": "review",
+          "title": "كيف يغيّر الذكاء الاصطناعي الوظائف والمجتمع",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 125,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 3,
+          "item_type": "chapter",
+          "title": "ما هي الثقافة الرقمية للذكاء الاصطناعي؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 106,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 4,
+          "item_type": "review",
+          "title": "ما هي الثقافة الرقمية للذكاء الاصطناعي؟",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 127,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 5,
+          "item_type": "chapter",
+          "title": "استراتيجية شخصية في عصر الذكاء الاصطناعي",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 108,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 6,
+          "item_type": "review",
+          "title": "استراتيجية شخصية في عصر الذكاء الاصطناعي",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        },
+        {
+          "id": 44,
+          "unit_id": 24,
+          "section_id": 88,
+          "item_order": 7,
+          "item_type": "test",
+          "title": "تأثير الذكاء الاصطناعي والثقافة الرقمية",
+          "is_free": false,
+          "is_hidden": false,
+          "is_hidden_debug": false,
+          "unit_default_open": false,
+          "section_default_open": false,
+          "passing_score": 80,
+          "question_count": 10,
+          "is_completed": false,
+          "is_unlocked": false,
+          "is_current": false,
+          "test_result": ""
+        }
+      ]
+    },
+    "progress": {
+      "chapter_id": 88,
+      "completed_items": 0,
+      "total_items": 7,
+      "is_complete": false
+    }
+  }
+}

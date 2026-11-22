@@ -1,0 +1,26 @@
+[
+  {
+    "id": 511001020,
+    "type": "description",
+    "q": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) تتم طباعة [[bdi]]\"Good morning\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]Good morning[[/copy]]",
+    "sent": null
+  },
+  {
+    "id": 511001030,
+    "type": "description",
+    "q": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"programming\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]programming[[/copy]]",
+    "sent": null
+  },
+  {
+    "id": 511001040,
+    "type": "description",
+    "q": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"hello\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]hello[[/copy]]",
+    "sent": null
+  },
+  {
+    "id": 511001060,
+    "type": "description",
+    "q": "علّق البرنامج بحيث تكون الطباعة كما هو موضح أدناه.\n[[code]]Hello\nMy name is\nCody[[/code]]",
+    "sent": null
+  }
+]

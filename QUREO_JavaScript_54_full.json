@@ -1,0 +1,2547 @@
+{
+  "section": {
+    "course_id": "qureo_javascript_ar",
+    "id": 206,
+    "name": "QUREO JavaScript 54 Levels"
+  },
+  "chapters": {
+    "610001": {
+      "description": "الدرس 1: مقدمة JavaScript. يتدرب الطالب على console.log والطباعة والتعليقات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610001,
+      "name": "المستوى 1: مقدمة JavaScript",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 1,
+      "test_range": "console.log والطباعة والتعليقات",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مقدمة JavaScript",
+        "كتابة مثال صحيح على console.log والطباعة والتعليقات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610001001": {
+          "question": "اطبع Hello JavaScript في وحدة التحكم.",
+          "type": "description",
+          "answer": "console.log(\"Hello JavaScript\");"
+        },
+        "610001002": {
+          "question": "اكتب تعليقًا ثم اطبع كلمة Start.",
+          "type": "description",
+          "answer": "// بداية البرنامج\nconsole.log(\"Start\");"
+        },
+        "610001003": {
+          "question": "اطبع الرقم 42.",
+          "type": "description",
+          "answer": "console.log(42);"
+        },
+        "610001004": {
+          "question": "اطبع سطرين: First ثم Second.",
+          "type": "description",
+          "answer": "console.log(\"First\");\nconsole.log(\"Second\");"
+        },
+        "610001005": {
+          "question": "اكتب أمر الطباعة الصحيح للنص Coding.",
+          "type": "description",
+          "answer": "console.log(\"Coding\");"
+        },
+        "610001006": {
+          "question": "اطبع رسالة تحتوي على اسم المستوى ورقمه.",
+          "type": "description",
+          "answer": "console.log(\"Level 1\");"
+        }
+      }
+    },
+    "610002": {
+      "description": "الدرس 2: النصوص. يتدرب الطالب على النصوص وعلامات الاقتباس ودمج النصوص من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610002,
+      "name": "المستوى 2: النصوص",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 2,
+      "test_range": "النصوص وعلامات الاقتباس ودمج النصوص",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة النصوص",
+        "كتابة مثال صحيح على النصوص وعلامات الاقتباس ودمج النصوص",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610002001": {
+          "question": "عرّف name بقيمة Ali واطبعها.",
+          "type": "description",
+          "answer": "let name = \"Ali\";\nconsole.log(name);"
+        },
+        "610002002": {
+          "question": "ادمج Hello و World بمسافة.",
+          "type": "description",
+          "answer": "console.log(\"Hello\" + \" \" + \"World\");"
+        },
+        "610002003": {
+          "question": "اطبع النص داخل template literal.",
+          "type": "description",
+          "answer": "let subject = \"JavaScript\";\nconsole.log(`I learn ${subject}`);"
+        },
+        "610002004": {
+          "question": "حوّل النص hello إلى أحرف كبيرة.",
+          "type": "description",
+          "answer": "console.log(\"hello\".toUpperCase());"
+        },
+        "610002005": {
+          "question": "احسب طول النص code.",
+          "type": "description",
+          "answer": "console.log(\"code\".length);"
+        },
+        "610002006": {
+          "question": "اكتب تعليقًا يشرح أن المتغير يخزن نصًا.",
+          "type": "description",
+          "answer": "// متغير نصي\nlet text = \"JavaScript\";\nconsole.log(text);"
+        }
+      }
+    },
+    "610003": {
+      "description": "الدرس 3: الأرقام والحسابات. يتدرب الطالب على العوامل الحسابية وترتيب العمليات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610003,
+      "name": "المستوى 3: الأرقام والحسابات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 3,
+      "test_range": "العوامل الحسابية وترتيب العمليات",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الأرقام والحسابات",
+        "كتابة مثال صحيح على العوامل الحسابية وترتيب العمليات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610003001": {
+          "question": "اطبع نتيجة 15 + 8.",
+          "type": "description",
+          "answer": "console.log(15 + 8);"
+        },
+        "610003002": {
+          "question": "اطبع نتيجة 20 - 7.",
+          "type": "description",
+          "answer": "console.log(20 - 7);"
+        },
+        "610003003": {
+          "question": "اطبع نتيجة 6 * 9.",
+          "type": "description",
+          "answer": "console.log(6 * 9);"
+        },
+        "610003004": {
+          "question": "اطبع نتيجة 30 / 5.",
+          "type": "description",
+          "answer": "console.log(30 / 5);"
+        },
+        "610003005": {
+          "question": "اطبع باقي قسمة 17 على 4.",
+          "type": "description",
+          "answer": "console.log(17 % 4);"
+        },
+        "610003006": {
+          "question": "استخدم متغيرين لحساب مساحة مستطيل أبعاده 6 و4.",
+          "type": "description",
+          "answer": "let width = 6;\nlet height = 4;\nconsole.log(width * height);"
+        }
+      }
+    },
+    "610004": {
+      "description": "الدرس 4: المتغيرات. يتدرب الطالب على let والإسناد وإعادة الإسناد من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610004,
+      "name": "المستوى 4: المتغيرات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 4,
+      "test_range": "let والإسناد وإعادة الإسناد",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة المتغيرات",
+        "كتابة مثال صحيح على let والإسناد وإعادة الإسناد",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610004001": {
+          "question": "أنشئ score بقيمة 50 ثم غيّرها إلى 80 واطبعها.",
+          "type": "description",
+          "answer": "let score = 50;\nscore = 80;\nconsole.log(score);"
+        },
+        "610004002": {
+          "question": "أنشئ ثابتًا باسم PI بقيمة 3.14 واطبعه.",
+          "type": "description",
+          "answer": "const PI = 3.14;\nconsole.log(PI);"
+        },
+        "610004003": {
+          "question": "بدّل قيمة المتغير count بزيادة 1.",
+          "type": "description",
+          "answer": "let count = 4;\ncount = count + 1;\nconsole.log(count);"
+        },
+        "610004004": {
+          "question": "انسخ قيمة a إلى b ثم اطبع b.",
+          "type": "description",
+          "answer": "let a = 10;\nlet b = a;\nconsole.log(b);"
+        },
+        "610004005": {
+          "question": "أنشئ متغيرًا باستخدام camelCase.",
+          "type": "description",
+          "answer": "let studentName = \"Mona\";\nconsole.log(studentName);"
+        },
+        "610004006": {
+          "question": "اطبع قيمة متغيرين في سطر واحد.",
+          "type": "description",
+          "answer": "let first = 2;\nlet second = 3;\nconsole.log(first, second);"
+        }
+      }
+    },
+    "610005": {
+      "description": "الدرس 5: أنواع البيانات. يتدرب الطالب على string وnumber وboolean وtypeof من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610005,
+      "name": "المستوى 5: أنواع البيانات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 5,
+      "test_range": "string وnumber وboolean وtypeof",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة أنواع البيانات",
+        "كتابة مثال صحيح على string وnumber وboolean وtypeof",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610005001": {
+          "question": "اطبع نوع القيمة 25 باستخدام typeof.",
+          "type": "description",
+          "answer": "console.log(typeof 25);"
+        },
+        "610005002": {
+          "question": "اطبع نوع النص JavaScript.",
+          "type": "description",
+          "answer": "console.log(typeof \"JavaScript\");"
+        },
+        "610005003": {
+          "question": "أنشئ متغيرًا منطقيًا true واطبع نوعه.",
+          "type": "description",
+          "answer": "let passed = true;\nconsole.log(typeof passed);"
+        },
+        "610005004": {
+          "question": "استخدم null واطبع قيمته.",
+          "type": "description",
+          "answer": "let answer = null;\nconsole.log(answer);"
+        },
+        "610005005": {
+          "question": "تحقق من أن القيمة undefined.",
+          "type": "description",
+          "answer": "let item;\nconsole.log(item === undefined);"
+        },
+        "610005006": {
+          "question": "حوّل النص 12 إلى رقم باستخدام Number.",
+          "type": "description",
+          "answer": "console.log(Number(\"12\") + 3);"
+        }
+      }
+    },
+    "610006": {
+      "description": "الدرس 6: الشروط if. يتدرب الطالب على الشرط البسيط والمقارنة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610006,
+      "name": "المستوى 6: الشروط if",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 6,
+      "test_range": "الشرط البسيط والمقارنة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الشروط if",
+        "كتابة مثال صحيح على الشرط البسيط والمقارنة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610006001": {
+          "question": "إذا كانت age أكبر من أو تساوي 18 اطبع Adult وإلا Minor.",
+          "type": "description",
+          "answer": "let age = 20;\nif (age >= 18) {\n  console.log(\"Adult\");\n} else {\n  console.log(\"Minor\");\n}"
+        },
+        "610006002": {
+          "question": "استخدم else if لتصنيف score إلى Excellent أو Pass أو Fail.",
+          "type": "description",
+          "answer": "let score = 75;\nif (score >= 90) {\n  console.log(\"Excellent\");\n} else if (score >= 50) {\n  console.log(\"Pass\");\n} else {\n  console.log(\"Fail\");\n}"
+        },
+        "610006003": {
+          "question": "تحقق من أن number زوجي.",
+          "type": "description",
+          "answer": "let number = 8;\nif (number % 2 === 0) {\n  console.log(\"Even\");\n} else {\n  console.log(\"Odd\");\n}"
+        },
+        "610006004": {
+          "question": "استخدم && للتحقق من أن score بين 50 و100.",
+          "type": "description",
+          "answer": "let score = 80;\nconsole.log(score >= 50 && score <= 100);"
+        },
+        "610006005": {
+          "question": "استخدم || للتحقق من أن day عطلة.",
+          "type": "description",
+          "answer": "let day = \"Friday\";\nconsole.log(day === \"Friday\" || day === \"Saturday\");"
+        },
+        "610006006": {
+          "question": "استخدم ! لعكس قيمة isClosed.",
+          "type": "description",
+          "answer": "let isClosed = false;\nconsole.log(!isClosed);"
+        }
+      }
+    },
+    "610007": {
+      "description": "الدرس 7: if وelse. يتدرب الطالب على الاختيار بين حالتين من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610007,
+      "name": "المستوى 7: if وelse",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 7,
+      "test_range": "الاختيار بين حالتين",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة if وelse",
+        "كتابة مثال صحيح على الاختيار بين حالتين",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610007001": {
+          "question": "إذا كانت age أكبر من أو تساوي 18 اطبع Adult وإلا Minor.",
+          "type": "description",
+          "answer": "let age = 20;\nif (age >= 18) {\n  console.log(\"Adult\");\n} else {\n  console.log(\"Minor\");\n}"
+        },
+        "610007002": {
+          "question": "استخدم else if لتصنيف score إلى Excellent أو Pass أو Fail.",
+          "type": "description",
+          "answer": "let score = 75;\nif (score >= 90) {\n  console.log(\"Excellent\");\n} else if (score >= 50) {\n  console.log(\"Pass\");\n} else {\n  console.log(\"Fail\");\n}"
+        },
+        "610007003": {
+          "question": "تحقق من أن number زوجي.",
+          "type": "description",
+          "answer": "let number = 8;\nif (number % 2 === 0) {\n  console.log(\"Even\");\n} else {\n  console.log(\"Odd\");\n}"
+        },
+        "610007004": {
+          "question": "استخدم && للتحقق من أن score بين 50 و100.",
+          "type": "description",
+          "answer": "let score = 80;\nconsole.log(score >= 50 && score <= 100);"
+        },
+        "610007005": {
+          "question": "استخدم || للتحقق من أن day عطلة.",
+          "type": "description",
+          "answer": "let day = \"Friday\";\nconsole.log(day === \"Friday\" || day === \"Saturday\");"
+        },
+        "610007006": {
+          "question": "استخدم ! لعكس قيمة isClosed.",
+          "type": "description",
+          "answer": "let isClosed = false;\nconsole.log(!isClosed);"
+        }
+      }
+    },
+    "610008": {
+      "description": "الدرس 8: else if. يتدرب الطالب على اختيار أكثر من حالة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610008,
+      "name": "المستوى 8: else if",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 8,
+      "test_range": "اختيار أكثر من حالة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة else if",
+        "كتابة مثال صحيح على اختيار أكثر من حالة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610008001": {
+          "question": "إذا كانت age أكبر من أو تساوي 18 اطبع Adult وإلا Minor.",
+          "type": "description",
+          "answer": "let age = 20;\nif (age >= 18) {\n  console.log(\"Adult\");\n} else {\n  console.log(\"Minor\");\n}"
+        },
+        "610008002": {
+          "question": "استخدم else if لتصنيف score إلى Excellent أو Pass أو Fail.",
+          "type": "description",
+          "answer": "let score = 75;\nif (score >= 90) {\n  console.log(\"Excellent\");\n} else if (score >= 50) {\n  console.log(\"Pass\");\n} else {\n  console.log(\"Fail\");\n}"
+        },
+        "610008003": {
+          "question": "تحقق من أن number زوجي.",
+          "type": "description",
+          "answer": "let number = 8;\nif (number % 2 === 0) {\n  console.log(\"Even\");\n} else {\n  console.log(\"Odd\");\n}"
+        },
+        "610008004": {
+          "question": "استخدم && للتحقق من أن score بين 50 و100.",
+          "type": "description",
+          "answer": "let score = 80;\nconsole.log(score >= 50 && score <= 100);"
+        },
+        "610008005": {
+          "question": "استخدم || للتحقق من أن day عطلة.",
+          "type": "description",
+          "answer": "let day = \"Friday\";\nconsole.log(day === \"Friday\" || day === \"Saturday\");"
+        },
+        "610008006": {
+          "question": "استخدم ! لعكس قيمة isClosed.",
+          "type": "description",
+          "answer": "let isClosed = false;\nconsole.log(!isClosed);"
+        }
+      }
+    },
+    "610009": {
+      "description": "الدرس 9: العوامل المنطقية. يتدرب الطالب على && و|| و! من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610009,
+      "name": "المستوى 9: العوامل المنطقية",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 9,
+      "test_range": "&& و|| و!",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة العوامل المنطقية",
+        "كتابة مثال صحيح على && و|| و!",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610009001": {
+          "question": "إذا كانت age أكبر من أو تساوي 18 اطبع Adult وإلا Minor.",
+          "type": "description",
+          "answer": "let age = 20;\nif (age >= 18) {\n  console.log(\"Adult\");\n} else {\n  console.log(\"Minor\");\n}"
+        },
+        "610009002": {
+          "question": "استخدم else if لتصنيف score إلى Excellent أو Pass أو Fail.",
+          "type": "description",
+          "answer": "let score = 75;\nif (score >= 90) {\n  console.log(\"Excellent\");\n} else if (score >= 50) {\n  console.log(\"Pass\");\n} else {\n  console.log(\"Fail\");\n}"
+        },
+        "610009003": {
+          "question": "تحقق من أن number زوجي.",
+          "type": "description",
+          "answer": "let number = 8;\nif (number % 2 === 0) {\n  console.log(\"Even\");\n} else {\n  console.log(\"Odd\");\n}"
+        },
+        "610009004": {
+          "question": "استخدم && للتحقق من أن score بين 50 و100.",
+          "type": "description",
+          "answer": "let score = 80;\nconsole.log(score >= 50 && score <= 100);"
+        },
+        "610009005": {
+          "question": "استخدم || للتحقق من أن day عطلة.",
+          "type": "description",
+          "answer": "let day = \"Friday\";\nconsole.log(day === \"Friday\" || day === \"Saturday\");"
+        },
+        "610009006": {
+          "question": "استخدم ! لعكس قيمة isClosed.",
+          "type": "description",
+          "answer": "let isClosed = false;\nconsole.log(!isClosed);"
+        }
+      }
+    },
+    "610010": {
+      "description": "الدرس 10: المراجعة الأولى. يتدرب الطالب على دمج الطباعة والمتغيرات والشروط من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610010,
+      "name": "المستوى 10: المراجعة الأولى",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 10,
+      "test_range": "دمج الطباعة والمتغيرات والشروط",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة المراجعة الأولى",
+        "كتابة مثال صحيح على دمج الطباعة والمتغيرات والشروط",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610010001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 10: المراجعة الأولى. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 10: المراجعة الأولى\");"
+        },
+        "610010002": {
+          "question": "أنشئ مثالًا عمليًا على دمج الطباعة والمتغيرات والشروط باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 10;\nconsole.log(value);"
+        },
+        "610010003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس المراجعة الأولى باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 10 + 2;\nconsole.log(number);"
+        },
+        "610010004": {
+          "question": "أنشئ دالة باسم practice10 تطبق فكرة دمج الطباعة والمتغيرات والشروط وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice10(value) {\n  return value;\n}\nconsole.log(practice10(10));"
+        },
+        "610010005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس المراجعة الأولى: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"المراجعة الأولى\";\nconsole.log(result);"
+        },
+        "610010006": {
+          "question": "اختبار المستوى 10: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 10;\nconst lesson = \"المراجعة الأولى\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610011": {
+      "description": "الدرس 11: حل المسائل الشرطية. يتدرب الطالب على تحويل المطلوب إلى خطوات برمجية من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610011,
+      "name": "المستوى 11: حل المسائل الشرطية",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 11,
+      "test_range": "تحويل المطلوب إلى خطوات برمجية",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة حل المسائل الشرطية",
+        "كتابة مثال صحيح على تحويل المطلوب إلى خطوات برمجية",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610011001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 11: حل المسائل الشرطية. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 11: حل المسائل الشرطية\");"
+        },
+        "610011002": {
+          "question": "أنشئ مثالًا عمليًا على تحويل المطلوب إلى خطوات برمجية باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 11;\nconsole.log(value);"
+        },
+        "610011003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس حل المسائل الشرطية باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 11 + 2;\nconsole.log(number);"
+        },
+        "610011004": {
+          "question": "أنشئ دالة باسم practice11 تطبق فكرة تحويل المطلوب إلى خطوات برمجية وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice11(value) {\n  return value;\n}\nconsole.log(practice11(11));"
+        },
+        "610011005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس حل المسائل الشرطية: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"حل المسائل الشرطية\";\nconsole.log(result);"
+        },
+        "610011006": {
+          "question": "اختبار المستوى 11: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 11;\nconst lesson = \"حل المسائل الشرطية\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610012": {
+      "description": "الدرس 12: الحلقات for. يتدرب الطالب على التكرار بعداد من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610012,
+      "name": "المستوى 12: الحلقات for",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 12,
+      "test_range": "التكرار بعداد",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الحلقات for",
+        "كتابة مثال صحيح على التكرار بعداد",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610012001": {
+          "question": "اطبع الأعداد من 1 إلى 5 باستخدام for.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  console.log(i);\n}"
+        },
+        "610012002": {
+          "question": "اطبع الأعداد الزوجية من 2 إلى 10.",
+          "type": "description",
+          "answer": "for (let i = 2; i <= 10; i += 2) {\n  console.log(i);\n}"
+        },
+        "610012003": {
+          "question": "احسب مجموع الأعداد من 1 إلى 10.",
+          "type": "description",
+          "answer": "let sum = 0;\nfor (let i = 1; i <= 10; i++) {\n  sum += i;\n}\nconsole.log(sum);"
+        },
+        "610012004": {
+          "question": "استخدم while لطباعة 3 ثم 2 ثم 1.",
+          "type": "description",
+          "answer": "let i = 3;\nwhile (i >= 1) {\n  console.log(i);\n  i--;\n}"
+        },
+        "610012005": {
+          "question": "استخدم break لإيقاف الحلقة عند 4.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 6; i++) {\n  if (i === 4) break;\n  console.log(i);\n}"
+        },
+        "610012006": {
+          "question": "استخدم continue لتخطي العدد 3.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  if (i === 3) continue;\n  console.log(i);\n}"
+        }
+      }
+    },
+    "610013": {
+      "description": "الدرس 13: الحلقة while. يتدرب الطالب على التكرار حتى تحقق شرط من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610013,
+      "name": "المستوى 13: الحلقة while",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 13,
+      "test_range": "التكرار حتى تحقق شرط",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الحلقة while",
+        "كتابة مثال صحيح على التكرار حتى تحقق شرط",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610013001": {
+          "question": "اطبع الأعداد من 1 إلى 5 باستخدام for.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  console.log(i);\n}"
+        },
+        "610013002": {
+          "question": "اطبع الأعداد الزوجية من 2 إلى 10.",
+          "type": "description",
+          "answer": "for (let i = 2; i <= 10; i += 2) {\n  console.log(i);\n}"
+        },
+        "610013003": {
+          "question": "احسب مجموع الأعداد من 1 إلى 10.",
+          "type": "description",
+          "answer": "let sum = 0;\nfor (let i = 1; i <= 10; i++) {\n  sum += i;\n}\nconsole.log(sum);"
+        },
+        "610013004": {
+          "question": "استخدم while لطباعة 3 ثم 2 ثم 1.",
+          "type": "description",
+          "answer": "let i = 3;\nwhile (i >= 1) {\n  console.log(i);\n  i--;\n}"
+        },
+        "610013005": {
+          "question": "استخدم break لإيقاف الحلقة عند 4.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 6; i++) {\n  if (i === 4) break;\n  console.log(i);\n}"
+        },
+        "610013006": {
+          "question": "استخدم continue لتخطي العدد 3.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  if (i === 3) continue;\n  console.log(i);\n}"
+        }
+      }
+    },
+    "610014": {
+      "description": "الدرس 14: break وcontinue. يتدرب الطالب على التحكم في الحلقات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610014,
+      "name": "المستوى 14: break وcontinue",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 14,
+      "test_range": "التحكم في الحلقات",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة break وcontinue",
+        "كتابة مثال صحيح على التحكم في الحلقات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610014001": {
+          "question": "اطبع الأعداد من 1 إلى 5 باستخدام for.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  console.log(i);\n}"
+        },
+        "610014002": {
+          "question": "اطبع الأعداد الزوجية من 2 إلى 10.",
+          "type": "description",
+          "answer": "for (let i = 2; i <= 10; i += 2) {\n  console.log(i);\n}"
+        },
+        "610014003": {
+          "question": "احسب مجموع الأعداد من 1 إلى 10.",
+          "type": "description",
+          "answer": "let sum = 0;\nfor (let i = 1; i <= 10; i++) {\n  sum += i;\n}\nconsole.log(sum);"
+        },
+        "610014004": {
+          "question": "استخدم while لطباعة 3 ثم 2 ثم 1.",
+          "type": "description",
+          "answer": "let i = 3;\nwhile (i >= 1) {\n  console.log(i);\n  i--;\n}"
+        },
+        "610014005": {
+          "question": "استخدم break لإيقاف الحلقة عند 4.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 6; i++) {\n  if (i === 4) break;\n  console.log(i);\n}"
+        },
+        "610014006": {
+          "question": "استخدم continue لتخطي العدد 3.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  if (i === 3) continue;\n  console.log(i);\n}"
+        }
+      }
+    },
+    "610015": {
+      "description": "الدرس 15: المراجعة الثانية. يتدرب الطالب على الشروط والحلقات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610015,
+      "name": "المستوى 15: المراجعة الثانية",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 15,
+      "test_range": "الشروط والحلقات",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة المراجعة الثانية",
+        "كتابة مثال صحيح على الشروط والحلقات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610015001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 15: المراجعة الثانية. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 15: المراجعة الثانية\");"
+        },
+        "610015002": {
+          "question": "أنشئ مثالًا عمليًا على الشروط والحلقات باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 15;\nconsole.log(value);"
+        },
+        "610015003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس المراجعة الثانية باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 15 + 2;\nconsole.log(number);"
+        },
+        "610015004": {
+          "question": "أنشئ دالة باسم practice15 تطبق فكرة الشروط والحلقات وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice15(value) {\n  return value;\n}\nconsole.log(practice15(15));"
+        },
+        "610015005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس المراجعة الثانية: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"المراجعة الثانية\";\nconsole.log(result);"
+        },
+        "610015006": {
+          "question": "اختبار المستوى 15: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 15;\nconst lesson = \"المراجعة الثانية\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610016": {
+      "description": "الدرس 16: الدوال الأساسية. يتدرب الطالب على تعريف الدالة واستدعاؤها من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610016,
+      "name": "المستوى 16: الدوال الأساسية",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 16,
+      "test_range": "تعريف الدالة واستدعاؤها",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الدوال الأساسية",
+        "كتابة مثال صحيح على تعريف الدالة واستدعاؤها",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610016001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610016002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610016003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610016004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610016005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610016006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610017": {
+      "description": "الدرس 17: معاملات الدوال. يتدرب الطالب على تمرير القيم إلى الدالة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610017,
+      "name": "المستوى 17: معاملات الدوال",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 17,
+      "test_range": "تمرير القيم إلى الدالة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة معاملات الدوال",
+        "كتابة مثال صحيح على تمرير القيم إلى الدالة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610017001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610017002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610017003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610017004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610017005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610017006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610018": {
+      "description": "الدرس 18: return. يتدرب الطالب على إرجاع نتيجة من الدالة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610018,
+      "name": "المستوى 18: return",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 18,
+      "test_range": "إرجاع نتيجة من الدالة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة return",
+        "كتابة مثال صحيح على إرجاع نتيجة من الدالة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610018001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610018002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610018003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610018004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610018005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610018006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610019": {
+      "description": "الدرس 19: النطاق المحلي. يتدرب الطالب على المتغيرات داخل الدوال من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610019,
+      "name": "المستوى 19: النطاق المحلي",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 19,
+      "test_range": "المتغيرات داخل الدوال",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة النطاق المحلي",
+        "كتابة مثال صحيح على المتغيرات داخل الدوال",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610019001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610019002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610019003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610019004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610019005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610019006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610020": {
+      "description": "الدرس 20: مراجعة الدوال. يتدرب الطالب على تطبيقات على الدوال من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610020,
+      "name": "المستوى 20: مراجعة الدوال",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 20,
+      "test_range": "تطبيقات على الدوال",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة مراجعة الدوال",
+        "كتابة مثال صحيح على تطبيقات على الدوال",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610020001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610020002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610020003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610020004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610020005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610020006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610021": {
+      "description": "الدرس 21: المصفوفات. يتدرب الطالب على إنشاء المصفوفة والفهرس من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610021,
+      "name": "المستوى 21: المصفوفات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 21,
+      "test_range": "إنشاء المصفوفة والفهرس",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة المصفوفات",
+        "كتابة مثال صحيح على إنشاء المصفوفة والفهرس",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610021001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610021002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610021003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610021004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610021005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610021006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610022": {
+      "description": "الدرس 22: طول المصفوفة. يتدرب الطالب على length والمرور على العناصر من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610022,
+      "name": "المستوى 22: طول المصفوفة",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 22,
+      "test_range": "length والمرور على العناصر",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة طول المصفوفة",
+        "كتابة مثال صحيح على length والمرور على العناصر",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610022001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610022002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610022003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610022004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610022005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610022006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610023": {
+      "description": "الدرس 23: إضافة وحذف العناصر. يتدرب الطالب على push وpop وshift وunshift من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610023,
+      "name": "المستوى 23: إضافة وحذف العناصر",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 23,
+      "test_range": "push وpop وshift وunshift",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة إضافة وحذف العناصر",
+        "كتابة مثال صحيح على push وpop وshift وunshift",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610023001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610023002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610023003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610023004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610023005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610023006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610024": {
+      "description": "الدرس 24: التكرار على المصفوفات. يتدرب الطالب على for وfor...of من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610024,
+      "name": "المستوى 24: التكرار على المصفوفات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 24,
+      "test_range": "for وfor...of",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة التكرار على المصفوفات",
+        "كتابة مثال صحيح على for وfor...of",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610024001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610024002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610024003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610024004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610024005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610024006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610025": {
+      "description": "الدرس 25: مراجعة المصفوفات. يتدرب الطالب على دمج المصفوفات مع الشروط من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610025,
+      "name": "المستوى 25: مراجعة المصفوفات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 25,
+      "test_range": "دمج المصفوفات مع الشروط",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة مراجعة المصفوفات",
+        "كتابة مثال صحيح على دمج المصفوفات مع الشروط",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610025001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610025002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610025003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610025004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610025005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610025006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610026": {
+      "description": "الدرس 26: النصوص المتقدمة. يتدرب الطالب على length وtoUpperCase وtoLowerCase من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610026,
+      "name": "المستوى 26: النصوص المتقدمة",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 26,
+      "test_range": "length وtoUpperCase وtoLowerCase",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة النصوص المتقدمة",
+        "كتابة مثال صحيح على length وtoUpperCase وtoLowerCase",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610026001": {
+          "question": "اطبع عدد أحرف كلمة JavaScript.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".length);"
+        },
+        "610026002": {
+          "question": "اطبع النص بحروف صغيرة.",
+          "type": "description",
+          "answer": "console.log(\"HELLO\".toLowerCase());"
+        },
+        "610026003": {
+          "question": "استخرج أول ثلاثة أحرف من النص.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".slice(0, 3));"
+        },
+        "610026004": {
+          "question": "تحقق من احتواء النص على كلمة script.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".toLowerCase().includes(\"script\"));"
+        },
+        "610026005": {
+          "question": "استبدل كلمة old بكلمة new.",
+          "type": "description",
+          "answer": "console.log(\"old code\".replace(\"old\", \"new\"));"
+        },
+        "610026006": {
+          "question": "اقسم النص إلى كلمات باستخدام split.",
+          "type": "description",
+          "answer": "console.log(\"learn JavaScript\".split(\" \"));"
+        }
+      }
+    },
+    "610027": {
+      "description": "الدرس 27: أجزاء النص. يتدرب الطالب على slice وsubstring وincludes من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610027,
+      "name": "المستوى 27: أجزاء النص",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 27,
+      "test_range": "slice وsubstring وincludes",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة أجزاء النص",
+        "كتابة مثال صحيح على slice وsubstring وincludes",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610027001": {
+          "question": "اطبع عدد أحرف كلمة JavaScript.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".length);"
+        },
+        "610027002": {
+          "question": "اطبع النص بحروف صغيرة.",
+          "type": "description",
+          "answer": "console.log(\"HELLO\".toLowerCase());"
+        },
+        "610027003": {
+          "question": "استخرج أول ثلاثة أحرف من النص.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".slice(0, 3));"
+        },
+        "610027004": {
+          "question": "تحقق من احتواء النص على كلمة script.",
+          "type": "description",
+          "answer": "console.log(\"JavaScript\".toLowerCase().includes(\"script\"));"
+        },
+        "610027005": {
+          "question": "استبدل كلمة old بكلمة new.",
+          "type": "description",
+          "answer": "console.log(\"old code\".replace(\"old\", \"new\"));"
+        },
+        "610027006": {
+          "question": "اقسم النص إلى كلمات باستخدام split.",
+          "type": "description",
+          "answer": "console.log(\"learn JavaScript\".split(\" \"));"
+        }
+      }
+    },
+    "610028": {
+      "description": "الدرس 28: الكائنات. يتدرب الطالب على الخصائص والقيم من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610028,
+      "name": "المستوى 28: الكائنات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 28,
+      "test_range": "الخصائص والقيم",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الكائنات",
+        "كتابة مثال صحيح على الخصائص والقيم",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610028001": {
+          "question": "أنشئ كائن student واطبع اسمه.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 90 };\nconsole.log(student.name);"
+        },
+        "610028002": {
+          "question": "غيّر قيمة grade في الكائن.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 70 };\nstudent.grade = 90;\nconsole.log(student.grade);"
+        },
+        "610028003": {
+          "question": "أضف خاصية passed إلى الكائن.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 90 };\nstudent.passed = true;\nconsole.log(student);"
+        },
+        "610028004": {
+          "question": "استخدم template literal لطباعة بطاقة طالب.",
+          "type": "description",
+          "answer": "let student = { name: \"Salma\", grade: 95 };\nconsole.log(`${student.name}: ${student.grade}`);"
+        },
+        "610028005": {
+          "question": "أنشئ مصفوفة من كائنين واطبع اسم الثاني.",
+          "type": "description",
+          "answer": "let students = [{name: \"Ali\"}, {name: \"Mona\"}];\nconsole.log(students[1].name);"
+        },
+        "610028006": {
+          "question": "تحقق من درجة كائن باستخدام if.",
+          "type": "description",
+          "answer": "let student = { grade: 85 };\nif (student.grade >= 50) console.log(\"Pass\");"
+        }
+      }
+    },
+    "610029": {
+      "description": "الدرس 29: المصفوفات والكائنات. يتدرب الطالب على بيانات متعددة منظمة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610029,
+      "name": "المستوى 29: المصفوفات والكائنات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 29,
+      "test_range": "بيانات متعددة منظمة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة المصفوفات والكائنات",
+        "كتابة مثال صحيح على بيانات متعددة منظمة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610029001": {
+          "question": "أنشئ مصفوفة fruits واطبع أول عنصر.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nconsole.log(fruits[0]);"
+        },
+        "610029002": {
+          "question": "اطبع طول المصفوفة numbers.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30, 40];\nconsole.log(numbers.length);"
+        },
+        "610029003": {
+          "question": "أضف 50 إلى نهاية المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(50);\nconsole.log(numbers);"
+        },
+        "610029004": {
+          "question": "احذف آخر عنصر باستخدام pop.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.pop();\nconsole.log(numbers);"
+        },
+        "610029005": {
+          "question": "اطبع كل عنصر باستخدام for...of.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nfor (const color of colors) {\n  console.log(color);\n}"
+        },
+        "610029006": {
+          "question": "اطبع الأعداد الأكبر من 50 من المصفوفة.",
+          "type": "description",
+          "answer": "let marks = [45, 70, 82, 30];\nfor (const mark of marks) {\n  if (mark > 50) console.log(mark);\n}"
+        }
+      }
+    },
+    "610030": {
+      "description": "الدرس 30: مراجعة شاملة JavaScript. يتدرب الطالب على تطبيقات متكاملة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610030,
+      "name": "المستوى 30: مراجعة شاملة JavaScript",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 30,
+      "test_range": "تطبيقات متكاملة",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة مراجعة شاملة JavaScript",
+        "كتابة مثال صحيح على تطبيقات متكاملة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610030001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 30: مراجعة شاملة JavaScript. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 30: مراجعة شاملة JavaScript\");"
+        },
+        "610030002": {
+          "question": "أنشئ مثالًا عمليًا على تطبيقات متكاملة باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 30;\nconsole.log(value);"
+        },
+        "610030003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس مراجعة شاملة JavaScript باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 30 + 2;\nconsole.log(number);"
+        },
+        "610030004": {
+          "question": "أنشئ دالة باسم practice30 تطبق فكرة تطبيقات متكاملة وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice30(value) {\n  return value;\n}\nconsole.log(practice30(30));"
+        },
+        "610030005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس مراجعة شاملة JavaScript: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"مراجعة شاملة JavaScript\";\nconsole.log(result);"
+        },
+        "610030006": {
+          "question": "اختبار المستوى 30: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 30;\nconst lesson = \"مراجعة شاملة JavaScript\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610031": {
+      "description": "الدرس 31: الدوال مع المصفوفات. يتدرب الطالب على تمرير المصفوفة للدالة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610031,
+      "name": "المستوى 31: الدوال مع المصفوفات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 31,
+      "test_range": "تمرير المصفوفة للدالة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الدوال مع المصفوفات",
+        "كتابة مثال صحيح على تمرير المصفوفة للدالة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610031001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610031002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610031003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610031004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610031005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610031006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610032": {
+      "description": "الدرس 32: الدوال السهمية. يتدرب الطالب على arrow functions من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610032,
+      "name": "المستوى 32: الدوال السهمية",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 32,
+      "test_range": "arrow functions",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة الدوال السهمية",
+        "كتابة مثال صحيح على arrow functions",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610032001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610032002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610032003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610032004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610032005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610032006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610033": {
+      "description": "الدرس 33: map. يتدرب الطالب على تحويل عناصر المصفوفة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610033,
+      "name": "المستوى 33: map",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 33,
+      "test_range": "تحويل عناصر المصفوفة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة map",
+        "كتابة مثال صحيح على تحويل عناصر المصفوفة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610033001": {
+          "question": "ضاعف كل عناصر المصفوفة باستخدام map.",
+          "type": "description",
+          "answer": "let numbers = [1, 2, 3];\nlet doubled = numbers.map(number => number * 2);\nconsole.log(doubled);"
+        },
+        "610033002": {
+          "question": "حوّل الكلمات إلى أطوالها.",
+          "type": "description",
+          "answer": "let words = [\"cat\", \"school\"];\nconsole.log(words.map(word => word.length));"
+        },
+        "610033003": {
+          "question": "أضف 1 إلى كل درجة.",
+          "type": "description",
+          "answer": "let marks = [4, 5, 6];\nconsole.log(marks.map(mark => mark + 1));"
+        },
+        "610033004": {
+          "question": "حوّل الأسعار إلى أسعار بعد الضريبة.",
+          "type": "description",
+          "answer": "let prices = [10, 20];\nconsole.log(prices.map(price => price * 1.14));"
+        },
+        "610033005": {
+          "question": "استخدم map على مصفوفة أسماء.",
+          "type": "description",
+          "answer": "let names = [\"ali\", \"mona\"];\nconsole.log(names.map(name => name.toUpperCase()));"
+        },
+        "610033006": {
+          "question": "اكتب دالة map تعيد مربعات الأعداد.",
+          "type": "description",
+          "answer": "function squares(numbers) { return numbers.map(number => number * number); }\nconsole.log(squares([2, 3]));"
+        }
+      }
+    },
+    "610034": {
+      "description": "الدرس 34: filter. يتدرب الطالب على اختيار عناصر حسب شرط من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610034,
+      "name": "المستوى 34: filter",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 34,
+      "test_range": "اختيار عناصر حسب شرط",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة filter",
+        "كتابة مثال صحيح على اختيار عناصر حسب شرط",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610034001": {
+          "question": "استخرج الأعداد الزوجية باستخدام filter.",
+          "type": "description",
+          "answer": "let numbers = [1, 2, 3, 4, 5, 6];\nconsole.log(numbers.filter(number => number % 2 === 0));"
+        },
+        "610034002": {
+          "question": "استخرج الدرجات الناجحة.",
+          "type": "description",
+          "answer": "let marks = [40, 55, 80, 30];\nconsole.log(marks.filter(mark => mark >= 50));"
+        },
+        "610034003": {
+          "question": "استخرج الكلمات الأطول من 4 أحرف.",
+          "type": "description",
+          "answer": "let words = [\"cat\", \"school\", \"book\"];\nconsole.log(words.filter(word => word.length > 4));"
+        },
+        "610034004": {
+          "question": "استخرج المنتجات التي سعرها أقل من 100.",
+          "type": "description",
+          "answer": "let products = [{price: 50}, {price: 120}];\nconsole.log(products.filter(product => product.price < 100));"
+        },
+        "610034005": {
+          "question": "تحقق من نتيجة filter واطبعها.",
+          "type": "description",
+          "answer": "let values = [3, 6, 9];\nlet result = values.filter(value => value > 5);\nconsole.log(result);"
+        },
+        "610034006": {
+          "question": "اكتب دالة تعيد العناصر الموجبة فقط.",
+          "type": "description",
+          "answer": "function positives(numbers) { return numbers.filter(number => number > 0); }\nconsole.log(positives([-1, 2, 0, 4]));"
+        }
+      }
+    },
+    "610035": {
+      "description": "الدرس 35: find وincludes. يتدرب الطالب على البحث داخل البيانات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610035,
+      "name": "المستوى 35: find وincludes",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 35,
+      "test_range": "البحث داخل البيانات",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة find وincludes",
+        "كتابة مثال صحيح على البحث داخل البيانات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610035001": {
+          "question": "تحقق هل المصفوفة تحتوي على 5.",
+          "type": "description",
+          "answer": "console.log([1, 3, 5].includes(5));"
+        },
+        "610035002": {
+          "question": "أوجد أول عدد أكبر من 10 باستخدام find.",
+          "type": "description",
+          "answer": "console.log([4, 12, 7].find(number => number > 10));"
+        },
+        "610035003": {
+          "question": "أوجد فهرس أول عدد زوجي.",
+          "type": "description",
+          "answer": "console.log([3, 7, 8, 10].findIndex(number => number % 2 === 0));"
+        },
+        "610035004": {
+          "question": "تحقق من وجود اسم Ali.",
+          "type": "description",
+          "answer": "console.log([\"Mona\", \"Ali\"].includes(\"Ali\"));"
+        },
+        "610035005": {
+          "question": "أوجد الطالب الناجح من مصفوفة كائنات.",
+          "type": "description",
+          "answer": "let students = [{name: \"A\", grade: 40}, {name: \"B\", grade: 80}];\nconsole.log(students.find(student => student.grade >= 50));"
+        },
+        "610035006": {
+          "question": "اطبع -1 إذا لم تجد الرقم 9.",
+          "type": "description",
+          "answer": "console.log([1, 2, 3].indexOf(9));"
+        }
+      }
+    },
+    "610036": {
+      "description": "الدرس 36: sort. يتدرب الطالب على ترتيب البيانات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610036,
+      "name": "المستوى 36: sort",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 36,
+      "test_range": "ترتيب البيانات",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة sort",
+        "كتابة مثال صحيح على ترتيب البيانات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610036001": {
+          "question": "رتب الأعداد تصاعديًا بطريقة صحيحة.",
+          "type": "description",
+          "answer": "let numbers = [10, 2, 5];\nnumbers.sort((a, b) => a - b);\nconsole.log(numbers);"
+        },
+        "610036002": {
+          "question": "رتب الأعداد تنازليًا.",
+          "type": "description",
+          "answer": "let numbers = [10, 2, 5];\nnumbers.sort((a, b) => b - a);\nconsole.log(numbers);"
+        },
+        "610036003": {
+          "question": "رتب الكلمات أبجديًا.",
+          "type": "description",
+          "answer": "let words = [\"banana\", \"apple\", \"orange\"];\nwords.sort();\nconsole.log(words);"
+        },
+        "610036004": {
+          "question": "استخرج أكبر قيمة بعد الترتيب.",
+          "type": "description",
+          "answer": "let numbers = [7, 2, 9];\nnumbers.sort((a, b) => b - a);\nconsole.log(numbers[0]);"
+        },
+        "610036005": {
+          "question": "رتب الطلاب حسب الدرجة.",
+          "type": "description",
+          "answer": "let students = [{grade: 60}, {grade: 90}];\nstudents.sort((a, b) => b.grade - a.grade);\nconsole.log(students);"
+        },
+        "610036006": {
+          "question": "اعكس ترتيب مصفوفة بعد إنشائها.",
+          "type": "description",
+          "answer": "let values = [1, 2, 3];\nconsole.log(values.reverse());"
+        }
+      }
+    },
+    "610037": {
+      "description": "الدرس 37: مراجعة الدوال والمصفوفات. يتدرب الطالب على حل مسائل مركبة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610037,
+      "name": "المستوى 37: مراجعة الدوال والمصفوفات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 37,
+      "test_range": "حل مسائل مركبة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مراجعة الدوال والمصفوفات",
+        "كتابة مثال صحيح على حل مسائل مركبة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610037001": {
+          "question": "اكتب دالة greet تطبع Hello ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello\");\n}\ngreet();"
+        },
+        "610037002": {
+          "question": "اكتب دالة add تعيد مجموع رقمين.",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(4, 6));"
+        },
+        "610037003": {
+          "question": "اكتب دالة square تعيد مربع العدد.",
+          "type": "description",
+          "answer": "const square = number => number * number;\nconsole.log(square(5));"
+        },
+        "610037004": {
+          "question": "اكتب دالة isEven تعيد true للعدد الزوجي.",
+          "type": "description",
+          "answer": "function isEven(number) {\n  return number % 2 === 0;\n}\nconsole.log(isEven(8));"
+        },
+        "610037005": {
+          "question": "عرّف متغيرًا محليًا داخل دالة واطبعه داخلها.",
+          "type": "description",
+          "answer": "function show() {\n  let message = \"Local\";\n  console.log(message);\n}\nshow();"
+        },
+        "610037006": {
+          "question": "اكتب دالة calculate تستقبل ثلاثة أرقام وتعيد مجموعها.",
+          "type": "description",
+          "answer": "function calculate(a, b, c) {\n  return a + b + c;\n}\nconsole.log(calculate(1, 2, 3));"
+        }
+      }
+    },
+    "610038": {
+      "description": "الدرس 38: DOM مقدمة. يتدرب الطالب على الوصول إلى عناصر صفحة HTML من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610038,
+      "name": "المستوى 38: DOM مقدمة",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 38,
+      "test_range": "الوصول إلى عناصر صفحة HTML",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة DOM مقدمة",
+        "كتابة مثال صحيح على الوصول إلى عناصر صفحة HTML",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610038001": {
+          "question": "اطبع Hello JavaScript في وحدة التحكم.",
+          "type": "description",
+          "answer": "console.log(\"Hello JavaScript\");"
+        },
+        "610038002": {
+          "question": "اكتب تعليقًا ثم اطبع كلمة Start.",
+          "type": "description",
+          "answer": "// بداية البرنامج\nconsole.log(\"Start\");"
+        },
+        "610038003": {
+          "question": "اطبع الرقم 42.",
+          "type": "description",
+          "answer": "console.log(42);"
+        },
+        "610038004": {
+          "question": "اطبع سطرين: First ثم Second.",
+          "type": "description",
+          "answer": "console.log(\"First\");\nconsole.log(\"Second\");"
+        },
+        "610038005": {
+          "question": "اكتب أمر الطباعة الصحيح للنص Coding.",
+          "type": "description",
+          "answer": "console.log(\"Coding\");"
+        },
+        "610038006": {
+          "question": "اطبع رسالة تحتوي على اسم المستوى ورقمه.",
+          "type": "description",
+          "answer": "console.log(\"Level 1\");"
+        }
+      }
+    },
+    "610039": {
+      "description": "الدرس 39: اختيار العناصر. يتدرب الطالب على getElementById وquerySelector من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610039,
+      "name": "المستوى 39: اختيار العناصر",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 39,
+      "test_range": "getElementById وquerySelector",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة اختيار العناصر",
+        "كتابة مثال صحيح على getElementById وquerySelector",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610039001": {
+          "question": "اختر عنصرًا له id يساوي title وغيّر نصه.",
+          "type": "description",
+          "answer": "const title = document.getElementById(\"title\");\ntitle.textContent = \"Welcome\";"
+        },
+        "610039002": {
+          "question": "اختر أول عنصر button باستخدام querySelector.",
+          "type": "description",
+          "answer": "const button = document.querySelector(\"button\");\nconsole.log(button);"
+        },
+        "610039003": {
+          "question": "غيّر لون عنصر له id box إلى blue.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").style.color = \"blue\";"
+        },
+        "610039004": {
+          "question": "أضف class باسم active إلى عنصر.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").classList.add(\"active\");"
+        },
+        "610039005": {
+          "question": "غيّر محتوى عنصر إلى نص آمن باستخدام textContent.",
+          "type": "description",
+          "answer": "document.querySelector(\"p\").textContent = \"Updated\";"
+        },
+        "610039006": {
+          "question": "أنشئ عنصر فقرة جديدًا وأضفه للصفحة.",
+          "type": "description",
+          "answer": "const p = document.createElement(\"p\");\np.textContent = \"New paragraph\";\ndocument.body.appendChild(p);"
+        }
+      }
+    },
+    "610040": {
+      "description": "الدرس 40: تغيير المحتوى. يتدرب الطالب على textContent وinnerHTML من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610040,
+      "name": "المستوى 40: تغيير المحتوى",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 40,
+      "test_range": "textContent وinnerHTML",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة تغيير المحتوى",
+        "كتابة مثال صحيح على textContent وinnerHTML",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610040001": {
+          "question": "اختر عنصرًا له id يساوي title وغيّر نصه.",
+          "type": "description",
+          "answer": "const title = document.getElementById(\"title\");\ntitle.textContent = \"Welcome\";"
+        },
+        "610040002": {
+          "question": "اختر أول عنصر button باستخدام querySelector.",
+          "type": "description",
+          "answer": "const button = document.querySelector(\"button\");\nconsole.log(button);"
+        },
+        "610040003": {
+          "question": "غيّر لون عنصر له id box إلى blue.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").style.color = \"blue\";"
+        },
+        "610040004": {
+          "question": "أضف class باسم active إلى عنصر.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").classList.add(\"active\");"
+        },
+        "610040005": {
+          "question": "غيّر محتوى عنصر إلى نص آمن باستخدام textContent.",
+          "type": "description",
+          "answer": "document.querySelector(\"p\").textContent = \"Updated\";"
+        },
+        "610040006": {
+          "question": "أنشئ عنصر فقرة جديدًا وأضفه للصفحة.",
+          "type": "description",
+          "answer": "const p = document.createElement(\"p\");\np.textContent = \"New paragraph\";\ndocument.body.appendChild(p);"
+        }
+      }
+    },
+    "610041": {
+      "description": "الدرس 41: تغيير النمط. يتدرب الطالب على style وclassList من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610041,
+      "name": "المستوى 41: تغيير النمط",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 41,
+      "test_range": "style وclassList",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة تغيير النمط",
+        "كتابة مثال صحيح على style وclassList",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610041001": {
+          "question": "اختر عنصرًا له id يساوي title وغيّر نصه.",
+          "type": "description",
+          "answer": "const title = document.getElementById(\"title\");\ntitle.textContent = \"Welcome\";"
+        },
+        "610041002": {
+          "question": "اختر أول عنصر button باستخدام querySelector.",
+          "type": "description",
+          "answer": "const button = document.querySelector(\"button\");\nconsole.log(button);"
+        },
+        "610041003": {
+          "question": "غيّر لون عنصر له id box إلى blue.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").style.color = \"blue\";"
+        },
+        "610041004": {
+          "question": "أضف class باسم active إلى عنصر.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").classList.add(\"active\");"
+        },
+        "610041005": {
+          "question": "غيّر محتوى عنصر إلى نص آمن باستخدام textContent.",
+          "type": "description",
+          "answer": "document.querySelector(\"p\").textContent = \"Updated\";"
+        },
+        "610041006": {
+          "question": "أنشئ عنصر فقرة جديدًا وأضفه للصفحة.",
+          "type": "description",
+          "answer": "const p = document.createElement(\"p\");\np.textContent = \"New paragraph\";\ndocument.body.appendChild(p);"
+        }
+      }
+    },
+    "610042": {
+      "description": "الدرس 42: الأحداث. يتدرب الطالب على click وaddEventListener من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610042,
+      "name": "المستوى 42: الأحداث",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 42,
+      "test_range": "click وaddEventListener",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة الأحداث",
+        "كتابة مثال صحيح على click وaddEventListener",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610042001": {
+          "question": "نفّذ رسالة عند الضغط على زر button.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(\"Clicked\");\n});"
+        },
+        "610042002": {
+          "question": "اقرأ قيمة input واطبعها عند الضغط.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(document.querySelector(\"input\").value);\n});"
+        },
+        "610042003": {
+          "question": "أنشئ عدادًا يزيد عند الضغط على الزر.",
+          "type": "description",
+          "answer": "let count = 0;\ndocument.querySelector(\"button\").addEventListener(\"click\", () => {\n  count++;\n  document.querySelector(\"#count\").textContent = count;\n});"
+        },
+        "610042004": {
+          "question": "امنع إرسال نموذج إذا كان input فارغًا.",
+          "type": "description",
+          "answer": "document.querySelector(\"form\").addEventListener(\"submit\", event => {\n  if (document.querySelector(\"input\").value === \"\") event.preventDefault();\n});"
+        },
+        "610042005": {
+          "question": "اعرض رسالة نجاح داخل عنصر message.",
+          "type": "description",
+          "answer": "document.querySelector(\"#message\").textContent = \"Success\";"
+        },
+        "610042006": {
+          "question": "بدّل class عند الضغط على زر.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  document.body.classList.toggle(\"dark\");\n});"
+        }
+      }
+    },
+    "610043": {
+      "description": "الدرس 43: مراجعة DOM. يتدرب الطالب على صفحة تفاعلية بسيطة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610043,
+      "name": "المستوى 43: مراجعة DOM",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 43,
+      "test_range": "صفحة تفاعلية بسيطة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مراجعة DOM",
+        "كتابة مثال صحيح على صفحة تفاعلية بسيطة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610043001": {
+          "question": "اختر عنصرًا له id يساوي title وغيّر نصه.",
+          "type": "description",
+          "answer": "const title = document.getElementById(\"title\");\ntitle.textContent = \"Welcome\";"
+        },
+        "610043002": {
+          "question": "اختر أول عنصر button باستخدام querySelector.",
+          "type": "description",
+          "answer": "const button = document.querySelector(\"button\");\nconsole.log(button);"
+        },
+        "610043003": {
+          "question": "غيّر لون عنصر له id box إلى blue.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").style.color = \"blue\";"
+        },
+        "610043004": {
+          "question": "أضف class باسم active إلى عنصر.",
+          "type": "description",
+          "answer": "document.getElementById(\"box\").classList.add(\"active\");"
+        },
+        "610043005": {
+          "question": "غيّر محتوى عنصر إلى نص آمن باستخدام textContent.",
+          "type": "description",
+          "answer": "document.querySelector(\"p\").textContent = \"Updated\";"
+        },
+        "610043006": {
+          "question": "أنشئ عنصر فقرة جديدًا وأضفه للصفحة.",
+          "type": "description",
+          "answer": "const p = document.createElement(\"p\");\np.textContent = \"New paragraph\";\ndocument.body.appendChild(p);"
+        }
+      }
+    },
+    "610044": {
+      "description": "الدرس 44: HTML وCSS وJavaScript. يتدرب الطالب على أدوار التقنيات الثلاث من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610044,
+      "name": "المستوى 44: HTML وCSS وJavaScript",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 44,
+      "test_range": "أدوار التقنيات الثلاث",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة HTML وCSS وJavaScript",
+        "كتابة مثال صحيح على أدوار التقنيات الثلاث",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610044001": {
+          "question": "اكتب تعليقًا يوضح أن HTML يبني الهيكل.",
+          "type": "description",
+          "answer": "// HTML يبني هيكل الصفحة"
+        },
+        "610044002": {
+          "question": "اكتب تعليقًا يوضح أن CSS ينسق المظهر.",
+          "type": "description",
+          "answer": "// CSS ينسق مظهر الصفحة"
+        },
+        "610044003": {
+          "question": "اكتب تعليقًا يوضح أن JavaScript يضيف التفاعل.",
+          "type": "description",
+          "answer": "// JavaScript يضيف السلوك والتفاعل"
+        },
+        "610044004": {
+          "question": "غيّر لون عنوان باستخدام JavaScript.",
+          "type": "description",
+          "answer": "document.querySelector(\"h1\").style.color = \"green\";"
+        },
+        "610044005": {
+          "question": "غيّر نص زر باستخدام JavaScript.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").textContent = \"ابدأ\";"
+        },
+        "610044006": {
+          "question": "أضف class للتنسيق إلى بطاقة.",
+          "type": "description",
+          "answer": "document.querySelector(\".card\").classList.add(\"highlight\");"
+        }
+      }
+    },
+    "610045": {
+      "description": "الدرس 45: إنشاء نموذج تفاعلي. يتدرب الطالب على input وbutton وقراءة القيمة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610045,
+      "name": "المستوى 45: إنشاء نموذج تفاعلي",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 45,
+      "test_range": "input وbutton وقراءة القيمة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة إنشاء نموذج تفاعلي",
+        "كتابة مثال صحيح على input وbutton وقراءة القيمة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610045001": {
+          "question": "نفّذ رسالة عند الضغط على زر button.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(\"Clicked\");\n});"
+        },
+        "610045002": {
+          "question": "اقرأ قيمة input واطبعها عند الضغط.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(document.querySelector(\"input\").value);\n});"
+        },
+        "610045003": {
+          "question": "أنشئ عدادًا يزيد عند الضغط على الزر.",
+          "type": "description",
+          "answer": "let count = 0;\ndocument.querySelector(\"button\").addEventListener(\"click\", () => {\n  count++;\n  document.querySelector(\"#count\").textContent = count;\n});"
+        },
+        "610045004": {
+          "question": "امنع إرسال نموذج إذا كان input فارغًا.",
+          "type": "description",
+          "answer": "document.querySelector(\"form\").addEventListener(\"submit\", event => {\n  if (document.querySelector(\"input\").value === \"\") event.preventDefault();\n});"
+        },
+        "610045005": {
+          "question": "اعرض رسالة نجاح داخل عنصر message.",
+          "type": "description",
+          "answer": "document.querySelector(\"#message\").textContent = \"Success\";"
+        },
+        "610045006": {
+          "question": "بدّل class عند الضغط على زر.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  document.body.classList.toggle(\"dark\");\n});"
+        }
+      }
+    },
+    "610046": {
+      "description": "الدرس 46: التحقق من الإدخال. يتدرب الطالب على الشروط ورسائل الخطأ من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610046,
+      "name": "المستوى 46: التحقق من الإدخال",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 46,
+      "test_range": "الشروط ورسائل الخطأ",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة التحقق من الإدخال",
+        "كتابة مثال صحيح على الشروط ورسائل الخطأ",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610046001": {
+          "question": "نفّذ رسالة عند الضغط على زر button.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(\"Clicked\");\n});"
+        },
+        "610046002": {
+          "question": "اقرأ قيمة input واطبعها عند الضغط.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(document.querySelector(\"input\").value);\n});"
+        },
+        "610046003": {
+          "question": "أنشئ عدادًا يزيد عند الضغط على الزر.",
+          "type": "description",
+          "answer": "let count = 0;\ndocument.querySelector(\"button\").addEventListener(\"click\", () => {\n  count++;\n  document.querySelector(\"#count\").textContent = count;\n});"
+        },
+        "610046004": {
+          "question": "امنع إرسال نموذج إذا كان input فارغًا.",
+          "type": "description",
+          "answer": "document.querySelector(\"form\").addEventListener(\"submit\", event => {\n  if (document.querySelector(\"input\").value === \"\") event.preventDefault();\n});"
+        },
+        "610046005": {
+          "question": "اعرض رسالة نجاح داخل عنصر message.",
+          "type": "description",
+          "answer": "document.querySelector(\"#message\").textContent = \"Success\";"
+        },
+        "610046006": {
+          "question": "بدّل class عند الضغط على زر.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  document.body.classList.toggle(\"dark\");\n});"
+        }
+      }
+    },
+    "610047": {
+      "description": "الدرس 47: عداد تفاعلي. يتدرب الطالب على الأحداث والمتغيرات من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610047,
+      "name": "المستوى 47: عداد تفاعلي",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 47,
+      "test_range": "الأحداث والمتغيرات",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة عداد تفاعلي",
+        "كتابة مثال صحيح على الأحداث والمتغيرات",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610047001": {
+          "question": "نفّذ رسالة عند الضغط على زر button.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(\"Clicked\");\n});"
+        },
+        "610047002": {
+          "question": "اقرأ قيمة input واطبعها عند الضغط.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  console.log(document.querySelector(\"input\").value);\n});"
+        },
+        "610047003": {
+          "question": "أنشئ عدادًا يزيد عند الضغط على الزر.",
+          "type": "description",
+          "answer": "let count = 0;\ndocument.querySelector(\"button\").addEventListener(\"click\", () => {\n  count++;\n  document.querySelector(\"#count\").textContent = count;\n});"
+        },
+        "610047004": {
+          "question": "امنع إرسال نموذج إذا كان input فارغًا.",
+          "type": "description",
+          "answer": "document.querySelector(\"form\").addEventListener(\"submit\", event => {\n  if (document.querySelector(\"input\").value === \"\") event.preventDefault();\n});"
+        },
+        "610047005": {
+          "question": "اعرض رسالة نجاح داخل عنصر message.",
+          "type": "description",
+          "answer": "document.querySelector(\"#message\").textContent = \"Success\";"
+        },
+        "610047006": {
+          "question": "بدّل class عند الضغط على زر.",
+          "type": "description",
+          "answer": "document.querySelector(\"button\").addEventListener(\"click\", () => {\n  document.body.classList.toggle(\"dark\");\n});"
+        }
+      }
+    },
+    "610048": {
+      "description": "الدرس 48: قائمة مهام. يتدرب الطالب على المصفوفات وDOM من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610048,
+      "name": "المستوى 48: قائمة مهام",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 48,
+      "test_range": "المصفوفات وDOM",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة قائمة مهام",
+        "كتابة مثال صحيح على المصفوفات وDOM",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610048001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 48: قائمة مهام. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 48: قائمة مهام\");"
+        },
+        "610048002": {
+          "question": "أنشئ مثالًا عمليًا على المصفوفات وDOM باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 48;\nconsole.log(value);"
+        },
+        "610048003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس قائمة مهام باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 48 + 2;\nconsole.log(number);"
+        },
+        "610048004": {
+          "question": "أنشئ دالة باسم practice48 تطبق فكرة المصفوفات وDOM وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice48(value) {\n  return value;\n}\nconsole.log(practice48(48));"
+        },
+        "610048005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس قائمة مهام: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"قائمة مهام\";\nconsole.log(result);"
+        },
+        "610048006": {
+          "question": "اختبار المستوى 48: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 48;\nconst lesson = \"قائمة مهام\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610049": {
+      "description": "الدرس 49: تصفية وعرض البيانات. يتدرب الطالب على filter وDOM من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610049,
+      "name": "المستوى 49: تصفية وعرض البيانات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 49,
+      "test_range": "filter وDOM",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة تصفية وعرض البيانات",
+        "كتابة مثال صحيح على filter وDOM",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610049001": {
+          "question": "استخرج الأعداد الزوجية باستخدام filter.",
+          "type": "description",
+          "answer": "let numbers = [1, 2, 3, 4, 5, 6];\nconsole.log(numbers.filter(number => number % 2 === 0));"
+        },
+        "610049002": {
+          "question": "استخرج الدرجات الناجحة.",
+          "type": "description",
+          "answer": "let marks = [40, 55, 80, 30];\nconsole.log(marks.filter(mark => mark >= 50));"
+        },
+        "610049003": {
+          "question": "استخرج الكلمات الأطول من 4 أحرف.",
+          "type": "description",
+          "answer": "let words = [\"cat\", \"school\", \"book\"];\nconsole.log(words.filter(word => word.length > 4));"
+        },
+        "610049004": {
+          "question": "استخرج المنتجات التي سعرها أقل من 100.",
+          "type": "description",
+          "answer": "let products = [{price: 50}, {price: 120}];\nconsole.log(products.filter(product => product.price < 100));"
+        },
+        "610049005": {
+          "question": "تحقق من نتيجة filter واطبعها.",
+          "type": "description",
+          "answer": "let values = [3, 6, 9];\nlet result = values.filter(value => value > 5);\nconsole.log(result);"
+        },
+        "610049006": {
+          "question": "اكتب دالة تعيد العناصر الموجبة فقط.",
+          "type": "description",
+          "answer": "function positives(numbers) { return numbers.filter(number => number > 0); }\nconsole.log(positives([-1, 2, 0, 4]));"
+        }
+      }
+    },
+    "610050": {
+      "description": "الدرس 50: بطاقة بيانات. يتدرب الطالب على الكائنات وtemplate literals من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610050,
+      "name": "المستوى 50: بطاقة بيانات",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 50,
+      "test_range": "الكائنات وtemplate literals",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة بطاقة بيانات",
+        "كتابة مثال صحيح على الكائنات وtemplate literals",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610050001": {
+          "question": "أنشئ كائن student واطبع اسمه.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 90 };\nconsole.log(student.name);"
+        },
+        "610050002": {
+          "question": "غيّر قيمة grade في الكائن.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 70 };\nstudent.grade = 90;\nconsole.log(student.grade);"
+        },
+        "610050003": {
+          "question": "أضف خاصية passed إلى الكائن.",
+          "type": "description",
+          "answer": "let student = { name: \"Omar\", grade: 90 };\nstudent.passed = true;\nconsole.log(student);"
+        },
+        "610050004": {
+          "question": "استخدم template literal لطباعة بطاقة طالب.",
+          "type": "description",
+          "answer": "let student = { name: \"Salma\", grade: 95 };\nconsole.log(`${student.name}: ${student.grade}`);"
+        },
+        "610050005": {
+          "question": "أنشئ مصفوفة من كائنين واطبع اسم الثاني.",
+          "type": "description",
+          "answer": "let students = [{name: \"Ali\"}, {name: \"Mona\"}];\nconsole.log(students[1].name);"
+        },
+        "610050006": {
+          "question": "تحقق من درجة كائن باستخدام if.",
+          "type": "description",
+          "answer": "let student = { grade: 85 };\nif (student.grade >= 50) console.log(\"Pass\");"
+        }
+      }
+    },
+    "610051": {
+      "description": "الدرس 51: مشروع آلة حاسبة. يتدرب الطالب على الدوال والأحداث من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610051,
+      "name": "المستوى 51: مشروع آلة حاسبة",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 51,
+      "test_range": "الدوال والأحداث",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مشروع آلة حاسبة",
+        "كتابة مثال صحيح على الدوال والأحداث",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610051001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 51: مشروع آلة حاسبة. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 51: مشروع آلة حاسبة\");"
+        },
+        "610051002": {
+          "question": "أنشئ مثالًا عمليًا على الدوال والأحداث باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 51;\nconsole.log(value);"
+        },
+        "610051003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس مشروع آلة حاسبة باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 51 + 2;\nconsole.log(number);"
+        },
+        "610051004": {
+          "question": "أنشئ دالة باسم practice51 تطبق فكرة الدوال والأحداث وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice51(value) {\n  return value;\n}\nconsole.log(practice51(51));"
+        },
+        "610051005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس مشروع آلة حاسبة: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"مشروع آلة حاسبة\";\nconsole.log(result);"
+        },
+        "610051006": {
+          "question": "اختبار المستوى 51: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 51;\nconst lesson = \"مشروع آلة حاسبة\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610052": {
+      "description": "الدرس 52: مشروع اختبار قصير. يتدرب الطالب على المصفوفات والنتيجة من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610052,
+      "name": "المستوى 52: مشروع اختبار قصير",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 52,
+      "test_range": "المصفوفات والنتيجة",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مشروع اختبار قصير",
+        "كتابة مثال صحيح على المصفوفات والنتيجة",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610052001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 52: مشروع اختبار قصير. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 52: مشروع اختبار قصير\");"
+        },
+        "610052002": {
+          "question": "أنشئ مثالًا عمليًا على المصفوفات والنتيجة باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 52;\nconsole.log(value);"
+        },
+        "610052003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس مشروع اختبار قصير باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 52 + 2;\nconsole.log(number);"
+        },
+        "610052004": {
+          "question": "أنشئ دالة باسم practice52 تطبق فكرة المصفوفات والنتيجة وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice52(value) {\n  return value;\n}\nconsole.log(practice52(52));"
+        },
+        "610052005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس مشروع اختبار قصير: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"مشروع اختبار قصير\";\nconsole.log(result);"
+        },
+        "610052006": {
+          "question": "اختبار المستوى 52: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 52;\nconst lesson = \"مشروع اختبار قصير\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610053": {
+      "description": "الدرس 53: مشروع درجات الطلاب. يتدرب الطالب على map وfilter وreduce من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610053,
+      "name": "المستوى 53: مشروع درجات الطلاب",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 53,
+      "test_range": "map وfilter وreduce",
+      "test_type": "review",
+      "review_points": [
+        "فهم فكرة مشروع درجات الطلاب",
+        "كتابة مثال صحيح على map وfilter وreduce",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610053001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 53: مشروع درجات الطلاب. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 53: مشروع درجات الطلاب\");"
+        },
+        "610053002": {
+          "question": "أنشئ مثالًا عمليًا على map وfilter وreduce باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 53;\nconsole.log(value);"
+        },
+        "610053003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس مشروع درجات الطلاب باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 53 + 2;\nconsole.log(number);"
+        },
+        "610053004": {
+          "question": "أنشئ دالة باسم practice53 تطبق فكرة map وfilter وreduce وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice53(value) {\n  return value;\n}\nconsole.log(practice53(53));"
+        },
+        "610053005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس مشروع درجات الطلاب: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"مشروع درجات الطلاب\";\nconsole.log(result);"
+        },
+        "610053006": {
+          "question": "اختبار المستوى 53: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 53;\nconst lesson = \"مشروع درجات الطلاب\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    },
+    "610054": {
+      "description": "الدرس 54: مراجعة تطبيقات الويب. يتدرب الطالب على دمج JavaScript وDOM من خلال أمثلة قصيرة قابلة للتشغيل ثم يراجع الفكرة في نهاية المستوى.",
+      "id": 610054,
+      "name": "المستوى 54: مراجعة تطبيقات الويب",
+      "question_count": 6,
+      "section_id": 206,
+      "seq": 54,
+      "test_range": "دمج JavaScript وDOM",
+      "test_type": "test",
+      "review_points": [
+        "فهم فكرة مراجعة تطبيقات الويب",
+        "كتابة مثال صحيح على دمج JavaScript وDOM",
+        "اختبار الكود ومراجعة الناتج"
+      ],
+      "questions": {
+        "610054001": {
+          "question": "اكتب برنامجًا يطبق درس المستوى 54: مراجعة تطبيقات الويب. اطبع رسالة توضح بداية التدريب.",
+          "type": "description",
+          "answer": "console.log(\"Level 54: مراجعة تطبيقات الويب\");"
+        },
+        "610054002": {
+          "question": "أنشئ مثالًا عمليًا على دمج JavaScript وDOM باستخدام المتغير value، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "let value = 54;\nconsole.log(value);"
+        },
+        "610054003": {
+          "question": "اكتب كودًا يختبر فهمك لدرس مراجعة تطبيقات الويب باستخدام قيمة عددية، واطبع الناتج النهائي.",
+          "type": "description",
+          "answer": "let number = 54 + 2;\nconsole.log(number);"
+        },
+        "610054004": {
+          "question": "أنشئ دالة باسم practice54 تطبق فكرة دمج JavaScript وDOM وتعيد قيمة، ثم اطبع النتيجة.",
+          "type": "description",
+          "answer": "function practice54(value) {\n  return value;\n}\nconsole.log(practice54(54));"
+        },
+        "610054005": {
+          "question": "اكتب مراجعة تطبيقية قصيرة لدرس مراجعة تطبيقات الويب: عرّف متغيرًا باسم result واطبع قيمته.",
+          "type": "description",
+          "answer": "let result = \"مراجعة تطبيقات الويب\";\nconsole.log(result);"
+        },
+        "610054006": {
+          "question": "اختبار المستوى 54: اكتب برنامجًا منظمًا يطبع اسم الدرس ورقم المستوى.",
+          "type": "description",
+          "answer": "const level = 54;\nconst lesson = \"مراجعة تطبيقات الويب\";\nconsole.log(lesson + \" - \" + level);"
+        }
+      }
+    }
+  }
+}

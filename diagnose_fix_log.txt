@@ -1,0 +1,54 @@
+  ✅ PERFECT | 90001 | مقدمة | review | 6/6
+  ✅ PERFECT | 90002 | الحسابات والنصوص | review | 7/7
+  ✅ PERFECT | 90003 | المتغيرات | review | 6/6
+  ✅ PERFECT | 90004 | مراجعة الفهم | test | 8/8
+  ✅ PERFECT | 90005 | جملة if | review | 5/5
+  ✅ PERFECT | 90006 | جمل if - else | review | 5/5
+  ✅ PERFECT | 90007 | Else if | review | 5/5
+  ✅ PERFECT | 90008 | مراجعة الفهم | test | 7/7
+  ✅ PERFECT | 90009 | العامل المنطقي | review | 5/5
+  ✅ PERFECT | 90010 | العملية التكرارية | review | 5/5
+  ✅ PERFECT | 90011 | مراجعة الفهم | test | 8/8
+  ✅ PERFECT | 90012 | الدالة (1) | review | 6/6
+  ✅ PERFECT | 90013 | الدالة (2) | review | 6/6
+  ✅ PERFECT | 90014 | مراجعة الفهم | test | 8/8
+  ✅ PERFECT | 90015 | الأنواع | review | 5/5
+  ✅ PERFECT | 90016 | المصفوفة | review | 5/5
+  ✅ PERFECT | 90017 | مراجعة الفهم | test | 10/10
+  ✅ PERFECT | 90018 | HTML(1) | review | 8/8
+  ✅ PERFECT | 90019 | CSS(1) | review | 8/8
+  ✅ PERFECT | 90020 | مراجعة الفهم | test | 9/9
+  ✅ PERFECT | 90021 | الشروط (4) | review | 9/9
+  ✅ PERFECT | 90022 | التكرار (2) | review | 9/9
+  ✅ PERFECT | 90023 | الدوال (3) | review | 7/7
+  ✅ PERFECT | 90024 | مراجعة الفهم | test | 10/10
+  ✅ PERFECT | 90025 | التكرار (3) | review | 5/5
+  ✅ PERFECT | 90026 | المصفوفات (2) | review | 5/5
+  ✅ PERFECT | 90027 | مراجعة الفهم | test | 6/6
+  ✅ PERFECT | 90028 | for of | review | 5/5
+  ✅ PERFECT | 90029 | الشروط (5) | review | 5/5
+  ✅ PERFECT | 90030 | مراجعة الفهم | test | 6/6
+  ✅ PERFECT | 90031 | الدوال (4) | review | 5/5
+  ⚠️ completed (best=4/5) | 90032 | المخطط الانسيابي | review | 4/5
+  ✅ PERFECT | 90033 | مراجعة الفهم | test | 7/7
+  ❌ مقفول | 90034 | HTML(2) | review | 0/5
+  ❌ مقفول | 90035 | CSS(2) | review | 0/5
+  ❌ مقفول | 90036 | مراجعة الفهم | test | 0/8
+  ❌ مقفول | 90037 | جمل switch | review | 0/5
+  ❌ مقفول | 90038 | المتبقي (Modulo) | review | 0/5
+  ❌ مقفول | 90039 | مراجعة الفهم | test | 0/6
+  ❌ مقفول | 90040 | const / عدم المساواة | review | 0/5
+  ❌ مقفول | 90041 | جمل while | review | 0/5
+  ❌ مقفول | 90042 | مراجعة الفهم | test | 0/6
+  ❌ مقفول | 90043 | CSS(3) | review | 0/5
+  ❌ مقفول | 90044 | إنشاء موقع ويب | review | 0/5
+  ❌ مقفول | 90045 | مراجعة الفهم | test | 0/7
+  ❌ مقفول | 90046 | الدوال / for of / الباقي | review | 0/5
+  ❌ مقفول | 90047 | جمل switch(2) | review | 0/5
+  ❌ مقفول | 90048 | مراجعة الفهم | test | 0/7
+  ❌ مقفول | 90049 | جمل while(2) | review | 0/5
+  ❌ مقفول | 90050 | Arrays (3) | review | 0/5
+  ❌ مقفول | 90051 | مراجعة الفهم | test | 0/5
+  ❌ مقفول | 90052 | عمليات المصفوفات (1) | review | 0/6
+  ❌ مقفول | 90053 | عمليات المصفوفات (2) | review | 0/6
+  ❌ مقفول | 90054 | مراجعة الفهم | test | 0/8

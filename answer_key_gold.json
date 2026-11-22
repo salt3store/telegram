@@ -1,0 +1,405 @@
+{
+  "511001": {
+    "511001010": {
+      "type": "choice",
+      "answer": 5110010101,
+      "q_text": "اختر البرنامج الصحيح لطباعة \"Hello\" في وحدة التحكم."
+    },
+    "511001020": {
+      "type": "description",
+      "answer": "print(\"Good morning\")",
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) تتم طباعة \"Good morning\" في وحدة التحكم"
+    },
+    "511001030": {
+      "type": "description",
+      "answer": "print(\"programming\")",
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) اطبع \"programming\" في وحدة التحكم"
+    },
+    "511001040": {
+      "type": "description",
+      "answer": "print(\"hello\")",
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) اطبع \"hello\" في وحدة التحكم"
+    },
+    "511001050": {
+      "type": "choice",
+      "answer": 5110010501,
+      "q_text": "يرجى اختيار الطريقة الصحيحة لكتابة تعليق."
+    },
+    "511001060": {
+      "type": "description",
+      "answer": "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Riki\")\nprint(\"Cody\")"
+    }
+  },
+  "511002": {
+    "511002030": {
+      "type": "description",
+      "answer": "print(19 + 40)"
+    },
+    "511002040": {
+      "type": "description",
+      "answer": "print(7 - 2)"
+    },
+    "511002050": {
+      "type": "description",
+      "answer": "print(15 / 5)"
+    },
+    "511002070": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(2 * 5))"
+    }
+  },
+  "511003": {
+    "511003010": {
+      "type": "choice",
+      "answer": 5110030101,
+      "q_text": "اختر البرنامج الصحيح لإنشاء المتغير score."
+    },
+    "511003020": {
+      "type": "choice",
+      "answer": 5110030201,
+      "q_text": "اختر البرنامج الصحيح لطباعة قيمة المتغير score في وحدة التحكم. *المتغير score لديه قيمة بالفعل."
+    },
+    "511003030": {
+      "type": "description",
+      "answer": "number = 0"
+    },
+    "511003040": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 100"
+    },
+    "511003050": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 10\nprint(number)"
+    },
+    "511003060": {
+      "type": "description",
+      "answer": "number = 3\nnumber = number + 10\nprint(number)"
+    }
+  },
+  "511004": {},
+  "511005": {
+    "511005010": {
+      "type": "choice",
+      "answer": 5110050101
+    },
+    "511005020": {
+      "type": "choice",
+      "answer": 5110050201
+    }
+  },
+  "511006": {
+    "511006010": {
+      "type": "choice",
+      "answer": 5110060101
+    }
+  },
+  "511007": {
+    "511007010": {
+      "type": "choice",
+      "answer": 5110070101
+    }
+  },
+  "511008": {
+    "511008010": {
+      "type": "description",
+      "answer": "num = 7\nif num == 7:\n    print(\"Win\")"
+    },
+    "511008030": {
+      "type": "description",
+      "answer": "score = 70\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    },
+    "511008050": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+    },
+    "511008070": {
+      "type": "description",
+      "answer": "num = 4\nif num <= 3:\n    print(\"It's A\")\nelif num >= 6:\n    print(\"It's B\")\nelse:\n    print(\"It's C\")"
+    }
+  },
+  "511009": {
+    "511009010": {
+      "type": "choice",
+      "answer": 5110090101
+    },
+    "511009020": {
+      "type": "choice",
+      "answer": 5110090201
+    }
+  },
+  "511010": {
+    "511010010": {
+      "type": "choice",
+      "answer": 5110100101,
+      "q_text": "عندما تقوم بكتابة \"تكرار طباعة كلمة apple على الشاشة 10 مرات\" كبرنامج، حدد ما تكتبه في بداية البرنامج."
+    },
+    "511010020": {
+      "type": "choice",
+      "answer": 5110100201,
+      "q_text": "اختر البرنامج الصحيح لإضافة 1 إلى المتغير i في كل مرة."
+    }
+  },
+  "511011": {},
+  "511012": {
+    "511012010": {
+      "type": "choice",
+      "answer": 5110120101,
+      "q_text": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد."
+    },
+    "511012020": {
+      "type": "choice",
+      "answer": 5110120201,
+      "q_text": "اختر البرنامج الصحيح لطباعة رقم عشوائي. * افترض أن عملية الاستيراد قد تمت بالفعل."
+    },
+    "511012030": {
+      "type": "choice",
+      "answer": 5110120301,
+      "q_text": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد عشري إلى الأسفل."
+    },
+    "511012040": {
+      "type": "description",
+      "answer": "import math\nprint(round(5.5))\nprint(math.floor(8.8))",
+      "q_text": "أدخل برنامجك كما يلي: (1) استخدم دالة لتقريب العدد \"5.5\" وطباعته على الشاشة. (2) استخدم دالة لتقريب العدد العشري \"8.8\" إ"
+    },
+    "511012050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.5:\n    print(\"A bright day\")\nelse:\n    print(\"Take it slow and do your best\")"
+    }
+  },
+  "511013": {
+    "511013010": {
+      "type": "choice",
+      "answer": 5110130101,
+      "q_text": "اختر نتيجة البرنامج التالي. print(max(20, 40, 60))"
+    },
+    "511013020": {
+      "type": "choice",
+      "answer": 5110130201,
+      "q_text": "اختر البرنامج الصحيح لإنشاء دالة باسم calc مع وسيط باسم num."
+    },
+    "511013030": {
+      "type": "choice",
+      "answer": 5110130301,
+      "q_text": "حدد ما سيظهر على الشاشة بعد تشغيل البرنامج التالي. def calc(num): result = num * 3 return result print(calc(5))"
+    },
+    "511013040": {
+      "type": "description",
+      "answer": "def calc(num):\n    result = num * 5\n    return result\nprint(calc(3))"
+    },
+    "511013050": {
+      "type": "description",
+      "answer": "def calc(num):\n    result = num * 7\n    return result\nprint(calc(10))"
+    }
+  },
+  "511014": {},
+  "511015": {
+    "511015010": {
+      "type": "description",
+      "answer": "num = [5, 10, 15]",
+      "q_text": "ضع القيم التالية في القائمة: 5، 10، 15 * لا يظهر أي ناتج حتى عند تشغيل البرنامج."
+    },
+    "511015020": {
+      "type": "choice",
+      "answer": 5110150201,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي. num = [5, 10, 15, 20, 25] print(num[2])"
+    },
+    "511015030": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(num)",
+      "q_text": "اعرض جميع القيم الموجودة في القائمة على الشاشة. * لا تُدخل القيم مباشرةً. * دون حذف البرنامج المكتوب، أضف ما بداخل أقواس"
+    },
+    "511015040": {
+      "type": "choice",
+      "answer": 5110150401,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي. num = [1, 2, 3] sum = 0 for i in range(3): sum = sum + num[i] print(sum)"
+    },
+    "511015050": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(len(num))",
+      "q_text": "اعرض طول القائمة على الشاشة. * لا تُدخل رقم الطول مباشرةً."
+    }
+  },
+  "511016": {
+    "511016010": {
+      "type": "choice",
+      "answer": 5110160101,
+      "q_text": "اختر البرنامج الصحيح لإنشاء مصفوفة تحتوي على أعداد صحيحة فقط."
+    },
+    "511016020": {
+      "type": "choice",
+      "answer": 5110160201,
+      "q_text": "اختر مخرجات البرنامج التالي. import array team_array = array.array('i', [10, 20, 30, 40, 50]) print(team_array[2])"
+    },
+    "511016030": {
+      "type": "description",
+      "answer": "import array\nround_array = array.array('i', [1, 2, 3, 4, 5])\nprint(round_array[1])\nprint(round_array[4])",
+      "q_text": "أدخل البرنامج كما يلي: (1) اكتب import array في بداية البرنامج. (2) عيّن المتغير round_array باستخدام array.array('i', ["
+    },
+    "511016040": {
+      "type": "choice",
+      "answer": 5110160401,
+      "q_text": "اختر مخرجات البرنامج التالي. import array point_array = array.array('i', [8, 12, 15, 9, 11, 14]) print(len(point_array))"
+    },
+    "511016050": {
+      "type": "choice",
+      "answer": 5110160501,
+      "q_text": "اختر مخرجات البرنامج التالي. import numpy read_array = numpy.array([35, 50, 62]) print(read_array + 3)"
+    }
+  },
+  "511017": {},
+  "511018": {
+    "511018010": {
+      "type": "choice",
+      "answer": 5110180101,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة. True تعني تشغيل و False تعني إيقاف تشغيل لـ lamp_on. lamp_on = True if "
+    },
+    "511018020": {
+      "type": "choice",
+      "answer": 5110180201,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة. is_ready = False print(type(is_ready))"
+    },
+    "511018030": {
+      "type": "choice",
+      "answer": 5110180301,
+      "q_text": "ما هو نوع البيانات للقيمة المعينة للمتغير team_name أدناه؟ team_name = \"False\""
+    },
+    "511018040": {
+      "type": "choice",
+      "answer": 5110180401,
+      "q_text": "اختر ناتج البرنامج التالي من الخيارات المتاحة. can_play = False if can_play: print(\"A\") else: print(\"B\")"
+    },
+    "511018050": {
+      "type": "choice",
+      "answer": 5110180501,
+      "q_text": "يشغّل البرنامج التالي مصباح الغرفة أو يطفئه وفقًا للوقت الحالي. اختر ناتج هذا البرنامج من الخيارات المتاحة. في المتغير l"
+    }
+  },
+  "511019": {
+    "511019010": {
+      "type": "choice",
+      "answer": 5110190101,
+      "q_text": "اختر البرنامج الصحيح الذي يستخدم math.floor."
+    },
+    "511019020": {
+      "type": "choice",
+      "answer": 5110190201,
+      "q_text": "اختر ناتج البرنامج التالي. import math print(math.floor(5.8)) print(round(5.8))"
+    },
+    "511019030": {
+      "type": "choice",
+      "answer": 5110190301,
+      "q_text": "اختر العبارة الصحيحة حول القيمة التي تم إرجاعها بواسطة random.random()."
+    },
+    "511019040": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "q_text": "أنشئ برنامجًا يعرض عددًا صحيحًا عشوائيًا مكونًا من رقم واحد، كما يلي. 1 اكتب import math و import random 2 اعرض math.flo"
+    },
+    "511019050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.7:\n    print(\"Grand prize!\")\nelse:\n    print(\"Consolation prize\")"
+    }
+  },
+  "511020": {},
+  "511021": {
+    "511021010": {
+      "type": "description",
+      "answer": "A = 5\nB = 10\nif A > B:\n    print(\"A is bigger\")\nelif A < B:\n    print(\"B is bigger\")"
+    },
+    "511021030": {
+      "type": "description",
+      "answer": "math = 100\nenglish = 100\nif math == 100:\n    print(\"Math is 100 points\")\nif english == 100:\n    print(\"Math and English are 100 points\")"
+    },
+    "511021040": {
+      "type": "description",
+      "answer": "for i in range(7):\n    print(\"Good morning\")"
+    },
+    "511021080": {
+      "type": "description",
+      "answer": "def divide3(num):\n    result = num / 3\n    return result\nprint(divide3(12345))"
+    },
+    "511021100": {
+      "type": "description",
+      "answer": "def mul(num1, num2):\n    result = num1 * num2\n    return result\nprint(mul(9, 7))"
+    }
+  },
+  "511022": {
+    "511022010": {
+      "type": "description",
+      "answer": "num = 1\nfor i in range(5):\n    num = num * 7\nprint(num)"
+    },
+    "511022030": {
+      "type": "description",
+      "answer": "num = 5040\nfor i in range(1, 6):\n    num = num / i\nprint(num)"
+    },
+    "511022040": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(mark_list[5])"
+    },
+    "511022050": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(len(mark_list))"
+    },
+    "511022060": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nfor i in range(len(mark_list)):\n    if mark_list[i] >= 85:\n        print(\"85 or above\")"
+    }
+  },
+  "511023": {
+    "511023010": {
+      "type": "choice",
+      "answer": 5110230101,
+      "q_text": "حدد نتيجة تشغيل البرنامج التالي. rank_list = [5, 7, 14, 11, 8, 6, 13] print(rank_list[2])"
+    },
+    "511023020": {
+      "type": "choice",
+      "answer": 5110230201,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي. size_list = [8, 11, 14] for i in range(3): print(size_list[i])"
+    },
+    "511023030": {
+      "type": "choice",
+      "answer": 5110230301,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي. count_list = [3, 4, 5] for i in range(len(count_list)): print(count_list[i])"
+    },
+    "511023040": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\n    print(point)"
+    },
+    "511023050": {
+      "type": "description",
+      "answer": "word_list = [\"Good morning\", \"Good night\", \"Hello\"]\nfor word in word_list:\n    print(word)"
+    }
+  },
+  "511024": {
+    "511024020": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\n    print(point)"
+    },
+    "511024030": {
+      "type": "description",
+      "answer": "word_list = [\"good morning\", \"good night\", \"hello\"]\nfor word in word_list:\n    print(word)"
+    },
+    "511024060": {
+      "type": "description",
+      "answer": "weather = \"rainy\"\ntime = \"morning\"\nif weather == \"rainy\":\n    if time == \"morning\":\n        print(\"Let's go to the movie theater\")\n    elif time == \"noon\":\n        print(\"Let's go to the library\")\n    else:\n        print(\"Let's stay home\")\nelse:\n    print(\"Let's go for a walk\")"
+    }
+  },
+  "511025": {
+    "511025020": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nnum1 = calculation3(5, 10, 15)\nprint(num1)"
+    },
+    "511025030": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nnum1 = calculation3(5, 10, 15)\nprint(num1)\nnum2 = calculation3(4, 4, 4)\nprint(num2)"
+    },
+    "511025060": {
+      "type": "description",
+      "answer": "score_list = [70, 80, 66, 88, 92]\nfor score in score_list:\n    if score >= 80:\n        print(score)"
+    },
+    "511025070": {
+      "type": "choice",
+      "answer": 5110250701
+    }
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "511001": {
+    "511001010": {
+      "type": "choice",
+      "answer": "print(\"Hello\")",
+      "choice_id": 5110010101,
+      "score": 1.0
+    },
+    "511001020": {
+      "type": "description",
+      "answer": "print(\"Good morning\")",
+      "score": 1.0
+    },
+    "511001030": {
+      "type": "description",
+      "answer": "print(\"programming\")",
+      "score": 1.0
+    },
+    "511001040": {
+      "type": "description",
+      "answer": "print(\"hello\")",
+      "score": 1.0
+    },
+    "511001050": {
+      "type": "choice",
+      "answer": "#Write a comment here",
+      "choice_id": 5110010501,
+      "score": 1.0
+    },
+    "511001060": {
+      "type": "description",
+      "answer": "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Rick\")\nprint(\"Cody\")",
+      "score": 1.0
+    }
+  },
+  "511002": {
+    "511002010": {
+      "type": "choice",
+      "answer": "print(50 + 100)",
+      "choice_id": 5110020101,
+      "score": 1.0
+    },
+    "511002020": {
+      "type": "choice",
+      "answer": "/",
+      "choice_id": 5110020201,
+      "score": 1.0
+    },
+    "511002030": {
+      "type": "description",
+      "answer": "print(19 + 40)",
+      "score": 1.0
+    },
+    "511002040": {
+      "type": "description",
+      "answer": "print(7 - 2)",
+      "score": 1.0
+    },
+    "511002050": {
+      "type": "description",
+      "answer": "print(15 / 5)",
+      "score": 1.0
+    },
+    "511002060": {
+      "type": "choice",
+      "answer": "print(\"Today is the 17th. 7 days ago was the \" + str(17 - 7) + \"th.\")",
+      "choice_id": 5110020601,
+      "score": 1.0
+    },
+    "511002070": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(2 * 5))",
+      "score": 1.0
+    },
+    "511002080": {
+      "type": "choice",
+      "answer": "نوع السلسلة النصية",
+      "choice_id": 5110020801,
+      "score": 1.0
+    },
+    "511002090": {
+      "type": "choice",
+      "answer": "print(type(\"1\"))",
+      "choice_id": 5110020901,
+      "score": 1.0
+    }
+  },
+  "511003": {
+    "511003010": {
+      "type": "choice",
+      "answer": "score = 0",
+      "choice_id": 5110030101,
+      "score": 1.0
+    },
+    "511003020": {
+      "type": "choice",
+      "answer": "print(score)",
+      "choice_id": 5110030201,
+      "score": 1.0
+    },
+    "511003030": {
+      "type": "description",
+      "answer": "number = 0",
+      "score": 0.89
+    },
+    "511003040": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 100",
+      "score": 0.88
+    },
+    "511003050": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 10\nprint(number)",
+      "score": 0.8
+    },
+    "511003060": {
+      "type": "description",
+      "answer": "number = 3\nnumber = number + 10\nprint(number)",
+      "score": 0.95
+    }
+  },
+  "511004": {
+    "511004010": {
+      "type": "choice",
+      "answer": "print(\"Hello\")",
+      "choice_id": 5110040101,
+      "score": 1.0
+    },
+    "511004020": {
+      "type": "description",
+      "answer": "print(\"hello\")",
+      "score": 1.0
+    },
+    "511004030": {
+      "type": "description",
+      "answer": "#Leave this text\nprint(\"Make the first line a comment\")",
+      "score": 1.0
+    },
+    "511004040": {
+      "type": "choice",
+      "answer": "print(5 + 7)",
+      "choice_id": 5110040401,
+      "score": 1.0
+    },
+    "511004050": {
+      "type": "choice",
+      "answer": "*",
+      "choice_id": 5110040501,
+      "score": 1.0
+    },
+    "511004060": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(3 * 4))",
+      "score": 1.0
+    },
+    "511004070": {
+      "type": "choice",
+      "answer": "number = 0",
+      "choice_id": 5110040701,
+      "score": 1.0
+    },
+    "511004080": {
+      "type": "description",
+      "answer": "num = 5\nprint(num)",
+      "score": 1.0
+    }
+  },
+  "511005": {
+    "511005010": {
+      "type": "choice",
+      "answer": null,
+      "choice_id": null,
+      "score": 0.4
+    },
+    "511005020": {
+      "type": "choice",
+      "answer": null,
+      "choice_id": null,
+      "score": 0.69
+    },
+    "511005030": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\nprint(\"Correct\")",
+      "score": 1.0
+    },
+    "511005040": {
+      "type": "choice",
+      "answer": "False",
+      "choice_id": 5110050401,
+      "score": 1.0
+    }
+  },
+  "511006": {
+    "511006010": {
+      "type": "choice",
+      "answer": "if\ncondition:\n:\nA\nelse:\nB",
+      "choice_id": 5110060101,
+      "score": 1.0
+    },
+    "511006020": {
+      "type": "description",
+      "answer": "num = 5\nif num == 10:\nprint(\"Win\")\nelse:\nprint(\"No prize\")",
+      "score": 1.0
+    },
+    "511006030": {
+      "type": "choice",
+      "answer": "num <= 80",
+      "choice_id": 5110060301,
+      "score": 1.0
+    },
+    "511006040": {
+      "type": "choice",
+      "answer": "num > 30",
+      "choice_id": 5110060401,
+      "score": 1.0
+    },
+    "511006050": {
+      "type": "description",
+      "answer": "score = 80\nif score >= 60:\nprint(\"Pass\")\nelse:\nprint(\"Fail\")",
+      "score": 0.97
+    }
+  },
+  "511007": {
+    "511007010": {
+      "type": "choice",
+      "answer": "If condition:\nA\nelif conditions:\nB",
+      "choice_id": 5110070102,
+      "score": 1.0
+    },
+    "511007020": {
+      "type": "description",
+      "answer": "num=2\nif num == 1:\nprint(\"It's 1\")\nelif num == 2:\nprint(\"It's 2\")",
+      "score": 1.0
+    },
+    "511007030": {
+      "type": "description",
+      "answer": "score = 82\nif score == 100:\nprint(\"Perfect score\")\nelif score >= 80:\nprint(\"Pass\")",
+      "score": 1.0
+    },
+    "511007040": {
+      "type": "choice",
+      "answer": "So close",
+      "choice_id": 5110070401,
+      "score": 1.0
+    },
+    "511007050": {
+      "type": "description",
+      "answer": "egg = 5\nif egg == 0:\nprint(\"Out of stock\")\nelif egg <= 3:\nprint(\"Low stock\")\nelse:\nprint(\"In stock\")",
+      "score": 1.0
+    }
+  },
+  "511008": {
+    "511008010": {
+      "type": "description",
+      "answer": "num = 7\nif num == 7:\nprint(\"Win\")",
+      "score": 1.0
+    },
+    "511008020": {
+      "type": "choice",
+      "answer": "True",
+      "choice_id": 5110080201,
+      "score": 1.0
+    },
+    "511008030": {
+      "type": "description",
+      "answer": "score = 70\nif score >= 60:\nprint(\"Pass\")\nelse:\nprint(\"Fail\")",
+      "score": 0.95
+    },
+    "511008040": {
+      "type": "choice",
+      "answer": "num < 20",
+      "choice_id": 5110080401,
+      "score": 1.0
+    },
+    "511008050": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\nprint(\"Win\")\nelse:\nprint(\"No prize\")",
+      "score": 0.87
+    },
+    "511008060": {
+      "type": "choice",
+      "answer": "Pass",
+      "choice_id": 5110080601,
+      "score": 1.0
+    },
+    "511008070": {
+      "type": "description",
+      "answer": "num = 4\nif num <= 3:\nprint(\"It's A\")\nelif num >= 6:\nprint(\"It's B\")\nelse:\nprint(\"It's C\")",
+      "score": 0.96
+    }
+  },
+  "511009": {
+    "511009010": {
+      "type": "choice",
+      "answer": null,
+      "choice_id": null,
+      "score": 0.12
+    },
+    "511009020": {
+      "type": "choice",
+      "answer": null,
+      "choice_id": null,
+      "score": 0.25
+    },
+    "511009030": {
+      "type": "choice",
+      "answer": "Regular price",
+      "choice_id": 5110090301,
+      "score": 0.96
+    },
+    "511009040": {
+      "type": "description",
+      "answer": "a = 5\nb = 10\nif a == 5 or b == 10:\nprint(\"The condition is met\")",
+      "score": 0.96
+    },
+    "511009050": {
+      "type": "description",
+      "answer": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"The condition is met\")",
+      "score": 1.0
+    }
+  },
+  "511010": {
+    "511010010": {
+      "type": "choice",
+      "answer": "for",
+      "choice_id": 5110100101,
+      "score": 1.0
+    },
+    "511010020": {
+      "type": "choice",
+      "answer": "i = i + 1",
+      "choice_id": 5110100201,
+      "score": 1.0
+    },
+    "511010030": {
+      "type": "choice",
+      "answer": "for i in range(10):\nالكود الخاص بك",
+      "choice_id": 5110100301,
+      "score": 0.9
+    },
+    "511010040": {
+      "type": "description",
+      "answer": "for i in range(5):\nprint(\"Hello\")",
+      "score": 1.0
+    },
+    "511010050": {
+      "type": "description",
+      "answer": "for i in range(7):\nprint(\"Hello\")",
+      "score": 1.0
+    }
+  },
+  "511011": {
+    "511011010": {
+      "type": "choice",
+      "answer": "A or B",
+      "choice_id": 5110110101,
+      "score": 1.0
+    },
+    "511011020": {
+      "type": "choice",
+      "answer": "It's A",
+      "choice_id": 5110110201,
+      "score": 1.0
+    },
+    "511011030": {
+      "type": "choice",
+      "answer": "i = i + 1",
+      "choice_id": 5110110301,
+      "score": 1.0
+    },
+    "511011040": {
+      "type": "choice",
+      "answer": "for i in range(10):\nالعملية المحددة",
+      "choice_id": 5110110401,
+      "score": 1.0
+    },
+    "511011050": {
+      "type": "choice",
+      "answer": "hello\nhello",
+      "choice_id": 5110110501,
+      "score": 1.0
+    },
+    "511011060": {
+      "type": "description",
+      "answer": "for i in range(10):\nprint(\"Good morning\")",
+      "score": 0.88
+    },
+    "511011070": {
+      "type": "description",
+      "answer": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"the condition is met\")",
+      "score": 1.0
+    },
+    "511011080": {
+      "type": "description",
+      "answer": "for i in range(3):\nprint(\"Hello\")",
+      "score": 0.88
+    }
+  },
+  "511012": {
+    "511012010": {
+      "type": "choice",
+      "answer": "round(1.8)",
+      "choice_id": 5110120101,
+      "score": 1.0
+    },
+    "511012020": {
+      "type": "choice",
+      "answer": "print(random.random())",
+      "choice_id": 5110120201,
+      "score": 1.0
+    },
+    "511012030": {
+      "type": "choice",
+      "answer": "print(math.floor(10.5))",
+      "choice_id": 5110120301,
+      "score": 1.0
+    },
+    "511012040": {
+      "type": "description",
+      "answer": "import math\nprint(round(5.5))\nprint(math.floor(8.8))",
+      "score": 1.0
+    },
+    "511012050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.5:\nprint(\"A bright day\")\nelse:\nprint(\"Take it slow and do your best\")",
+      "score": 1.0
+    },
+    "511012060": {
+      "type": "description",
+      "answer": "print(math.floor(random.random() * 10))",
+      "score": 1.0
+    }
+  },
+  "511013": {
+    "511013010": {
+      "type": "choice",
+      "answer": "60",
+      "choice_id": 5110130101,
+      "score": 1.0
+    },
+    "511013020": {
+      "type": "choice",
+      "answer": "def calc(num):\nالمعالجة",
+      "choice_id": 5110130201,
+      "score": 1.0
+    },
+    "511013030": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110130301,
+      "score": 1.0
+    },
+    "511013040": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 5\nreturn result\nprint(calc(3))",
+      "score": 1.0
+    },
+    "511013050": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 7\nreturn result\nprint(calc(10))",
+      "score": 1.0
+    }
+  },
+  "511014": {
+    "511014010": {
+      "type": "choice",
+      "answer": "round(1.8)",
+      "choice_id": 5110140101,
+      "score": 1.0
+    },
+    "511014020": {
+      "type": "choice",
+      "answer": "60",
+      "choice_id": 5110140201,
+      "score": 1.0
+    },
+    "511014030": {
+      "type": "choice",
+      "answer": "print(random.random())",
+      "choice_id": 5110140301,
+      "score": 1.0
+    },
+    "511014040": {
+      "type": "choice",
+      "answer": "12",
+      "choice_id": 5110140401,
+      "score": 1.0
+    },
+    "511014050": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0
+    },
+    "511014060": {
+      "type": "choice",
+      "answer": "def calc(num):\nالمعالجة",
+      "choice_id": 5110140601,
+      "score": 1.0
+    },
+    "511014070": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 7\nreturn result\nprint(calc(10))",
+      "score": 1.0
+    },
+    "511014080": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 5\nreturn result\nprint(calc(3))",
+      "score": 1.0
+    }
+  },
+  "511015": {
+    "511015010": {
+      "type": "description",
+      "answer": "num = [5, 10, 15]",
+      "score": 1.0
+    },
+    "511015020": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110150201,
+      "score": 1.0
+    },
+    "511015030": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(num)",
+      "score": 1.0
+    },
+    "511015040": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110150401,
+      "score": 1.0
+    },
+    "511015050": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(len(num))",
+      "score": 1.0
+    }
+  },
+  "511016": {
+    "511016010": {
+      "type": "choice",
+      "answer": "import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])",
+      "choice_id": 5110160101,
+      "score": 1.0
+    },
+    "511016020": {
+      "type": "choice",
+      "answer": "30",
+      "choice_id": 5110160201,
+      "score": 1.0
+    },
+    "511016030": {
+      "type": "description",
+      "answer": "import array\nround_array = array.array('i', [1, 2, 3, 4, 5])\nprint(round_array[1])\nprint(round_array[4])",
+      "score": 1.0
+    },
+    "511016040": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110160401,
+      "score": 1.0
+    },
+    "511016050": {
+      "type": "choice",
+      "answer": "[38 53 65]",
+      "choice_id": 5110160501,
+      "score": 1.0
+    }
+  },
+  "511017": {
+    "511017010": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110170101,
+      "score": 1.0
+    },
+    "511017020": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(num)",
+      "score": 1.0
+    },
+    "511017030": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110170301,
+      "score": 1.0
+    },
+    "511017040": {
+      "type": "choice",
+      "answer": "30",
+      "choice_id": 5110170401,
+      "score": 1.0
+    },
+    "511017050": {
+      "type": "choice",
+      "answer": "import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])",
+      "choice_id": 5110170501,
+      "score": 1.0
+    },
+    "511017060": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110170601,
+      "score": 1.0
+    }
+  },
+  "511018": {
+    "511018010": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110180101,
+      "score": 1.0
+    },
+    "511018020": {
+      "type": "choice",
+      "answer": "<class 'bool'>",
+      "choice_id": 5110180201,
+      "score": 1.0
+    },
+    "511018030": {
+      "type": "choice",
+      "answer": "str",
+      "choice_id": 5110180301,
+      "score": 1.0
+    },
+    "511018040": {
+      "type": "choice",
+      "answer": "B",
+      "choice_id": 5110180401,
+      "score": 1.0
+    },
+    "511018050": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110180501,
+      "score": 1.0
+    }
+  },
+  "511019": {
+    "511019010": {
+      "type": "choice",
+      "answer": "import math\nprint(math.floor(4.7))",
+      "choice_id": 5110190101,
+      "score": 1.0
+    },
+    "511019020": {
+      "type": "choice",
+      "answer": "5\n6",
+      "choice_id": 5110190201,
+      "score": 1.0
+    },
+    "511019030": {
+      "type": "choice",
+      "answer": "رقم من 0 إلى أقل من 1",
+      "choice_id": 5110190301,
+      "score": 1.0
+    },
+    "511019040": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0
+    },
+    "511019050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.7:\nprint(\"Grand prize!\")\nelse:\nprint(\"Consolation prize\")",
+      "score": 1.0
+    }
+  },
+  "511020": {
+    "511020010": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110200101,
+      "score": 1.0
+    },
+    "511020020": {
+      "type": "choice",
+      "answer": "str",
+      "choice_id": 5110200201,
+      "score": 1.0
+    },
+    "511020030": {
+      "type": "choice",
+      "answer": "<class 'bool'>",
+      "choice_id": 5110200301,
+      "score": 1.0
+    },
+    "511020040": {
+      "type": "choice",
+      "answer": "import math\nprint(math.floor(4.7))",
+      "choice_id": 5110200401,
+      "score": 1.0
+    },
+    "511020050": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0
+    },
+    "511020060": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.7:\nprint(\"Grand prize!\")\nelse:\nprint(\"Consolation prize\")",
+      "score": 1.0
+    }
+  },
+  "511021": {
+    "511021010": {
+      "type": "description",
+      "answer": "A = 5\nB = 10\nif A > B:\nprint(\"A is bigger\")\nelif A < B:\nprint(\"B is bigger\")",
+      "score": 1.0
+    },
+    "511021020": {
+      "type": "choice",
+      "answer": "and",
+      "choice_id": 5110210201,
+      "score": 1.0
+    },
+    "511021030": {
+      "type": "description",
+      "answer": "math = 100\nenglish = 100\nif math == 100:\nprint(\"Math is 100 points\")\nif english == 100:\nprint(\"Math and English are 100 points\")",
+      "score": 1.0
+    },
+    "511021040": {
+      "type": "description",
+      "answer": "for i in range(7):\nprint(\"Good morning\")",
+      "score": 1.0
+    },
+    "511021050": {
+      "type": "choice",
+      "answer": "ينتج عنه خطأ",
+      "choice_id": 5110210501,
+      "score": 1.0
+    },
+    "511021060": {
+      "type": "choice",
+      "answer": "00010",
+      "choice_id": 5110210601,
+      "score": 1.0
+    },
+    "511021070": {
+      "type": "choice",
+      "answer": "i += 5",
+      "choice_id": 5110210701,
+      "score": 1.0
+    },
+    "511021080": {
+      "type": "description",
+      "answer": "def divide3(num):\nresult = num / 3\nreturn result\nprint(divide3(12345))",
+      "score": 1.0
+    },
+    "511021090": {
+      "type": "choice",
+      "answer": "def motion()\nالبرنامج المراد تشغيله",
+      "choice_id": 5110210901,
+      "score": 1.0
+    },
+    "511021100": {
+      "type": "description",
+      "answer": "def mul(num1, num2):\nresult = num1 * num2\nreturn result\nprint(mul(9, 7))",
+      "score": 1.0
+    }
+  },
+  "511022": {
+    "511022010": {
+      "type": "description",
+      "answer": "num = 1\nfor i in range(5):\nnum = num * 7\nprint(num)",
+      "score": 1.0
+    },
+    "511022020": {
+      "type": "choice",
+      "answer": "1->2->3->4->5->6->7",
+      "choice_id": 5110220201,
+      "score": 1.0
+    },
+    "511022030": {
+      "type": "description",
+      "answer": "num = 5040\nfor i in range(1, 6):\nnum = num / i\nprint(num)",
+      "score": 1.0
+    },
+    "511022040": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(mark_list[5])",
+      "score": 1.0
+    },
+    "511022050": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(len(mark_list))",
+      "score": 1.0
+    },
+    "511022060": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nfor i in range(len(mark_list)):\nif mark_list[i] >= 85:\nprint(\"85 or above\")",
+      "score": 1.0
+    }
+  },
+  "511023": {
+    "511023010": {
+      "type": "choice",
+      "answer": "14",
+      "choice_id": 5110230101,
+      "score": 1.0
+    },
+    "511023020": {
+      "type": "choice",
+      "answer": "8\n11\n14",
+      "choice_id": 5110230201,
+      "score": 1.0
+    },
+    "511023030": {
+      "type": "choice",
+      "answer": "3\n4\n5",
+      "choice_id": 5110230301,
+      "score": 1.0
+    },
+    "511023040": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\nprint(point)",
+      "score": 1.0
+    },
+    "511023050": {
+      "type": "description",
+      "answer": "word_list = [\"Good morning\", \"Good night\", \"Hello\"]\nfor word in word_list:\nprint(word)",
+      "score": 1.0
+    }
+  },
+  "511024": {
+    "511024010": {
+      "type": "choice",
+      "answer": "8\n11\n14",
+      "choice_id": 5110240101,
+      "score": 1.0
+    },
+    "511024020": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\nprint(point)",
+      "score": 1.0
+    },
+    "511024030": {
+      "type": "description",
+      "answer": "word_list = [\"good morning\", \"good night\", \"hello\"]\nfor word in word_list:\nprint(word)",
+      "score": 1.0
+    },
+    "511024040": {
+      "type": "choice",
+      "answer": "100",
+      "choice_id": 5110240401,
+      "score": 1.0
+    },
+    "511024050": {
+      "type": "choice",
+      "answer": "الوجهة هي مدينة الملاهي",
+      "choice_id": 5110240501,
+      "score": 1.0
+    },
+    "511024060": {
+      "type": "description",
+      "answer": "weather = \"rainy\"\ntime = \"morning\"\nif weather == \"rainy\":\nif time == \"morning\":\nprint(\"Let's go to the movie theater\")\nelif time == \"noon\":\nprint(\"Let's go to the library\")\nelse:\nprint(\"Let's stay home\")\nelse:\nprint(\"Let's go for a walk\")",
+      "score": 1.0
+    }
+  },
+  "511025": {
+    "511025010": {
+      "type": "choice",
+      "answer": "print(calculation3(3, 5, 10))",
+      "choice_id": 5110250101,
+      "score": 1.0
+    },
+    "511025020": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\nresult = a * b * c\nreturn result\nnum1 = calculation3(5, 10, 15)\nprint(num1)",
+      "score": 1.0
+    },
+    "511025030": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\nresult = a * b * c\nreturn result\nnum1 = calculation3(5, 10, 15)\nprint(num1)\nnum2 = calculation3(4, 4, 4)\nprint(num2)",
+      "score": 1.0
+    },
+    "511025040": {
+      "type": "choice",
+      "answer": "print(min(num1, num2, num3))",
+      "choice_id": 5110250401,
+      "score": 1.0
+    },
+    "511025050": {
+      "type": "choice",
+      "answer": "80\n88\n92",
+      "choice_id": 5110250501,
+      "score": 1.0
+    },
+    "511025060": {
+      "type": "description",
+      "answer": "score_list = [70, 80, 66, 88, 92]\nfor score in score_list:\nif score >= 80:\nprint(score)",
+      "score": 1.0
+    },
+    "511025070": {
+      "type": "choice",
+      "answer": null,
+      "choice_id": null,
+      "score": 0.41
+    }
+  }
+}

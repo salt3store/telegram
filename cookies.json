@@ -1,0 +1,20 @@
+[
+  {
+    "name": "egy_student_access_token",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtZS1pZHAucXVyZW8uZWR1Y2F0aW9uIiwiYXVkIjpbInF1cmVvIl0sInN1YiI6IjAxOTk1Yzc5LWE1MTMtNzMyZC1hNWMxLWYxZGUzNDI3YWJlMSIsImlhdCI6MTc5MzczMzE2NCwibmJmIjoxNzkzNzMzMTY0LCJleHAiOjE3OTM3MzQ5NjQsInNjb3BlIjoiIn0.b6z_D-Ui0yWiT6-Riu0-7K--TQ3Ecy7WzEccT_2--0w",
+    "domain": ".qureo.education",
+    "path": "/"
+  },
+  {
+    "name": "egy_student_id_token",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtZS1pZHAucXVyZW8uZWR1Y2F0aW9uIiwic3ViIjoiMDE5OTVjNzktYTUxMy03MzJkLWE1YzEtZjFkZTM0MjdhYmUxIiwibmFtZSI6IjQ3MDY4MDA2NyIsImxhbmdfY29kZSI6ImFyIiwicGVybWlzc2lvbnMiOiJqYXZhc2NyaXB0X3RyaWFsLGphdmFzY3JpcHQscHl0aG9uLHB5dGhvbl90cmlhbCIsImF2YWlsYWJsZV9jb3Vyc2VzIjpbeyJjb250ZW50X2lkIjoiamF2YXNjcmlwdF9hciIsImNvdXJzZV9jb2RlIjoiamF2YXNjcmlwdCIsImNvdXJzZV9sYW5nX2NvZGUiOiJhciIsIm9wdGlvbl9wZXJtaXNzaW9ucyI6W119LHsiY29udGVudF9pZCI6ImphdmFzY3JpcHRfdHJpYWxfYXIiLCJjb3Vyc2VfY29kZSI6ImphdmFzY3JpcHRfdHJpYWwiLCJjb3Vyc2VfbGFuZ19jb2RlIjoiYXIiLCJvcHRpb25fcGVybWlzc2lvbnMiOltdfSx7ImNvbnRlbnRfaWQiOiJweXRob25fc2hvcnRfYXIiLCJjb3Vyc2VfY29kZSI6InB5dGhvbl9zaG9ydCIsImNvdXJzZV9sYW5nX2NvZGUiOiJhciIsIm9wdGlvbl9wZXJtaXNzaW9ucyI6W119XSwic2VsZWN0ZWRfY291cnNlIjpudWxsLCJhdWQiOlsicXVyZW8iXSwiZXhwIjoxNzkzNzM0OTY0LCJpYXQiOjE3OTM3MzMxNjQsIm5iZiI6MTc5MzczMzE2NCwibm9uY2UiOiIiLCJhdF9oYXNoIjoiXHVmZmZkXGZcdWZmZmRqYVx1ZmZmZC5gf1x1MDAwMlx1MDAyNiBcdFx1ZmZmZFx1ZmZmZGJpZ0lcdWZmZmQsXHVmZmZkUVx1ZmZmZFx1ZmZmZFx1MDAwMlx1ZmZmZFpzXHI6XHVmZmZkIiwiYWxnIjoiSFMyNTYiLCJhcHAiOiJwb3J0YWwtcHJkLW1lIiwiX2NsYWltX25hbWVzIjp7fSwiX2NsYWltX3NvdXJjZXMiOnt9fQ.GpOrUbdPxnWnkee1XwVyByRkM_-qtoN-yQfGzgL9bAk",
+    "domain": ".qureo.education",
+    "path": "/"
+  },
+  {
+    "name": "egy_student_refresh_token",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtZS1pZHAucXVyZW8uZWR1Y2F0aW9uIiwic3ViIjoiMDE5OTVjNzktYTUxMy03MzJkLWE1YzEtZjFkZTM0MjdhYmUxIiwiYXVkIjpbInF1cmVvIl0sImV4cCI6MTc5Mzc0Mzk2NCwiaWF0IjoxNzkzNzMzMTY0LCJuYmYiOjE3OTM3MzMxNjQsImp0aSI6IjAxYTFhMmQzLWZlMzQtNzU4NC05MTA4LTc4OTY1OTAxYTdkYiJ9.R1b5-J8gBqaK5h6Wi44iPGO12SWRj7eDTBNgt0WhlNA",
+    "domain": ".qureo.education",
+    "path": "/"
+  }
+]

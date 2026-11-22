@@ -1,0 +1,369 @@
+{
+  "section": {
+    "course_id": "javascript_short_ar",
+    "id": 206
+  },
+  "chapters": {
+    "611001": {
+      "description": "ستتعرف على طريقة كتابة أوامر JavaScript وطباعة النصوص واستخدام التعليقات.",
+      "id": 611001,
+      "name": "مقدمة وتشغيل JavaScript",
+      "question_count": 5,
+      "section_id": 206,
+      "seq": 1,
+      "test_range": "console, comments, syntax",
+      "test_type": "review",
+      "questions": {
+        "611001001": {
+          "question": "اختر الأمر الصحيح لطباعة كلمة Hello في وحدة التحكم.",
+          "type": "choice",
+          "answer": 6110010101
+        },
+        "611001002": {
+          "question": "اكتب برنامجًا يطبع النص \"Welcome to JavaScript\" في وحدة التحكم.",
+          "type": "description",
+          "answer": "console.log(\"Welcome to JavaScript\");"
+        },
+        "611001003": {
+          "question": "ما الرمز المستخدم لكتابة تعليق في سطر واحد؟",
+          "type": "choice",
+          "answer": 6110010302
+        },
+        "611001004": {
+          "question": "اكتب برنامجًا يطبع الرقم 25 في وحدة التحكم.",
+          "type": "description",
+          "answer": "console.log(25);"
+        },
+        "611001005": {
+          "question": "اكتب برنامجًا يحتوي على تعليق يوضح أن السطر التالي يطبع اسم الطالب، ثم اطبع الاسم Ahmed.",
+          "type": "description",
+          "answer": "// طباعة اسم الطالب\nconsole.log(\"Ahmed\");"
+        }
+      }
+    },
+    "611002": {
+      "description": "ستتعلم تعريف المتغيرات باستخدام let وconst، والتعرف على الأنواع الأساسية في JavaScript.",
+      "id": 611002,
+      "name": "المتغيرات وأنواع البيانات",
+      "question_count": 8,
+      "section_id": 206,
+      "seq": 2,
+      "test_range": "variables, data types, let, const",
+      "test_type": "review",
+      "questions": {
+        "611002001": {
+          "question": "أي كلمة محجوزة تُستخدم لتعريف متغير يمكن تغيير قيمته؟",
+          "type": "choice",
+          "answer": 6110020101
+        },
+        "611002002": {
+          "question": "عرّف المتغير score وأسند إليه القيمة 90 ثم اطبع قيمته.",
+          "type": "description",
+          "answer": "let score = 90;\nconsole.log(score);"
+        },
+        "611002003": {
+          "question": "أي كلمة محجوزة مناسبة لقيمة ثابتة لا يُعاد إسنادها؟",
+          "type": "choice",
+          "answer": 6110020303
+        },
+        "611002004": {
+          "question": "أنشئ ثابتًا باسم schoolName وقيمته \"Qureo\" ثم اطبعه.",
+          "type": "description",
+          "answer": "const schoolName = \"Qureo\";\nconsole.log(schoolName);"
+        },
+        "611002005": {
+          "question": "ما نوع القيمة الناتجة من التعبير typeof \"5\"؟",
+          "type": "choice",
+          "answer": 6110020502
+        },
+        "611002006": {
+          "question": "ما القيمة التي تمثل عدم وجود قيمة مقصودة في JavaScript؟",
+          "type": "choice",
+          "answer": 6110020603
+        },
+        "611002007": {
+          "question": "أنشئ متغيرًا باسم isPassed بقيمة true واطبع قيمته.",
+          "type": "description",
+          "answer": "let isPassed = true;\nconsole.log(isPassed);"
+        },
+        "611002008": {
+          "question": "أي اسم من الأسماء التالية صالح لمتغير JavaScript؟",
+          "type": "choice",
+          "answer": 6110020804
+        }
+      }
+    },
+    "611003": {
+      "description": "ستستخدم العوامل الحسابية وعوامل المقارنة والربط بين النصوص.",
+      "id": 611003,
+      "name": "العوامل والحسابات والنصوص",
+      "question_count": 7,
+      "section_id": 206,
+      "seq": 3,
+      "test_range": "operators, arithmetic, comparison, strings",
+      "test_type": "review",
+      "questions": {
+        "611003001": {
+          "question": "ما عامل الجمع المستخدم في JavaScript؟",
+          "type": "choice",
+          "answer": 6110030101
+        },
+        "611003002": {
+          "question": "احسب حاصل ضرب 8 في 7 واطبع الناتج.",
+          "type": "description",
+          "answer": "console.log(8 * 7);"
+        },
+        "611003003": {
+          "question": "ما ناتج 17 % 5؟",
+          "type": "choice",
+          "answer": 6110030302
+        },
+        "611003004": {
+          "question": "أنشئ المتغير firstName بقيمة \"Mona\" والمتغير lastName بقيمة \"Ali\"، ثم اطبع الاسم كاملًا بمسافة بين الاسمين.",
+          "type": "description",
+          "answer": "let firstName = \"Mona\";\nlet lastName = \"Ali\";\nconsole.log(firstName + \" \" + lastName);"
+        },
+        "611003005": {
+          "question": "أي عامل يختبر التساوي في القيمة والنوع معًا؟",
+          "type": "choice",
+          "answer": 6110030503
+        },
+        "611003006": {
+          "question": "ما ناتج التعبير 10 > 4؟",
+          "type": "choice",
+          "answer": 6110030601
+        },
+        "611003007": {
+          "question": "استخدم template literal لطباعة الجملة: الطالب Omar حصل على 95 درجة.",
+          "type": "description",
+          "answer": "let student = \"Omar\";\nlet mark = 95;\nconsole.log(`${student} حصل على ${mark} درجة`);"
+        }
+      }
+    },
+    "611004": {
+      "description": "ستكتب برامج تستخدم if وelse if وelse لاتخاذ قرار بناءً على شرط.",
+      "id": 611004,
+      "name": "الشروط واتخاذ القرار",
+      "question_count": 7,
+      "section_id": 206,
+      "seq": 4,
+      "test_range": "if, else if, else, logical conditions",
+      "test_type": "review",
+      "questions": {
+        "611004001": {
+          "question": "أي كلمة تبدأ جملة الشرط في JavaScript؟",
+          "type": "choice",
+          "answer": 6110040102
+        },
+        "611004002": {
+          "question": "إذا كانت قيمة age تساوي 18 أو أكثر، اطبع \"Adult\"، وإلا اطبع \"Minor\".",
+          "type": "description",
+          "answer": "let age = 20;\nif (age >= 18) {\n  console.log(\"Adult\");\n} else {\n  console.log(\"Minor\");\n}"
+        },
+        "611004003": {
+          "question": "ما نتيجة تنفيذ if (5 === \"5\")؟",
+          "type": "choice",
+          "answer": 6110040302
+        },
+        "611004004": {
+          "question": "إذا كانت الدرجة 90 أو أكثر اطبع \"Excellent\"، وإذا كانت 50 أو أكثر اطبع \"Pass\"، وإلا اطبع \"Fail\".",
+          "type": "description",
+          "answer": "let grade = 72;\nif (grade >= 90) {\n  console.log(\"Excellent\");\n} else if (grade >= 50) {\n  console.log(\"Pass\");\n} else {\n  console.log(\"Fail\");\n}"
+        },
+        "611004005": {
+          "question": "أي عامل منطقي يعني \"و\"؟",
+          "type": "choice",
+          "answer": 6110040501
+        },
+        "611004006": {
+          "question": "أي عامل منطقي يعني \"أو\"؟",
+          "type": "choice",
+          "answer": 6110040602
+        },
+        "611004007": {
+          "question": "اطبع \"Weekend\" إذا كان day يساوي \"Friday\" أو \"Saturday\"، وإلا اطبع \"School day\".",
+          "type": "description",
+          "answer": "let day = \"Friday\";\nif (day === \"Friday\" || day === \"Saturday\") {\n  console.log(\"Weekend\");\n} else {\n  console.log(\"School day\");\n}"
+        }
+      }
+    },
+    "611005": {
+      "description": "ستستخدم حلقات for وwhile وعمليات التحكم لتكرار الأوامر.",
+      "id": 611005,
+      "name": "التكرار والحلقات",
+      "question_count": 7,
+      "section_id": 206,
+      "seq": 5,
+      "test_range": "for, while, break, continue",
+      "test_type": "review",
+      "questions": {
+        "611005001": {
+          "question": "أي حلقة تناسب تكرار أمر عددًا معلومًا من المرات؟",
+          "type": "choice",
+          "answer": 6110050101
+        },
+        "611005002": {
+          "question": "اطبع الأعداد من 1 إلى 5 باستخدام حلقة for.",
+          "type": "description",
+          "answer": "for (let i = 1; i <= 5; i++) {\n  console.log(i);\n}"
+        },
+        "611005003": {
+          "question": "ما قيمة i بعد انتهاء الحلقة for (let i = 0; i < 3; i++)؟",
+          "type": "choice",
+          "answer": 6110050304
+        },
+        "611005004": {
+          "question": "احسب مجموع الأعداد من 1 إلى 10 واطبع الناتج.",
+          "type": "description",
+          "answer": "let sum = 0;\nfor (let i = 1; i <= 10; i++) {\n  sum += i;\n}\nconsole.log(sum);"
+        },
+        "611005005": {
+          "question": "أي كلمة توقف الحلقة فورًا؟",
+          "type": "choice",
+          "answer": 6110050502
+        },
+        "611005006": {
+          "question": "استخدم while لطباعة الأعداد 3 ثم 2 ثم 1.",
+          "type": "description",
+          "answer": "let count = 3;\nwhile (count >= 1) {\n  console.log(count);\n  count--;\n}"
+        },
+        "611005007": {
+          "question": "أي كلمة تتخطى بقية جسم الحلقة وتنتقل للتكرار التالي؟",
+          "type": "choice",
+          "answer": 6110050703
+        }
+      }
+    },
+    "611006": {
+      "description": "ستتعلم إنشاء الدوال واستدعاءها وتمرير المعاملات وإرجاع القيم.",
+      "id": 611006,
+      "name": "الدوال",
+      "question_count": 7,
+      "section_id": 206,
+      "seq": 6,
+      "test_range": "functions, parameters, return, arrow functions",
+      "test_type": "review",
+      "questions": {
+        "611006001": {
+          "question": "أي كلمة تُستخدم لتعريف دالة بالطريقة التقليدية؟",
+          "type": "choice",
+          "answer": 6110060101
+        },
+        "611006002": {
+          "question": "اكتب دالة اسمها greet تطبع \"Hello!\" ثم استدعها.",
+          "type": "description",
+          "answer": "function greet() {\n  console.log(\"Hello!\");\n}\ngreet();"
+        },
+        "611006003": {
+          "question": "اكتب دالة square تستقبل رقمًا وتعيد مربعه، ثم اطبع square(6).",
+          "type": "description",
+          "answer": "function square(number) {\n  return number * number;\n}\nconsole.log(square(6));"
+        },
+        "611006004": {
+          "question": "ما اسم القيمة التي تستقبلها الدالة داخل تعريفها؟",
+          "type": "choice",
+          "answer": 6110060402
+        },
+        "611006005": {
+          "question": "اكتب دالة add تستقبل رقمين وتعيد مجموعهما، ثم اطبع ناتج add(12, 8).",
+          "type": "description",
+          "answer": "function add(a, b) {\n  return a + b;\n}\nconsole.log(add(12, 8));"
+        },
+        "611006006": {
+          "question": "ما الكلمة التي تُخرج قيمة من الدالة إلى المكان الذي استدعاها؟",
+          "type": "choice",
+          "answer": 6110060603
+        },
+        "611006007": {
+          "question": "أنشئ دالة سهمية باسم double تضاعف الرقم، ثم اطبع double(9).",
+          "type": "description",
+          "answer": "const double = number => number * 2;\nconsole.log(double(9));"
+        }
+      }
+    },
+    "611007": {
+      "description": "ستنشئ المصفوفات وتتعامل مع الفهارس والطول وبعض الدوال الشائعة للمصفوفات.",
+      "id": 611007,
+      "name": "المصفوفات والتكرار عليها",
+      "question_count": 7,
+      "section_id": 206,
+      "seq": 7,
+      "test_range": "arrays, index, length, push, pop, map, filter",
+      "test_type": "review",
+      "questions": {
+        "611007001": {
+          "question": "أنشئ مصفوفة باسم colors تحتوي على \"red\" و\"green\" و\"blue\" ثم اطبع العنصر الأول.",
+          "type": "description",
+          "answer": "let colors = [\"red\", \"green\", \"blue\"];\nconsole.log(colors[0]);"
+        },
+        "611007002": {
+          "question": "ما فهرس أول عنصر في مصفوفة JavaScript؟",
+          "type": "choice",
+          "answer": 6110070201
+        },
+        "611007003": {
+          "question": "ما ناتج [10, 20, 30].length؟",
+          "type": "choice",
+          "answer": 6110070303
+        },
+        "611007004": {
+          "question": "أضف الرقم 40 إلى نهاية المصفوفة numbers ثم اطبع المصفوفة.",
+          "type": "description",
+          "answer": "let numbers = [10, 20, 30];\nnumbers.push(40);\nconsole.log(numbers);"
+        },
+        "611007005": {
+          "question": "أي دالة تحذف آخر عنصر من المصفوفة؟",
+          "type": "choice",
+          "answer": 6110070502
+        },
+        "611007006": {
+          "question": "اطبع كل عنصر في المصفوفة fruits باستخدام for...of.",
+          "type": "description",
+          "answer": "let fruits = [\"Apple\", \"Banana\", \"Orange\"];\nfor (const fruit of fruits) {\n  console.log(fruit);\n}"
+        },
+        "611007007": {
+          "question": "أنشئ مصفوفة evenNumbers من [1, 2, 3, 4, 5, 6] تحتوي فقط على الأعداد الزوجية باستخدام filter.",
+          "type": "description",
+          "answer": "let numbers = [1, 2, 3, 4, 5, 6];\nlet evenNumbers = numbers.filter(number => number % 2 === 0);\nconsole.log(evenNumbers);"
+        }
+      }
+    },
+    "611008": {
+      "description": "مراجعة تطبيقية على السلاسل النصية والكائنات وقراءة الخصائص.",
+      "id": 611008,
+      "name": "السلاسل والكائنات والمراجعة",
+      "question_count": 5,
+      "section_id": 206,
+      "seq": 8,
+      "test_range": "strings, objects, review",
+      "test_type": "test",
+      "questions": {
+        "611008001": {
+          "question": "أي خاصية تعيد عدد الأحرف في النص؟",
+          "type": "choice",
+          "answer": 6110080101
+        },
+        "611008002": {
+          "question": "حوّل النص \"javascript\" إلى أحرف كبيرة واطبعه.",
+          "type": "description",
+          "answer": "let language = \"javascript\";\nconsole.log(language.toUpperCase());"
+        },
+        "611008003": {
+          "question": "أي دالة تتحقق من احتواء النص على جزء معين وتعيد true أو false؟",
+          "type": "choice",
+          "answer": 6110080304
+        },
+        "611008004": {
+          "question": "أنشئ كائنًا باسم student له الخاصيتان name بقيمة \"Salma\" وgrade بقيمة 88، ثم اطبع اسم الطالب.",
+          "type": "description",
+          "answer": "let student = { name: \"Salma\", grade: 88 };\nconsole.log(student.name);"
+        },
+        "611008005": {
+          "question": "ما الطريقة الصحيحة للوصول إلى الخاصية grade في الكائن student؟",
+          "type": "choice",
+          "answer": 6110080502
+        }
+      }
+    }
+  }
+}

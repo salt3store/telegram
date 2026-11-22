@@ -1,0 +1,198 @@
+{
+  "solved": [
+    "511008",
+    "511009",
+    "511006",
+    "511007",
+    "511004",
+    "511005",
+    "511002",
+    "511003",
+    "511001",
+    "511011",
+    "511010"
+  ],
+  "failed": {
+    "511004": [
+      {
+        "id": 511004010,
+        "type": "choice",
+        "sent": 5110040101
+      },
+      {
+        "id": 511004020,
+        "type": "description",
+        "sent": "print(\"hello\")"
+      },
+      {
+        "id": 511004030,
+        "type": "description",
+        "sent": "#Leave this text\nprint(\"Make the first line a comment\")"
+      },
+      {
+        "id": 511004040,
+        "type": "choice",
+        "sent": 5110040401
+      },
+      {
+        "id": 511004050,
+        "type": "choice",
+        "sent": 5110040501
+      },
+      {
+        "id": 511004060,
+        "type": "description",
+        "sent": "print(\"The answer is \" + str(3 * 4))"
+      },
+      {
+        "id": 511004070,
+        "type": "choice",
+        "sent": 5110040701
+      },
+      {
+        "id": 511004080,
+        "type": "description",
+        "sent": "num = 5\nprint(num)"
+      }
+    ],
+    "511005": [
+      {
+        "id": 511005030,
+        "type": "description",
+        "sent": "num = 100\nif num == 100:\nprint(\"Correct\")"
+      }
+    ],
+    "511006": [
+      {
+        "id": 511006020,
+        "type": "description",
+        "sent": "num = 5\nif num == 10:\nprint(\"Win\")\nelse:\nprint(\"No prize\")"
+      },
+      {
+        "id": 511006050,
+        "type": "description",
+        "sent": "score = 80\nif score >= 60:\nprint(\"Pass\")\nelse:\nprint(\"Fail\")"
+      }
+    ],
+    "511007": [
+      {
+        "id": 511007020,
+        "type": "description",
+        "sent": "num=2\nif num == 1:\nprint(\"It's 1\")\nelif num == 2:\nprint(\"It's 2\")"
+      },
+      {
+        "id": 511007030,
+        "type": "description",
+        "sent": "score = 82\nif score == 100:\nprint(\"Perfect score\")\nelif score >= 80:\nprint(\"Pass\")"
+      },
+      {
+        "id": 511007050,
+        "type": "description",
+        "sent": "egg = 5\nif egg == 0:\nprint(\"Out of stock\")\nelif egg <= 3:\nprint(\"Low stock\")\nelse:\nprint(\"In stock\")"
+      }
+    ],
+    "511008": [
+      {
+        "id": 511008010,
+        "type": "description",
+        "sent": "num = 7\nif num == 7:\n    print(\"Win\")"
+      },
+      {
+        "id": 511008020,
+        "type": "choice",
+        "sent": 5110080201
+      },
+      {
+        "id": 511008030,
+        "type": "description",
+        "sent": "score = 70\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+      },
+      {
+        "id": 511008040,
+        "type": "choice",
+        "sent": 5110080401
+      },
+      {
+        "id": 511008050,
+        "type": "description",
+        "sent": "num = 100\nif num == 100:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+      },
+      {
+        "id": 511008060,
+        "type": "choice",
+        "sent": 5110080601
+      },
+      {
+        "id": 511008070,
+        "type": "description",
+        "sent": "num = 4\nif num <= 3:\n    print(\"It's A\")\nelif num >= 6:\n    print(\"It's B\")\nelse:\n    print(\"It's C\")"
+      }
+    ],
+    "511009": [
+      {
+        "id": 511009040,
+        "type": "description",
+        "sent": "a = 5\nb = 10\nif a == 5 or b == 10:\nprint(\"The condition is met\")"
+      },
+      {
+        "id": 511009050,
+        "type": "description",
+        "sent": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"The condition is met\")"
+      }
+    ],
+    "511010": [
+      {
+        "id": 511010040,
+        "type": "description",
+        "sent": "for i in range(5):\nprint(\"Hello\")"
+      },
+      {
+        "id": 511010050,
+        "type": "description",
+        "sent": "for i in range(7):\nprint(\"Hello\")"
+      }
+    ],
+    "511011": [
+      {
+        "id": 511011010,
+        "type": "choice",
+        "sent": 5110110101
+      },
+      {
+        "id": 511011020,
+        "type": "choice",
+        "sent": 5110110201
+      },
+      {
+        "id": 511011030,
+        "type": "choice",
+        "sent": 5110110301
+      },
+      {
+        "id": 511011040,
+        "type": "choice",
+        "sent": 5110110401
+      },
+      {
+        "id": 511011050,
+        "type": "choice",
+        "sent": 5110110501
+      },
+      {
+        "id": 511011060,
+        "type": "description",
+        "sent": "for i in range(10):\nprint(\"Good morning\")"
+      },
+      {
+        "id": 511011070,
+        "type": "description",
+        "sent": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"the condition is met\")"
+      },
+      {
+        "id": 511011080,
+        "type": "description",
+        "sent": "for i in range(3):\nprint(\"Hello\")"
+      }
+    ]
+  }
+}

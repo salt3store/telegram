@@ -1,0 +1,20 @@
+  محاضرات: 3
+    ❌ 90034010
+    ❌ 90034020
+    ❌ 90034030
+  📊 0/3 محاضرة مكتملة
+  PUT /test → 400 {"last_lecture_not_completed":true}
+
+  ❌ [1/5] 90034010 (description) → 400: {"already_answered":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not_started":true}
+
+  ❌ [2/5] 90034020 (choice) → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not_started":true}
+
+  ❌ [3/5] 90034030 (choice) → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not_started":true}
+
+  ❌ [4/5] 90034040 (choice) → 400: {"already_answered":false,"invalid_choice":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not_started":true}
+
+  ❌ [5/5] 90034050 (description) → 400: {"already_answered":false,"invalid_question_type":false,"prev_question_not_answered":false,"test_not_started":true}
+
+
+📊 النتيجة: 0/5 (completed=False)
+💾 حفظ في javascript_max.json

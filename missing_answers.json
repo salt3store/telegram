@@ -1,0 +1,146 @@
+{
+  "511001": {
+    "511001060": {
+      "type": "description",
+      "answer": "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Rick\")\nprint(\"Cody\")"
+    }
+  },
+  "511002": {
+    "511002010": {
+      "type": "choice",
+      "answer": 5110020101
+    },
+    "511002030": {
+      "type": "description",
+      "answer": "print(19 + 40)"
+    },
+    "511002040": {
+      "type": "description",
+      "answer": "print(7 - 2)"
+    },
+    "511002050": {
+      "type": "description",
+      "answer": "print(15 / 5)"
+    },
+    "511002060": {
+      "type": "choice",
+      "answer": 5110020601
+    },
+    "511002070": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(2 * 5))"
+    }
+  },
+  "511003": {
+    "511003030": {
+      "type": "description",
+      "answer": "number = 0"
+    },
+    "511003040": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 100"
+    },
+    "511003050": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 10\nprint(number)"
+    },
+    "511003060": {
+      "type": "description",
+      "answer": "number = 3\nnumber = number + 10\nprint(number)"
+    }
+  },
+  "511004": {
+    "511004040": {
+      "type": "choice",
+      "answer": 5110040401
+    },
+    "511004060": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(3 * 4))"
+    }
+  },
+  "511005": {
+    "511005010": {
+      "type": "choice",
+      "answer": 5110050101
+    },
+    "511005020": {
+      "type": "choice",
+      "answer": 5110050201
+    }
+  },
+  "511006": {
+    "511006010": {
+      "type": "choice",
+      "answer": 5110060101
+    },
+    "511006050": {
+      "type": "description",
+      "answer": "score = 80\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    }
+  },
+  "511007": {
+    "511007010": {
+      "type": "choice",
+      "answer": 5110070101
+    },
+    "511007020": {
+      "type": "description",
+      "answer": "num=2\nif num == 1:\n    print(\"It's 1\")\nelif num == 2:\n    print(\"It's 2\")"
+    }
+  },
+  "511008": {
+    "511008030": {
+      "type": "description",
+      "answer": "score = 70\nif score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    },
+    "511008050": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\n    print(\"Win\")\nelse:\n    print(\"No prize\")"
+    },
+    "511008070": {
+      "type": "description",
+      "answer": "num = 4\nif num <= 3:\n    print(\"It's A\")\nelif num >= 6:\n    print(\"It's B\")\nelse:\n    print(\"It's C\")"
+    }
+  },
+  "511009": {
+    "511009010": {
+      "type": "choice",
+      "answer": 5110090101
+    },
+    "511009020": {
+      "type": "choice",
+      "answer": 5110090201
+    },
+    "511009030": {
+      "type": "choice",
+      "answer": 5110090301
+    },
+    "511009040": {
+      "type": "description",
+      "answer": "a = 5\nb = 10\nif a == 5 or b == 10:\n    print(\"The condition is met\")"
+    }
+  },
+  "511010": {
+    "511010030": {
+      "type": "choice",
+      "answer": 5110100301
+    }
+  },
+  "511012": {
+    "511012040": {
+      "type": "description",
+      "answer": "import math\nprint(round(5.5))\nprint(math.floor(8.8))"
+    },
+    "511012050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.5:\n    print(\"A bright day\")\nelse:\n    print(\"Take it slow and do your best\")"
+    }
+  },
+  "511025": {
+    "511025070": {
+      "type": "choice",
+      "answer": 5110250701
+    }
+  }
+}

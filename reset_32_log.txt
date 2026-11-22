@@ -1,0 +1,9 @@
+  best=4 | completed=True | {'best_correct_count': 4, 'chapter_id': 90032, 'completed_at': '2026-05-08T22:07:07.490+09:00', 'diamond': 4, 'started_at': '2026-05-08T03:45:20.390+09:00'}
+    DELETE study/students/chapters/90032/test → 405 {"code":405,"message":"method DELETE is not allowed, but [GET,PUT] are"}
+    DELETE study/students/chapters/90032 → 405 {"code":405,"message":"method DELETE is not allowed, but [GET] are"}
+    POST study/students/chapters/90032/test/reset → 404 {"code":404,"message":"path /api/study/students/chapters/90032/test/reset was not found"}
+    PUT study/students/chapters/90032/test/reset → 404 {"code":404,"message":"path /api/study/students/chapters/90032/test/reset was not found"}
+    POST study/students/chapters/90032/reset → 404 {"code":404,"message":"path /api/study/students/chapters/90032/reset was not found"}
+    PUT study/students/chapters/90032/reset → 404 {"code":404,"message":"path /api/study/students/chapters/90032/reset was not found"}
+    PUT study/students/chapters/90032/test → 204 
+  best=4 | completed=True | {'best_correct_count': 4, 'chapter_id': 90032, 'completed_at': '2026-05-08T22:07:07.490+09:00', 'diamond': 4, 'started_at': '2026-05-08T03:45:20.390+09:00'}

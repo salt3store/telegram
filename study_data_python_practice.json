@@ -1,0 +1,402 @@
+{
+  "course": "Python Short Arabic — بنك تدريب شامل",
+  "grade": "الصف الثاني الثانوي / ثانية بكالوريا",
+  "mode": "original_practice",
+  "source_note": "أسئلة تدريبية أصلية تغطي عناوين المستويات العامة؛ ليست نقلًا من اختبار المنصة.",
+  "levels": {
+    "511001": {
+      "unit": 1,
+      "unit_title": "الفصل الأول - مراجعة",
+      "title": "مراجعة الفصل الأول",
+      "level": 511001,
+      "questions": [
+        {
+          "question": "اختر البرنامج الصحيح لطباعة \"Hello\" في وحدة التحكم.",
+          "answer": "print(\"Hello\")",
+          "label": "السؤال 1"
+        },
+        {
+          "question": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) تتم طباعة \"Good morning\" في وحدة التحكم نسخ النص: Good morning",
+          "answer": "print(\"Good morning\")",
+          "label": "السؤال 2"
+        },
+        {
+          "question": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) اطبع \"programming\" في وحدة التحكم نسخ النص: programming",
+          "answer": "print(\"programming\")",
+          "label": "السؤال 3"
+        },
+        {
+          "question": "يرجى إنشاء البرنامج كما هو موضح أدناه. (1) اطبع \"hello\" في وحدة التحكم نسخ النص: hello",
+          "answer": "print(\"hello\")",
+          "label": "السؤال 4"
+        },
+        {
+          "question": "يرجى اختيار الطريقة الصحيحة لكتابة تعليق.",
+          "answer": "#Write a comment here",
+          "label": "السؤال 5"
+        },
+        {
+          "question": "علّق البرنامج بحيث تكون الطباعة كما هو موضح أدناه. Hello My name is Cody",
+          "answer": "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Riki\")\nprint(\"Cody\")",
+          "label": "السؤال 6"
+        }
+      ]
+    },
+    "1": {
+      "unit": 1,
+      "unit_title": "وحدة تدريبية 1",
+      "title": "مقدمة",
+      "level": 1,
+      "questions": [
+        { "question": "اكتب برنامجًا يطبع Hello, Python!", "answer": "print(\"Hello, Python!\")", "label": "السؤال 1" },
+        { "question": "ما ناتج print(\"Start\")؟", "answer": "Start", "label": "السؤال 2" },
+        { "question": "اكتب سطرًا يطبع العدد 42 كقيمة عددية.", "answer": "print(42)", "label": "السؤال 3" },
+        { "question": "ما الفرق في الناتج بين print(5 + 2) وprint(\"5 + 2\")؟", "answer": "الأول يطبع 7، والثاني يطبع النص 5 + 2.", "label": "السؤال 4" },
+        { "question": "اكتب سطرين يطبعان الاسم ثم كلمة Welcome.", "answer": "print(\"Mona\")\nprint(\"Welcome\")", "label": "السؤال 5" },
+        { "question": "ما ناتج print(\"A\") ثم print(\"B\") في سطرين؟", "answer": "A\nB", "label": "السؤال 6" }
+      ]
+    },
+    "2": {
+      "unit": 1,
+      "unit_title": "وحدة تدريبية 1",
+      "title": "الحسابات والنصوص",
+      "level": 2,
+      "questions": [
+        { "question": "ما ناتج print(8 + 3 * 2)؟", "answer": "14", "label": "السؤال 1" },
+        { "question": "اكتب برنامجًا يحسب 48 مقسومة على 6 ويطبع الناتج.", "answer": "print(48 / 6)", "label": "السؤال 2" },
+        { "question": "ما ناتج print(\"ha\" * 3)؟", "answer": "hahaha", "label": "السؤال 3" },
+        { "question": "اكتب سطرًا يطبع النص Sum = ثم ناتج 7 + 5 باستخدام str.", "answer": "print(\"Sum = \" + str(7 + 5))", "label": "السؤال 4" },
+        { "question": "ما ناتج print(17 // 5)؟", "answer": "3", "label": "السؤال 5" },
+        { "question": "ما ناتج print(17 % 5)؟", "answer": "2", "label": "السؤال 6" }
+      ]
+    },
+    "3": {
+      "unit": 1,
+      "unit_title": "وحدة تدريبية 1",
+      "title": "إسناد القيم إلى المتغيرات",
+      "level": 3,
+      "questions": [
+        { "question": "أنشئ متغيرًا apples قيمته 6 ثم اطبعه.", "answer": "apples = 6\nprint(apples)", "label": "السؤال 1" },
+        { "question": "ما ناتج x = 4 ثم x = x + 3 ثم print(x)؟", "answer": "7", "label": "السؤال 2" },
+        { "question": "اكتب تعيينًا يجعل name يساوي النص Sara.", "answer": "name = \"Sara\"", "label": "السؤال 3" },
+        { "question": "ما ناتج n = 10 ثم n -= 4 ثم print(n)؟", "answer": "6", "label": "السؤال 4" },
+        { "question": "أنشئ total واجعله مجموع 12 و9 ثم اطبعه.", "answer": "total = 12 + 9\nprint(total)", "label": "السؤال 5" },
+        { "question": "ما ناتج a = 2 ثم a = a * 5 ثم print(a)؟", "answer": "10", "label": "السؤال 6" }
+      ]
+    },
+    "4": {
+      "unit": 1,
+      "unit_title": "وحدة تدريبية 1",
+      "title": "مراجعة الفهم — الأساسيات",
+      "level": 4,
+      "questions": [
+        { "question": "ما ناتج x = 3 ثم y = x + 4 ثم print(y)؟", "answer": "7", "label": "السؤال 1" },
+        { "question": "اكتب كودًا يخزن 15 في score ويطبع score + 5.", "answer": "score = 15\nprint(score + 5)", "label": "السؤال 2" },
+        { "question": "ما ناتج print(type(8).__name__)؟", "answer": "int", "label": "السؤال 3" },
+        { "question": "ما ناتج print(type(\"8\").__name__)؟", "answer": "str", "label": "السؤال 4" },
+        { "question": "اكتب سطر تعليق يشرح أن البرنامج يبدأ هنا.", "answer": "# يبدأ البرنامج هنا", "label": "السؤال 5" },
+        { "question": "ما ناتج print(2 ** 4)؟", "answer": "16", "label": "السؤال 6" }
+      ]
+    },
+    "5": {
+      "unit": 2,
+      "unit_title": "وحدة تدريبية 2",
+      "title": "جملة if",
+      "level": 5,
+      "questions": [
+        { "question": "اكتب شرطًا يطبع Adult إذا كان age يساوي 18 أو أكثر.", "answer": "if age >= 18:\n    print(\"Adult\")", "label": "السؤال 1" },
+        { "question": "ما الناتج إذا كان score = 72؟\nif score >= 50:\n    print(\"Pass\")", "answer": "Pass", "label": "السؤال 2" },
+        { "question": "اكتب شرطًا يطبع Zero إذا كانت value تساوي صفرًا.", "answer": "if value == 0:\n    print(\"Zero\")", "label": "السؤال 3" },
+        { "question": "ما ناتج x = 5 ثم if x > 8: print(\"High\")؟", "answer": "لا يطبع شيئًا.", "label": "السؤال 4" },
+        { "question": "اكتب شرطًا يتحقق من أن temperature أقل من 0.", "answer": "if temperature < 0:\n    print(\"Below freezing\")", "label": "السؤال 5" },
+        { "question": "ما قيمة التعبير 9 != 4؟", "answer": "True", "label": "السؤال 6" }
+      ]
+    },
+    "6": {
+      "unit": 2,
+      "unit_title": "وحدة تدريبية 2",
+      "title": "جمل if - else",
+      "level": 6,
+      "questions": [
+        { "question": "اكتب if/else تطبع Even إذا كان n زوجيًا وإلا Odd.", "answer": "if n % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")", "label": "السؤال 1" },
+        { "question": "ما الناتج إذا كان x = 3؟\nif x >= 5:\n    print(\"large\")\nelse:\n    print(\"small\")", "answer": "small", "label": "السؤال 2" },
+        { "question": "اكتب شرطًا يطبع Open إذا كان hour أقل من 17 وإلا Closed.", "answer": "if hour < 17:\n    print(\"Open\")\nelse:\n    print(\"Closed\")", "label": "السؤال 3" },
+        { "question": "ما ناتج score = 50 مع if score > 50 ثم else؟", "answer": "ينفذ فرع else لأن 50 ليست أكبر من 50.", "label": "السؤال 4" },
+        { "question": "اكتب if/else لتحديد هل العدد موجب أم غير موجب.", "answer": "if number > 0:\n    print(\"Positive\")\nelse:\n    print(\"Not positive\")", "label": "السؤال 5" },
+        { "question": "ما ناتج n = 0 مع if n == 0: print(\"zero\") وإلا print(\"other\")؟", "answer": "zero", "label": "السؤال 6" }
+      ]
+    },
+    "7": {
+      "unit": 2,
+      "unit_title": "وحدة تدريبية 2",
+      "title": "جمل elif",
+      "level": 7,
+      "questions": [
+        { "question": "اكتب تصنيفًا: A إذا score >= 90، وB إذا >= 80، وإلا C.", "answer": "if score >= 90:\n    print(\"A\")\nelif score >= 80:\n    print(\"B\")\nelse:\n    print(\"C\")", "label": "السؤال 1" },
+        { "question": "ما الناتج إذا كان score = 84 في الشرط السابق؟", "answer": "B", "label": "السؤال 2" },
+        { "question": "اكتب تصنيفًا للحرارة: Cold تحت 10، Mild تحت 25، وإلا Hot.", "answer": "if temp < 10:\n    print(\"Cold\")\nelif temp < 25:\n    print(\"Mild\")\nelse:\n    print(\"Hot\")", "label": "السؤال 3" },
+        { "question": "ما الناتج إذا كان temp = 25 في الشرط السابق؟", "answer": "Hot", "label": "السؤال 4" },
+        { "question": "اكتب شرطًا يطبع Negative أو Zero أو Positive حسب n.", "answer": "if n < 0:\n    print(\"Negative\")\nelif n == 0:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")", "label": "السؤال 5" },
+        { "question": "ما الفرع الذي ينفذ إذا x=12 في if x<5 / elif x<15 / else؟", "answer": "فرع elif x < 15.", "label": "السؤال 6" }
+      ]
+    },
+    "8": {
+      "unit": 2,
+      "unit_title": "وحدة تدريبية 2",
+      "title": "مراجعة الفهم — الشروط",
+      "level": 8,
+      "questions": [
+        { "question": "ما ناتج x=12 إذا كان if x<10 يطبع A وإلا يطبع B؟", "answer": "B", "label": "السؤال 1" },
+        { "question": "اكتب شرطًا يطبع Pass عند درجة 60 أو أكثر، وRetry خلاف ذلك.", "answer": "if grade >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Retry\")", "label": "السؤال 2" },
+        { "question": "ما ناتج n=9 مع شرط n%2==0؟", "answer": "الشرط False؛ العدد فردي.", "label": "السؤال 3" },
+        { "question": "اكتب شرطًا يختار الأكبر بين a وb ويطبع الأكبر.", "answer": "if a > b:\n    print(a)\nelse:\n    print(b)", "label": "السؤال 4" },
+        { "question": "ما ناتج 4 <= 4؟", "answer": "True", "label": "السؤال 5" },
+        { "question": "ما ناتج 7 < 3؟", "answer": "False", "label": "السؤال 6" }
+      ]
+    },
+    "9": {
+      "unit": 3,
+      "unit_title": "وحدة تدريبية 3",
+      "title": "العامل المنطقي",
+      "level": 9,
+      "questions": [
+        { "question": "اكتب شرطًا يتطلب age >= 18 وhas_id صحيحًا باستخدام and.", "answer": "if age >= 18 and has_id:\n    print(\"Allowed\")", "label": "السؤال 1" },
+        { "question": "ما ناتج True and False؟", "answer": "False", "label": "السؤال 2" },
+        { "question": "ما ناتج False or True؟", "answer": "True", "label": "السؤال 3" },
+        { "question": "اكتب شرطًا يتحقق أن x خارج المجال من 1 إلى 10 باستخدام or.", "answer": "if x < 1 or x > 10:\n    print(\"Outside\")", "label": "السؤال 4" },
+        { "question": "ما ناتج not True؟", "answer": "False", "label": "السؤال 5" },
+        { "question": "اكتب شرطًا يسمح إذا كان member أو معه pass.", "answer": "if member or has_pass:\n    print(\"Enter\")", "label": "السؤال 6" }
+      ]
+    },
+    "10": {
+      "unit": 3,
+      "unit_title": "وحدة تدريبية 3",
+      "title": "العملية التكرارية",
+      "level": 10,
+      "questions": [
+        { "question": "اكتب while تطبع 1 و2 و3.", "answer": "i = 1\nwhile i <= 3:\n    print(i)\n    i += 1", "label": "السؤال 1" },
+        { "question": "ما الأعداد التي تطبعها for i in range(3)؟", "answer": "0\n1\n2", "label": "السؤال 2" },
+        { "question": "اكتب for تطبع الأعداد 2 إلى 5 شاملة.", "answer": "for n in range(2, 6):\n    print(n)", "label": "السؤال 3" },
+        { "question": "ما ناتج مجموع الأعداد في range(1, 4)؟", "answer": "6", "label": "السؤال 4" },
+        { "question": "ما عدد مرات تنفيذ for _ in range(4)؟", "answer": "4 مرات.", "label": "السؤال 5" },
+        { "question": "اكتب while تطبع 5 ثم 4 ثم 3.", "answer": "n = 5\nwhile n >= 3:\n    print(n)\n    n -= 1", "label": "السؤال 6" }
+      ]
+    },
+    "11": {
+      "unit": 3,
+      "unit_title": "وحدة تدريبية 3",
+      "title": "مراجعة الفهم — التكرار",
+      "level": 11,
+      "questions": [
+        { "question": "ما ناتج total بعد total=0 وfor n in [2,3,4]: total += n؟", "answer": "9", "label": "السؤال 1" },
+        { "question": "اكتب حلقة تطبع مضاعفات 3 من 3 إلى 15.", "answer": "for n in range(3, 16, 3):\n    print(n)", "label": "السؤال 2" },
+        { "question": "كم مرة تطبع الحلقة؟ i=0; while i<5: i+=1", "answer": "5 مرات.", "label": "السؤال 3" },
+        { "question": "ما ناتج for n in range(2, 7, 2): print(n)؟", "answer": "2\n4\n6", "label": "السؤال 4" },
+        { "question": "اكتب حلقة تحسب عدد الأعداد الزوجية في [1,2,3,4].", "answer": "count = 0\nfor n in [1, 2, 3, 4]:\n    if n % 2 == 0:\n        count += 1", "label": "السؤال 5" },
+        { "question": "ما ناتج جمع range(1, 5)؟", "answer": "10", "label": "السؤال 6" }
+      ]
+    },
+    "12": {
+      "unit": 3,
+      "unit_title": "وحدة تدريبية 3",
+      "title": "الدالة (1)",
+      "level": 12,
+      "questions": [
+        { "question": "عرّف دالة greet تطبع Hello.", "answer": "def greet():\n    print(\"Hello\")", "label": "السؤال 1" },
+        { "question": "كيف تستدعي الدالة greet بعد تعريفها؟", "answer": "greet()", "label": "السؤال 2" },
+        { "question": "ما الناتج؟\ndef show():\n    print(\"Hi\")\nshow()", "answer": "Hi", "label": "السؤال 3" },
+        { "question": "عرّف دالة line تطبع خمسة شرطات.", "answer": "def line():\n    print(\"-----\")", "label": "السؤال 4" },
+        { "question": "ما وظيفة كلمة def؟", "answer": "تبدأ تعريف دالة.", "label": "السؤال 5" },
+        { "question": "ما الناتج؟\ndef twice():\n    print(2 * 4)\ntwice()", "answer": "8", "label": "السؤال 6" }
+      ]
+    },
+    "13": {
+      "unit": 4,
+      "unit_title": "وحدة تدريبية 4",
+      "title": "الدالة (2)",
+      "level": 13,
+      "questions": [
+        { "question": "اكتب دالة square(x) تعيد مربع x.", "answer": "def square(x):\n    return x * x", "label": "السؤال 1" },
+        { "question": "ما ناتج double(7) إذا كانت double(n): return n*2؟", "answer": "14", "label": "السؤال 2" },
+        { "question": "اكتب دالة add(a,b) تعيد مجموعهما.", "answer": "def add(a, b):\n    return a + b", "label": "السؤال 3" },
+        { "question": "ما الفرق بين print وreturn داخل الدالة؟", "answer": "print يعرض قيمة؛ return يعيدها إلى موضع الاستدعاء.", "label": "السؤال 4" },
+        { "question": "اكتب دالة is_positive(n) تعيد n>0.", "answer": "def is_positive(n):\n    return n > 0", "label": "السؤال 5" },
+        { "question": "ما ناتج add(3, 9) عند استخدام الدالة add السابقة؟", "answer": "12", "label": "السؤال 6" }
+      ]
+    },
+    "14": {
+      "unit": 4,
+      "unit_title": "وحدة تدريبية 4",
+      "title": "مراجعة الفهم — الدوال",
+      "level": 14,
+      "questions": [
+        { "question": "اكتب دالة cube(n) تعيد n مرفوعًا للقوة 3.", "answer": "def cube(n):\n    return n ** 3", "label": "السؤال 1" },
+        { "question": "ما ناتج calc(5) إذا كانت calc(x): return x+2؟", "answer": "7", "label": "السؤال 2" },
+        { "question": "اكتب دالة أكبر max_of_two تعيد الأكبر من a وb.", "answer": "def max_of_two(a, b):\n    if a > b:\n        return a\n    return b", "label": "السؤال 3" },
+        { "question": "ما القيمة المعادة من is_even(8) إذا كانت تعيد n%2==0؟", "answer": "True", "label": "السؤال 4" },
+        { "question": "اكتب دالة باسم welcome تستقبل name وتعيد النص Hello متبوعًا بالاسم.", "answer": "def welcome(name):\n    return \"Hello \" + name", "label": "السؤال 5" },
+        { "question": "ما ناتج len_result([1,2,3]) إذا كانت الدالة تعيد len(items)؟", "answer": "3", "label": "السؤال 6" }
+      ]
+    },
+    "15": {
+      "unit": 4,
+      "unit_title": "وحدة تدريبية 4",
+      "title": "المصفوفة (1)",
+      "level": 15,
+      "questions": [
+        { "question": "أنشئ قائمة fruits فيها apple وpear.", "answer": "fruits = [\"apple\", \"pear\"]", "label": "السؤال 1" },
+        { "question": "ما قيمة nums[0] للقائمة nums=[4,7,9]؟", "answer": "4", "label": "السؤال 2" },
+        { "question": "ما قيمة nums[2] للقائمة nums=[4,7,9]؟", "answer": "9", "label": "السؤال 3" },
+        { "question": "ما طول القائمة [\"a\", \"b\", \"c\"]؟", "answer": "3", "label": "السؤال 4" },
+        { "question": "اكتب قائمة درجات تحتوي 80 و95 و72.", "answer": "scores = [80, 95, 72]", "label": "السؤال 5" },
+        { "question": "ما ناتج [10,20,30][-1]؟", "answer": "30", "label": "السؤال 6" }
+      ]
+    },
+    "16": {
+      "unit": 4,
+      "unit_title": "وحدة تدريبية 4",
+      "title": "المصفوفة (2)",
+      "level": 16,
+      "questions": [
+        { "question": "أضف 8 إلى نهاية nums باستخدام append.", "answer": "nums.append(8)", "label": "السؤال 1" },
+        { "question": "ما القائمة بعد nums=[1,2] ثم nums.append(3)؟", "answer": "[1, 2, 3]", "label": "السؤال 2" },
+        { "question": "ما ناتج len([\"x\", \"y\"])؟", "answer": "2", "label": "السؤال 3" },
+        { "question": "غيّر أول عنصر في colors إلى \"green\".", "answer": "colors[0] = \"green\"", "label": "السؤال 4" },
+        { "question": "ما ناتج sum([2,4,6])؟", "answer": "12", "label": "السؤال 5" },
+        { "question": "اكتب كودًا يطبع آخر عنصر في القائمة items.", "answer": "print(items[-1])", "label": "السؤال 6" }
+      ]
+    },
+    "17": {
+      "unit": 5,
+      "unit_title": "وحدة تدريبية 5",
+      "title": "مراجعة الفهم — القوائم",
+      "level": 17,
+      "questions": [
+        { "question": "ما ناتج xs=[2,4,6] ثم xs[1]=9 ثم print(xs)؟", "answer": "[2, 9, 6]", "label": "السؤال 1" },
+        { "question": "اكتب حلقة تطبع كل عنصر في names.", "answer": "for name in names:\n    print(name)", "label": "السؤال 2" },
+        { "question": "ما ناتج [3,5,7][1]؟", "answer": "5", "label": "السؤال 3" },
+        { "question": "أنشئ قائمة فارغة اسمها tasks.", "answer": "tasks = []", "label": "السؤال 4" },
+        { "question": "ما طول القائمة بعد xs=[] ثم xs.append(\"a\") ثم xs.append(\"b\")؟", "answer": "2", "label": "السؤال 5" },
+        { "question": "اكتب تعبيرًا يتحقق هل 5 موجودة في nums.", "answer": "5 in nums", "label": "السؤال 6" }
+      ]
+    },
+    "18": {
+      "unit": 5,
+      "unit_title": "وحدة تدريبية 5",
+      "title": "bool",
+      "level": 18,
+      "questions": [
+        { "question": "ما نوع القيمة True في Python؟", "answer": "bool", "label": "السؤال 1" },
+        { "question": "ما ناتج bool(0)؟", "answer": "False", "label": "السؤال 2" },
+        { "question": "ما ناتج bool(3)؟", "answer": "True", "label": "السؤال 3" },
+        { "question": "ما ناتج bool(\"\")؟", "answer": "False", "label": "السؤال 4" },
+        { "question": "ما ناتج bool(\"False\")؟", "answer": "True", "label": "السؤال 5" },
+        { "question": "ما ناتج 6 == 6؟", "answer": "True", "label": "السؤال 6" }
+      ]
+    },
+    "19": {
+      "unit": 5,
+      "unit_title": "وحدة تدريبية 5",
+      "title": "الدوال (3)",
+      "level": 19,
+      "questions": [
+        { "question": "اكتب دالة total_two(a,b) تعيد مجموع قيمتين.", "answer": "def total_two(a, b):\n    return a + b", "label": "السؤال 1" },
+        { "question": "اكتب دالة total_three(a,b,c) تعيد مجموع ثلاث قيم.", "answer": "def total_three(a, b, c):\n    return a + b + c", "label": "السؤال 2" },
+        { "question": "ما ناتج min(8, 3, 5)؟", "answer": "3", "label": "السؤال 3" },
+        { "question": "اكتب دالة count_items(items) تعيد عدد عناصر القائمة.", "answer": "def count_items(items):\n    return len(items)", "label": "السؤال 4" },
+        { "question": "اكتب دالة count_positive(nums) تعد الأعداد الأكبر من صفر.", "answer": "def count_positive(nums):\n    count = 0\n    for n in nums:\n        if n > 0:\n            count += 1\n    return count", "label": "السؤال 5" },
+        { "question": "ما ناتج total_three(2,4,6)؟", "answer": "12", "label": "السؤال 6" }
+      ]
+    },
+    "20": {
+      "unit": 5,
+      "unit_title": "وحدة تدريبية 5",
+      "title": "مراجعة الفهم — الدوال والقيم المنطقية",
+      "level": 20,
+      "questions": [
+        { "question": "ما ناتج check(7) إذا كانت check(n): return n>=10؟", "answer": "False", "label": "السؤال 1" },
+        { "question": "اكتب دالة in_range(x) تعيد True إذا كان x بين 0 و100 شاملًا.", "answer": "def in_range(x):\n    return x >= 0 and x <= 100", "label": "السؤال 2" },
+        { "question": "ما ناتج max(3, 9, 4)؟", "answer": "9", "label": "السؤال 3" },
+        { "question": "اكتب دالة all_positive(nums) تتحقق أن كل عنصر أكبر من صفر.", "answer": "def all_positive(nums):\n    for n in nums:\n        if n <= 0:\n            return False\n    return True", "label": "السؤال 4" },
+        { "question": "ما ناتج bool([])؟", "answer": "False", "label": "السؤال 5" },
+        { "question": "ما قيمة 4 < 8 and 8 < 10؟", "answer": "True", "label": "السؤال 6" }
+      ]
+    },
+    "21": {
+      "unit": 6,
+      "unit_title": "وحدة تدريبية 6",
+      "title": "مراجعة الفهم — تطبيقات متنوعة 1",
+      "level": 21,
+      "questions": [
+        { "question": "ما ناتج nums=[1,3,5] ثم print(nums[2]+nums[0])؟", "answer": "6", "label": "السؤال 1" },
+        { "question": "اكتب شرطًا يطبع In range إذا كان x من 1 إلى 10 شاملًا.", "answer": "if x >= 1 and x <= 10:\n    print(\"In range\")", "label": "السؤال 2" },
+        { "question": "ما ناتج جمع الأعداد الزوجية في [1,2,3,4]؟", "answer": "6", "label": "السؤال 3" },
+        { "question": "اكتب دالة تصنّف n إلى even أو odd وتعيد النص.", "answer": "def parity(n):\n    if n % 2 == 0:\n        return \"even\"\n    return \"odd\"", "label": "السؤال 4" },
+        { "question": "ما ناتج [\"red\",\"blue\"][1]؟", "answer": "blue", "label": "السؤال 5" },
+        { "question": "اكتب كودًا يطبع أكبر عدد في القائمة values باستخدام max.", "answer": "print(max(values))", "label": "السؤال 6" }
+      ]
+    },
+    "22": {
+      "unit": 6,
+      "unit_title": "وحدة تدريبية 6",
+      "title": "مراجعة الفهم — تطبيقات متنوعة 2",
+      "level": 22,
+      "questions": [
+        { "question": "ما ناتج calc(5) إذا كانت calc(x): return x*2 ثم نطبع calc(5)+1؟", "answer": "11", "label": "السؤال 1" },
+        { "question": "اكتب حلقة تطبع عناصر nums الأكبر من صفر فقط.", "answer": "for n in nums:\n    if n > 0:\n        print(n)", "label": "السؤال 2" },
+        { "question": "ما ناتج len([2,4,6,8])؟", "answer": "4", "label": "السؤال 3" },
+        { "question": "اكتب دالة sum_list(nums) تعيد مجموع عناصر قائمة.", "answer": "def sum_list(nums):\n    total = 0\n    for n in nums:\n        total += n\n    return total", "label": "السؤال 4" },
+        { "question": "ما ناتج 2**3 + 1؟", "answer": "9", "label": "السؤال 5" },
+        { "question": "اكتب شرطًا يتحقق أن النص name غير فارغ.", "answer": "if name != \"\":\n    print(\"Has name\")", "label": "السؤال 6" }
+      ]
+    },
+    "23": {
+      "unit": 6,
+      "unit_title": "وحدة تدريبية 6",
+      "title": "جملة for والمصفوفة",
+      "level": 23,
+      "questions": [
+        { "question": "اكتب حلقة تجمع عناصر nums في total يبدأ من صفر.", "answer": "total = 0\nfor n in nums:\n    total += n", "label": "السؤال 1" },
+        { "question": "ما القيم المطبوعة من [2,4,6] عند طباعة n//2 لكل عنصر؟", "answer": "1\n2\n3", "label": "السؤال 2" },
+        { "question": "اكتب حلقة تطبع فهارس القائمة من 0 إلى len(items)-1.", "answer": "for i in range(len(items)):\n    print(i)", "label": "السؤال 3" },
+        { "question": "ما ناتج count بعد عدّ القيم 2 في [2,1,2,3,2]؟", "answer": "3", "label": "السؤال 4" },
+        { "question": "اكتب كودًا يضاعف كل عنصر في القائمة nums ويطبع الناتج.", "answer": "for n in nums:\n    print(n * 2)", "label": "السؤال 5" },
+        { "question": "ما مجموع [5,10,15]؟", "answer": "30", "label": "السؤال 6" }
+      ]
+    },
+    "24": {
+      "unit": 6,
+      "unit_title": "وحدة تدريبية 6",
+      "title": "مراجعة الفهم — تطبيقات متنوعة 3",
+      "level": 24,
+      "questions": [
+        { "question": "ما ناتج nums=[3,6,9] ثم print(nums[1] > nums[0])؟", "answer": "True", "label": "السؤال 1" },
+        { "question": "اكتب دالة count_items تعيد عدد عناصر items.", "answer": "def count_items(items):\n    return len(items)", "label": "السؤال 2" },
+        { "question": "اكتب كودًا يعدّ الأعداد الفردية في values.", "answer": "count = 0\nfor n in values:\n    if n % 2 != 0:\n        count += 1", "label": "السؤال 3" },
+        { "question": "ما ناتج sum([1,2,3])؟", "answer": "6", "label": "السؤال 4" },
+        { "question": "اكتب شرطًا يطبع Long إذا كان طول النص word أكبر من 5.", "answer": "if len(word) > 5:\n    print(\"Long\")", "label": "السؤال 5" },
+        { "question": "ما ناتج max([4,7,2])؟", "answer": "7", "label": "السؤال 6" }
+      ]
+    },
+    "25": {
+      "unit": 7,
+      "unit_title": "وحدة تدريبية 7",
+      "title": "مراجعة الفهم — مراجعة شاملة",
+      "level": 25,
+      "questions": [
+        { "question": "ما الناتج عندما n=4 في شرط even/odd؟", "answer": "even", "label": "السؤال 1" },
+        { "question": "اكتب برنامجًا يطبع الأعداد من 1 إلى 5 باستخدام range.", "answer": "for n in range(1, 6):\n    print(n)", "label": "السؤال 2" },
+        { "question": "ما ناتج sum of squares للقائمة [1,2,3]؟", "answer": "14", "label": "السؤال 3" },
+        { "question": "اكتب دالة first_item(items) تعيد أول عنصر.", "answer": "def first_item(items):\n    return items[0]", "label": "السؤال 4" },
+        { "question": "ما ناتج any([False, True, False])؟", "answer": "True", "label": "السؤال 5" },
+        { "question": "اكتب شرطًا يطبع Empty إذا كانت القائمة data فارغة.", "answer": "if len(data) == 0:\n    print(\"Empty\")", "label": "السؤال 6" },
+        { "question": "ما ناتج total([2,3,4]) إذا كانت الدالة تجمع عناصر القائمة؟", "answer": "9", "label": "السؤال 7" },
+        { "question": "اكتب دالة positive_count تعد الأعداد الموجبة في nums.", "answer": "def positive_count(nums):\n    count = 0\n    for n in nums:\n        if n > 0:\n            count += 1\n    return count", "label": "السؤال 8" },
+        { "question": "ما ناتج الكود؟\nx=3\nfor i in range(2):\n    x += i\nprint(x)", "answer": "4", "label": "السؤال 9" },
+        { "question": "اكتب دالة average(nums) تعيد المتوسط الحسابي لقائمة غير فارغة.", "answer": "def average(nums):\n    return sum(nums) / len(nums)", "label": "السؤال 10" },
+        { "question": "ما ناتج max(5, 2) + min(5, 2)؟", "answer": "7", "label": "السؤال 11" },
+        { "question": "اكتب كودًا يطبع Pass إذا كانت الدرجة 60 فأكثر وإلا Fail.", "answer": "if score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")", "label": "السؤال 12" }
+      ]
+    }
+  }
+}

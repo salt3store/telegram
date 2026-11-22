@@ -1,0 +1,1055 @@
+{
+  "511001": {
+    "511001010": {
+      "type": "choice",
+      "answer": "print(\"Hello\")",
+      "choice_id": 5110010101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Hello\"[[/bdi]] في وحدة التحكم."
+    },
+    "511001020": {
+      "type": "description",
+      "answer": "print(\"Good morning\")",
+      "score": 1.0,
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) تتم طباعة [[bdi]]\"Good morning\"[[/bd"
+    },
+    "511001030": {
+      "type": "description",
+      "answer": "print(\"programming\")",
+      "score": 1.0,
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"programming\"[[/bdi]] في"
+    },
+    "511001040": {
+      "type": "description",
+      "answer": "print(\"hello\")",
+      "score": 1.0,
+      "q_text": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"hello\"[[/bdi]] في وحدة "
+    },
+    "511001050": {
+      "type": "choice",
+      "answer": "#Write a comment here",
+      "choice_id": 5110010501,
+      "score": 1.0,
+      "q_text": "يرجى اختيار الطريقة الصحيحة لكتابة تعليق."
+    },
+    "511001060": {
+      "type": "description",
+      "answer": "print(\"Hello\")\nprint(\"My name is\")\n#print(\"Riki\")\nprint(\"Cody\")",
+      "score": 1.0,
+      "q_text": "علّق البرنامج بحيث تكون الطباعة كما هو موضح أدناه.\n[[code]]Hello\nMy name is\nCody"
+    }
+  },
+  "511002": {
+    "511002010": {
+      "type": "choice",
+      "answer": "print(50 + 100)",
+      "choice_id": 5110020101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة نتيجة حساب [[bdi]]\"50+100\"[[/bdi]] في وحدة التحكم."
+    },
+    "511002020": {
+      "type": "choice",
+      "answer": "/",
+      "choice_id": 5110020201,
+      "score": 1.0,
+      "q_text": "اختر رمز القسمة الصحيح الذي يستخدم في البرنامج."
+    },
+    "511002030": {
+      "type": "description",
+      "answer": "print(19 + 40)",
+      "score": 1.0,
+      "q_text": "اجعل الكمبيوتر يحسب [[bdi]]\"19+40\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم."
+    },
+    "511002040": {
+      "type": "description",
+      "answer": "print(7 - 2)",
+      "score": 1.0,
+      "q_text": "اجعل الكمبيوتر يحسب [[bdi]]\"7-2\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم."
+    },
+    "511002050": {
+      "type": "description",
+      "answer": "print(15 / 5)",
+      "score": 1.0,
+      "q_text": "اجعل الكمبيوتر يحسب [[bdi]]\"15÷5\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم."
+    },
+    "511002060": {
+      "type": "choice",
+      "answer": "print(\"Today is the 17th. 7 days ago was the \" + str(17 - 7) + \"th.\")",
+      "choice_id": 5110020601,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Today is the 17th. 7 days ago was the 10th.\""
+    },
+    "511002070": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(2 * 5))",
+      "score": 1.0,
+      "q_text": "اجعل الكمبيوتر يحسب [[bdi]]\"2*5\"[[/bdi]] ويطبع [[bdi]]\"The answer is 10\"[[/bdi]]"
+    },
+    "511002080": {
+      "type": "choice",
+      "answer": "نوع السلسلة النصية",
+      "choice_id": 5110020801,
+      "score": 1.0,
+      "q_text": "اختر نوع البيانات الصحيح لما يلي.\n\n[[code]]print(\"50+30\")[[/code]]"
+    },
+    "511002090": {
+      "type": "choice",
+      "answer": "print(type(\"1\"))",
+      "choice_id": 5110020901,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يطبع [[bdi]]\"<class 'str'>\"[[/bdi]] بشكل صحيح."
+    }
+  },
+  "511003": {
+    "511003010": {
+      "type": "choice",
+      "answer": "score = 0",
+      "choice_id": 5110030101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء المتغير [[bdi]]score.[[/bdi]]"
+    },
+    "511003020": {
+      "type": "choice",
+      "answer": "print(score)",
+      "choice_id": 5110030201,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة قيمة المتغير [[bdi]]score[[/bdi]] في وحدة التحكم.\n*ا"
+    },
+    "511003030": {
+      "type": "description",
+      "answer": "number = 0",
+      "score": 0.92,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) أسند 0 إلى المتغير [[bdi]]number[[/bdi]]\n*حتى إذا ضغط"
+    },
+    "511003040": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 100",
+      "score": 0.88,
+      "q_text": "في السطر الثاني، اكتب برنامجًا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]number["
+    },
+    "511003050": {
+      "type": "description",
+      "answer": "number = 0\nnumber = 10\nprint(number)",
+      "score": 0.82,
+      "q_text": "في السطر الثالث، أدخل برنامجًا كما يلي.\n\n(1) اطبع قيمة المتغير [[bdi]]number[[/b"
+    },
+    "511003060": {
+      "type": "description",
+      "answer": "number = 3\nnumber = number + 10\nprint(number)",
+      "score": 0.92,
+      "q_text": "ابتداء من السطر الثاني، أدخل برنامجًا كما يلي.\n\n(1) أسند إلى المتغير [[bdi]]numb"
+    }
+  },
+  "511004": {
+    "511004010": {
+      "type": "choice",
+      "answer": "print(\"Hello\")",
+      "choice_id": 5110040101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Hello\"[[/bdi]] في وحدة التحكم."
+    },
+    "511004020": {
+      "type": "description",
+      "answer": "print(\"hello\")",
+      "score": 1.0,
+      "q_text": "اطبع [[bdi]]\"hello\"[[/bdi]] في وحدة التحكم.\n\nنسخ النص: [[copy]]hello[[/copy]]"
+    },
+    "511004030": {
+      "type": "description",
+      "answer": "#Leave this text\nprint(\"Make the first line a comment\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجا كما يلي.\n\nحوّل الجملة [[bdi]]\"Leave this text\"[[/bdi]] إلى تعليق.\n*"
+    },
+    "511004040": {
+      "type": "choice",
+      "answer": "print(5 + 7)",
+      "choice_id": 5110040401,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح الذي يجعل الكمبيوتر يحسب [[bdi]]\"5+7\"[[/bdi]] ويطبع نتيجة ا"
+    },
+    "511004050": {
+      "type": "choice",
+      "answer": "*",
+      "choice_id": 5110040501,
+      "score": 1.0,
+      "q_text": "اختر رمز الضرب الصحيح المستخدم في البرنامج."
+    },
+    "511004060": {
+      "type": "description",
+      "answer": "print(\"The answer is \" + str(3 * 4))",
+      "score": 1.0,
+      "q_text": "اجعل الكمبيوتر يحسب [[bdi]]\"3*4\"[[/bdi]] ويطبع [[bdi]]\"The answer is 12\"[[/bdi]]"
+    },
+    "511004070": {
+      "type": "choice",
+      "answer": "number = 0",
+      "choice_id": 5110040701,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء المتغير [[bdi]]number.[[/bdi]]"
+    },
+    "511004080": {
+      "type": "description",
+      "answer": "num = 5\nprint(num)",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) أسند 5 إلى [[bdi]]num[[/bdi]]\n(2) اطبع قيمة [[bdi]]nu"
+    }
+  },
+  "511005": {
+    "511005010": {
+      "type": "choice",
+      "answer": "[patch] if condition:",
+      "choice_id": 5110050101,
+      "score": 1.0,
+      "q_text": "اختر الشكل الصحيح لبرنامج \"إذا...، فافعل شيئا\"."
+    },
+    "511005020": {
+      "type": "choice",
+      "answer": "[patch] num == 50",
+      "choice_id": 5110050201,
+      "score": 1.0,
+      "q_text": "اختر التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] تساوي 50\"."
+    },
+    "511005030": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\nprint(\"Correct\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان ا"
+    },
+    "511005040": {
+      "type": "choice",
+      "answer": "False",
+      "choice_id": 5110050401,
+      "score": 1.0,
+      "q_text": "اختر نتيجة الطباعة للبرنامج التالي.\n\n[[code]]num = 200\nprint(num == 100)[[/code]"
+    }
+  },
+  "511006": {
+    "511006010": {
+      "type": "choice",
+      "answer": "[patch] if condition: A else: B",
+      "choice_id": 5110060101,
+      "score": 1.0,
+      "q_text": "اختر الشكل الصحيح للبرنامج: إذا كان ~ فافعل [[bdi]]A[[/bdi]]، وإلا فافعل [[bdi]]"
+    },
+    "511006020": {
+      "type": "description",
+      "answer": "num = 5\nif num == 10:\nprint(\"Win\")\nelse:\nprint(\"No prize\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) أسند 5 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان الم"
+    },
+    "511006030": {
+      "type": "choice",
+      "answer": "num <= 80",
+      "choice_id": 5110060301,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] تسا"
+    },
+    "511006040": {
+      "type": "choice",
+      "answer": "num > 30",
+      "choice_id": 5110060401,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] أكب"
+    },
+    "511006050": {
+      "type": "description",
+      "answer": "score = 80\nif score >= 60:\nprint(\"Pass\")\nelse:\nprint(\"Fail\")",
+      "score": 0.98,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) إذا كانت قيمة المتغير [[bdi]]score[[/bdi]] تساوي 60 أ"
+    }
+  },
+  "511007": {
+    "511007010": {
+      "type": "choice",
+      "answer": "[patch] if condition: A elif condition: B",
+      "choice_id": 5110070101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يقول: \"إذا... فافعل [[bdi]]A.[[/bdi]] وإلا، إذا... فافعل [[bd"
+    },
+    "511007020": {
+      "type": "description",
+      "answer": "num=2\nif num == 1:\nprint(\"It's 1\")\nelif num == 2:\nprint(\"It's 2\")",
+      "score": 1.0,
+      "q_text": "من السطر بعد [[bdi]]print(\"It's 1\")[[/bdi]]، أدخل البرنامج كما هو موضح أدناه.\n\n("
+    },
+    "511007030": {
+      "type": "description",
+      "answer": "score = 82\nif score == 100:\nprint(\"Perfect score\")\nelif score >= 80:\nprint(\"Pass\")",
+      "score": 1.0,
+      "q_text": "أدخل البرنامج كما هو موضح أدناه، بدءا من السطر بعد [[bdi]]print(\"Perfect score\")"
+    },
+    "511007040": {
+      "type": "choice",
+      "answer": "So close",
+      "choice_id": 5110070401,
+      "score": 1.0,
+      "q_text": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]score = 62\nif score == 100:"
+    },
+    "511007050": {
+      "type": "description",
+      "answer": "egg = 5\nif egg == 0:\nprint(\"Out of stock\")\nelif egg <= 3:\nprint(\"Low stock\")\nelse:\nprint(\"In stock\")",
+      "score": 1.0,
+      "q_text": "أنشئ البرنامج كما هو موضح أدناه.\n\n(1) أسند 5 إلى المتغير [[bdi]]egg[[/bdi]]\n(2) "
+    }
+  },
+  "511008": {
+    "511008010": {
+      "type": "description",
+      "answer": "num = 7\nif num == 7:\nprint(\"Win\")",
+      "score": 1.0,
+      "q_text": "أنشئ البرنامج كما هو موضح أدناه.\n\n(1) أسند 7 إلى المتغير [[bdi]]num[[/bdi]]\n(2) "
+    },
+    "511008020": {
+      "type": "choice",
+      "answer": "True",
+      "choice_id": 5110080201,
+      "score": 1.0,
+      "q_text": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]num = 10\nprint(num == 10)[["
+    },
+    "511008030": {
+      "type": "description",
+      "answer": "score = 70\nif score >= 60:\nprint(\"Pass\")\nelse:\nprint(\"Fail\")",
+      "score": 0.93,
+      "q_text": "أكمل السطر الثاني كما يلي.\n\n(1) إذا كانت قيمة المتغير [[bdi]]score[[/bdi]] تساوي"
+    },
+    "511008040": {
+      "type": "choice",
+      "answer": "num < 20",
+      "choice_id": 5110080401,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] أقل"
+    },
+    "511008050": {
+      "type": "description",
+      "answer": "num = 100\nif num == 100:\nprint(\"Win\")\nelse:\nprint(\"No prize\")",
+      "score": 0.88,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان ا"
+    },
+    "511008060": {
+      "type": "choice",
+      "answer": "Pass",
+      "choice_id": 5110080601,
+      "score": 1.0,
+      "q_text": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]score = 92\nif score == 100:"
+    },
+    "511008070": {
+      "type": "description",
+      "answer": "num = 4\nif num <= 3:\nprint(\"It's A\")\nelif num >= 6:\nprint(\"It's B\")\nelse:\nprint(\"It's C\")",
+      "score": 0.96,
+      "q_text": "أنشئ البرنامج كما هو موضح أدناه.\n(1) أسند 4 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إ"
+    }
+  },
+  "511009": {
+    "511009010": {
+      "type": "choice",
+      "answer": "[patch] A and B",
+      "choice_id": 5110090101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يعني \"يتحقق [[bdi]]A[[/bdi]] و[[bdi]]B[[/bdi]] معا\"."
+    },
+    "511009020": {
+      "type": "choice",
+      "answer": "[patch] A or B",
+      "choice_id": 5110090201,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يعني \"يتحقق [[bdi]]A[[/bdi]] أو [[bdi]]B[[/bdi]]\"."
+    },
+    "511009030": {
+      "type": "choice",
+      "answer": "Regular price",
+      "choice_id": 5110090301,
+      "score": 0.96,
+      "q_text": "اختر نتيجة الطباعة للبرنامج التالي.\n[[code]]age = 20\nif age <= 18 or age >= 60:\n"
+    },
+    "511009040": {
+      "type": "description",
+      "answer": "a = 5\nb = 10\nif a == 5 or b == 10:\nprint(\"The condition is met\")",
+      "score": 0.94,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) إذا كان المتغير [[bdi]]a[[/bdi]] يساوي 5 أو كان [[bdi"
+    },
+    "511009050": {
+      "type": "description",
+      "answer": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"The condition is met\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجا كما يلي.\n\n(1) إذا كان المتغير [[bdi]]a[[/bdi]] أكبر من أو يساوي 2 و"
+    }
+  },
+  "511010": {
+    "511010010": {
+      "type": "choice",
+      "answer": "for",
+      "choice_id": 5110100101,
+      "score": 1.0,
+      "q_text": "عندما تقوم بكتابة \"تكرار طباعة كلمة [[bdi]]apple[[/bdi]] على الشاشة 10 مرات\" كبر"
+    },
+    "511010020": {
+      "type": "choice",
+      "answer": "i = i + 1",
+      "choice_id": 5110100201,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإضافة 1 إلى المتغير [[bdi]]i[[/bdi]] في كل مرة."
+    },
+    "511010030": {
+      "type": "choice",
+      "answer": "for i in range(10):\nالكود الخاص بك",
+      "choice_id": 5110100301,
+      "score": 0.9,
+      "q_text": "اختر البرنامج الصحيح لتكرار معالجة محددة 10 مرات."
+    },
+    "511010040": {
+      "type": "description",
+      "answer": "for i in range(5):\nprint(\"Hello\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجك كما يلي:\n\n(1) اعرض [[bdi]]\"Hello\"[[/bdi]] على الشاشة خمس مرات.\n*است"
+    },
+    "511010050": {
+      "type": "description",
+      "answer": "for i in range(7):\nprint(\"Hello\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجك كما يلي:\n\n(1) اعرض [[bdi]]\"Hello\"[[/bdi]] على الشاشة 7 مرات.\n*استخد"
+    }
+  },
+  "511011": {
+    "511011010": {
+      "type": "choice",
+      "answer": "A or B",
+      "choice_id": 5110110101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الذي يعني[[bdi]] \"A or B\"[[/bdi]]."
+    },
+    "511011020": {
+      "type": "choice",
+      "answer": "It's A",
+      "choice_id": 5110110201,
+      "score": 1.0,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = 9\nif num <= 3 or num >= 7:\n    "
+    },
+    "511011030": {
+      "type": "choice",
+      "answer": "i = i + 1",
+      "choice_id": 5110110301,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإضافة 1 إلى المتغير[[bdi]] i [[/bdi]]في كل مرة."
+    },
+    "511011040": {
+      "type": "choice",
+      "answer": "for i in range(10):\nالعملية المحددة",
+      "choice_id": 5110110401,
+      "score": 1.0,
+      "q_text": "اختر الخيار الصحيح لبرنامج يكرر عملية محددة 10 مرات."
+    },
+    "511011050": {
+      "type": "choice",
+      "answer": "hello\nhello",
+      "choice_id": 5110110501,
+      "score": 1.0,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]for i in range(2):\n    print(\"hello\")"
+    },
+    "511011060": {
+      "type": "description",
+      "answer": "for i in range(10):\nprint(\"Good morning\")",
+      "score": 0.89,
+      "q_text": "أنشئ برنامجك كما يلي:\n\n(1) اطبع[[bdi]] \"Good morning\" [[/bdi]]على الشاشة 10 مرات"
+    },
+    "511011070": {
+      "type": "description",
+      "answer": "a = 4\nb = 3\nif a >= 2 and b >= 3:\nprint(\"the condition is met\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجك كما يلي:\n\n(1) إذا كانت قيمة المتغير[[bdi]] a [[/bdi]]أكبر من أو تسا"
+    },
+    "511011080": {
+      "type": "description",
+      "answer": "for i in range(3):\nprint(\"Hello\")",
+      "score": 0.88,
+      "q_text": "أنشئ برنامجك كما يلي:\n\n(1) اطبع[[bdi]] \"Hello\" [[/bdi]]على الشاشة ثلاث مرات.\n* ا"
+    }
+  },
+  "511012": {
+    "511012010": {
+      "type": "choice",
+      "answer": "round(1.8)",
+      "choice_id": 5110120101,
+      "score": 1.0,
+      "q_text": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد."
+    },
+    "511012020": {
+      "type": "choice",
+      "answer": "print(random.random())",
+      "choice_id": 5110120201,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لطباعة رقم عشوائي.\n* افترض أن عملية الاستيراد قد تمت بالفعل"
+    },
+    "511012030": {
+      "type": "choice",
+      "answer": "print(math.floor(10.5))",
+      "choice_id": 5110120301,
+      "score": 1.0,
+      "q_text": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد عشري إلى الأسفل."
+    },
+    "511012040": {
+      "type": "description",
+      "answer": "import math\nprint(round(5.5))\nprint(math.floor(8.8))",
+      "score": 1.0,
+      "q_text": "أدخل برنامجك كما يلي:\n\n(1) استخدم دالة لتقريب العدد \"5.5\" وطباعته على الشاشة.\n(2"
+    },
+    "511012050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.5:\nprint(\"A bright day\")\nelse:\nprint(\"Take it slow and do your best\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يطبع[[bdi]] \"A bright day\" [[/bdi]]إذا كان الرقم العشوائي يساوي 0."
+    },
+    "511012060": {
+      "type": "description",
+      "answer": "print(math.floor(random.random() * 10))",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يُعيد عددًا صحيحًا عشوائيًا كما يلي:\n\n(1) استخدم الدالة[[bdi]] \"ra"
+    }
+  },
+  "511013": {
+    "511013010": {
+      "type": "choice",
+      "answer": "60",
+      "choice_id": 5110130101,
+      "score": 1.0,
+      "q_text": "اختر نتيجة البرنامج التالي.\n\n[[code]]print(max(20, 40, 60))[[/code]]"
+    },
+    "511013020": {
+      "type": "choice",
+      "answer": "def calc(num):\nالمعالجة",
+      "choice_id": 5110130201,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء دالة باسم[[bdi]] calc [[/bdi]]مع وسيط باسم[[bdi]] nu"
+    },
+    "511013030": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110130301,
+      "score": 1.0,
+      "q_text": "حدد ما سيظهر على الشاشة بعد تشغيل البرنامج التالي.\n\n[[code]]def calc(num):\n    r"
+    },
+    "511013040": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 5\nreturn result\nprint(calc(3))",
+      "score": 1.0,
+      "q_text": "أضف برنامجًا يستدعي الدالة[[bdi]] \"calc\"[[/bdi]].\nضع الرقم \"3\" كوسيط."
+    },
+    "511013050": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 7\nreturn result\nprint(calc(10))",
+      "score": 1.0,
+      "q_text": "أضف إلى البرنامج المكتوب برنامجًا يقوم بإرجاع قيمة المتغير[[bdi]] \"result\"[[/bdi"
+    }
+  },
+  "511014": {
+    "511014010": {
+      "type": "choice",
+      "answer": "round(1.8)",
+      "choice_id": 5110140101,
+      "score": 1.0,
+      "q_text": "يرجى تحديد الدالة الصحيحة لتقريب العدد."
+    },
+    "511014020": {
+      "type": "choice",
+      "answer": "60",
+      "choice_id": 5110140201,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تشغيل البرنامج التالي.\n\n[[code]]print(max(20, 40, 60))[[/code]]"
+    },
+    "511014030": {
+      "type": "choice",
+      "answer": "print(random.random())",
+      "choice_id": 5110140301,
+      "score": 1.0,
+      "q_text": "يرجى اختيار البرنامج الصحيح لإخراج قيمة عددية عشوائية.\n* افترض أنه تم استيراده م"
+    },
+    "511014040": {
+      "type": "choice",
+      "answer": "12",
+      "choice_id": 5110140401,
+      "score": 1.0,
+      "q_text": "اختر نتيجة تشغيل البرنامج أدناه.\n\n[[code]]import math\nprint(math.floor(12.8))[[/"
+    },
+    "511014050": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يُعيد عددًا صحيحًا عشوائيًا كما يلي:\n\n(1) استخدم الدالة[[bdi]] \"ra"
+    },
+    "511014060": {
+      "type": "choice",
+      "answer": "def calc(num):\nالمعالجة",
+      "choice_id": 5110140601,
+      "score": 1.0,
+      "q_text": "يرجى تحديد البرنامج الصحيح لإنشاء دالة باسم الدالة[[bdi]] calc [[/bdi]]واسم الوس"
+    },
+    "511014070": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 7\nreturn result\nprint(calc(10))",
+      "score": 1.0,
+      "q_text": "أضف إلى البرنامج المكتوب سطرًا يُعيد قيمة المتغير[[bdi]] \"result\"[[/bdi]]."
+    },
+    "511014080": {
+      "type": "description",
+      "answer": "def calc(num):\nresult = num * 5\nreturn result\nprint(calc(3))",
+      "score": 1.0,
+      "q_text": "أضف برنامجًا يستدعي الدالة[[bdi]] \"calc\"[[/bdi]].\nاستخدم \"3\" كوسيط."
+    }
+  },
+  "511015": {
+    "511015010": {
+      "type": "description",
+      "answer": "num = [5, 10, 15]",
+      "score": 1.0,
+      "q_text": "ضع القيم التالية في القائمة:\n5، 10، 15\n\n* لا يظهر أي ناتج حتى عند تشغيل البرنامج"
+    },
+    "511015020": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110150201,
+      "score": 1.0,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = [5, 10, 15, 20, 25]\nprint(num[2"
+    },
+    "511015030": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(num)",
+      "score": 1.0,
+      "q_text": "اعرض جميع القيم الموجودة في القائمة على الشاشة.\n* لا تُدخل القيم مباشرةً.\n* دون "
+    },
+    "511015040": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110150401,
+      "score": 1.0,
+      "q_text": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = [1, 2, 3]\nsum = 0\nfor i in rang"
+    },
+    "511015050": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(len(num))",
+      "score": 1.0,
+      "q_text": "اعرض طول القائمة على الشاشة.\n* لا تُدخل رقم الطول مباشرةً."
+    }
+  },
+  "511016": {
+    "511016010": {
+      "type": "choice",
+      "answer": "import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])",
+      "choice_id": 5110160101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء مصفوفة تحتوي على أعداد صحيحة فقط."
+    },
+    "511016020": {
+      "type": "choice",
+      "answer": "30",
+      "choice_id": 5110160201,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي.\n\n[[code]]import array\nteam_array = array.array('i',"
+    },
+    "511016030": {
+      "type": "description",
+      "answer": "import array\nround_array = array.array('i', [1, 2, 3, 4, 5])\nprint(round_array[1])\nprint(round_array[4])",
+      "score": 1.0,
+      "q_text": "أدخل البرنامج كما يلي:\n\n(1) اكتب[[bdi]] import array [[/bdi]]في بداية البرنامج.\n"
+    },
+    "511016040": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110160401,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي.\n\n[[code]]import array\npoint_array = array.array('i'"
+    },
+    "511016050": {
+      "type": "choice",
+      "answer": "[38 53 65]",
+      "choice_id": 5110160501,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي.\n\n[[code]]import numpy\nread_array = numpy.array([35,"
+    }
+  },
+  "511017": {
+    "511017010": {
+      "type": "choice",
+      "answer": "15",
+      "choice_id": 5110170101,
+      "score": 1.0,
+      "q_text": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]num = [5, 10, 15, 20, 25]\nprint(num[2])"
+    },
+    "511017020": {
+      "type": "description",
+      "answer": "num = [5, 10, 15, 20, 25]\nprint(num)",
+      "score": 1.0,
+      "q_text": "اطبع جميع القيم الموجودة في القائمة على الشاشة.\n* لا تكتب القيم مباشرةً.\n* لا تح"
+    },
+    "511017030": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110170301,
+      "score": 1.0,
+      "q_text": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]num = [1, 2, 3]\nsum = 0\nfor i in range("
+    },
+    "511017040": {
+      "type": "choice",
+      "answer": "30",
+      "choice_id": 5110170401,
+      "score": 1.0,
+      "q_text": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]import array\nteam_array = array.array('"
+    },
+    "511017050": {
+      "type": "choice",
+      "answer": "import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])",
+      "choice_id": 5110170501,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء مصفوفة من الأعداد الصحيحة فقط."
+    },
+    "511017060": {
+      "type": "choice",
+      "answer": "6",
+      "choice_id": 5110170601,
+      "score": 1.0,
+      "q_text": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]import array\npoint_array = array.array("
+    }
+  },
+  "511018": {
+    "511018010": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110180101,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n[[bdi]]True [[/bdi]]تعني تشغيل "
+    },
+    "511018020": {
+      "type": "choice",
+      "answer": "<class 'bool'>",
+      "choice_id": 5110180201,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n\n[[code]]is_ready = False\nprint"
+    },
+    "511018030": {
+      "type": "choice",
+      "answer": "str",
+      "choice_id": 5110180301,
+      "score": 1.0,
+      "q_text": "ما هو نوع البيانات للقيمة المعينة للمتغير[[bdi]] team_name [[/bdi]]أدناه؟\n\n[[cod"
+    },
+    "511018040": {
+      "type": "choice",
+      "answer": "B",
+      "choice_id": 5110180401,
+      "score": 1.0,
+      "q_text": "اختر ناتج البرنامج التالي من الخيارات المتاحة.\n\n[[code]]can_play = False\n\nif can"
+    },
+    "511018050": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110180501,
+      "score": 1.0,
+      "q_text": "يشغّل البرنامج التالي مصباح الغرفة أو يطفئه وفقًا للوقت الحالي.\nاختر ناتج هذا ال"
+    }
+  },
+  "511019": {
+    "511019010": {
+      "type": "choice",
+      "answer": "import math\nprint(math.floor(4.7))",
+      "choice_id": 5110190101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح الذي يستخدم[[bdi]] math.floor.[[/bdi]]"
+    },
+    "511019020": {
+      "type": "choice",
+      "answer": "5\n6",
+      "choice_id": 5110190201,
+      "score": 1.0,
+      "q_text": "اختر ناتج البرنامج التالي.\n\n[[code]]import math\nprint(math.floor(5.8))\nprint(rou"
+    },
+    "511019030": {
+      "type": "choice",
+      "answer": "رقم من 0 إلى أقل من 1",
+      "choice_id": 5110190301,
+      "score": 1.0,
+      "q_text": "اختر العبارة الصحيحة حول القيمة التي تم إرجاعها بواسطة[[bdi]] random.random()[[/"
+    },
+    "511019040": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يعرض عددًا صحيحًا عشوائيًا مكونًا من رقم واحد، كما يلي.\n\n① اكتب[[b"
+    },
+    "511019050": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.7:\nprint(\"Grand prize!\")\nelse:\nprint(\"Consolation prize\")",
+      "score": 1.0,
+      "q_text": "في البرنامج، أدخل تعبيرًا شرطيًا يقول إذا[[bdi]] \"the random value is 0.7 or gre"
+    }
+  },
+  "511020": {
+    "511020010": {
+      "type": "choice",
+      "answer": "ON",
+      "choice_id": 5110200101,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n[[bdi]]True [[/bdi]]تعني تشغيل "
+    },
+    "511020020": {
+      "type": "choice",
+      "answer": "str",
+      "choice_id": 5110200201,
+      "score": 1.0,
+      "q_text": "ما هو نوع البيانات للقيمة المعينة للمتغير[[bdi]] team_name [[/bdi]]أدناه؟\n\n[[cod"
+    },
+    "511020030": {
+      "type": "choice",
+      "answer": "<class 'bool'>",
+      "choice_id": 5110200301,
+      "score": 1.0,
+      "q_text": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n\n[[code]]is_ready = False\nprint"
+    },
+    "511020040": {
+      "type": "choice",
+      "answer": "import math\nprint(math.floor(4.7))",
+      "choice_id": 5110200401,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح الذي يستخدم[[bdi]] math.floor.[[/bdi]]"
+    },
+    "511020050": {
+      "type": "description",
+      "answer": "import math\nimport random\nprint(math.floor(random.random() * 10))",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يعرض عددًا صحيحًا عشوائيًا مكونًا من رقم واحد، كما يلي.\n\n① اكتب[[b"
+    },
+    "511020060": {
+      "type": "description",
+      "answer": "import random\nif random.random() >= 0.7:\nprint(\"Grand prize!\")\nelse:\nprint(\"Consolation prize\")",
+      "score": 1.0,
+      "q_text": "في البرنامج، أدخل تعبيرًا شرطيًا يقول إذا[[bdi]] \"the random value is 0.7 or gre"
+    }
+  },
+  "511021": {
+    "511021010": {
+      "type": "description",
+      "answer": "A = 5\nB = 10\nif A > B:\nprint(\"A is bigger\")\nelif A < B:\nprint(\"B is bigger\")",
+      "score": 1.0,
+      "q_text": "أضف شرطًا ثانيًا إلى البرنامج الموضح،\nبحيث إذا كان[[bdi]] A [[/bdi]]أصغر من[[bdi"
+    },
+    "511021020": {
+      "type": "choice",
+      "answer": "and",
+      "choice_id": 5110210201,
+      "score": 1.0,
+      "q_text": "اختر العامل الصحيح الذي يمثل[[bdi]] \"multiple conditions being true at the same "
+    },
+    "511021030": {
+      "type": "description",
+      "answer": "math = 100\nenglish = 100\nif math == 100:\nprint(\"Math is 100 points\")\nif english == 100:\nprint(\"Math and English are 100 points\")",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يطبع[[bdi]] \"Math is 100 points\" [[/bdi]]إذا كانت[[bdi]] math [[/b"
+    },
+    "511021040": {
+      "type": "description",
+      "answer": "for i in range(7):\nprint(\"Good morning\")",
+      "score": 1.0,
+      "q_text": "اكتب برنامجًا يقوم بما يلي.\n \n(1) اطبع[[bdi]] \"Good morning\" [[/bdi]]على الشاشة "
+    },
+    "511021050": {
+      "type": "choice",
+      "answer": "ينتج عنه خطأ",
+      "choice_id": 5110210501,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي من بين الخيارات.\n\n[[code]]for i in range(3):\n    "
+    },
+    "511021060": {
+      "type": "choice",
+      "answer": "00010",
+      "choice_id": 5110210601,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي من بين الخيارات.\n\n[[code]]for i in range(4):\n    "
+    },
+    "511021070": {
+      "type": "choice",
+      "answer": "i += 5",
+      "choice_id": 5110210701,
+      "score": 1.0,
+      "q_text": "اختر البرنامج المكافئ للعبارة[[bdi]] \"i = i + 5\"[[/bdi]]."
+    },
+    "511021080": {
+      "type": "description",
+      "answer": "def divide3(num):\nresult = num / 3\nreturn result\nprint(divide3(12345))",
+      "score": 1.0,
+      "q_text": "لقد أنشأت دالة[[bdi]] \"divide3\" [[/bdi]]تقسم القيمة إلى 3 أجزاء متساوية، لذا مرر"
+    },
+    "511021090": {
+      "type": "choice",
+      "answer": "def motion()\nالبرنامج المراد تشغيله",
+      "choice_id": 5110210901,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح لإنشاء حركة الدالة[[bdi]] motion [[/bdi]]وسائط."
+    },
+    "511021100": {
+      "type": "description",
+      "answer": "def mul(num1, num2):\nresult = num1 * num2\nreturn result\nprint(mul(9, 7))",
+      "score": 1.0,
+      "q_text": "أنشئ دالة[[bdi]] mul [[/bdi]]تأخذ وسيطين.\n (1) أنشئ دالة باسم[[bdi]] \"mul\" [[/bd"
+    }
+  },
+  "511022": {
+    "511022010": {
+      "type": "description",
+      "answer": "num = 1\nfor i in range(5):\nnum = num * 7\nprint(num)",
+      "score": 1.0,
+      "q_text": "أنشئ برنامجًا يقوم بحساب[[bdi]] \"7x7x7x7x7\"[[/bdi]].\nاكتب البرنامج على النحو الت"
+    },
+    "511022020": {
+      "type": "choice",
+      "answer": "1->2->3->4->5->6->7",
+      "choice_id": 5110220201,
+      "score": 1.0,
+      "q_text": "اختر الخيار الذي يوضح بصورة صحيحة كيفية تغير قيمة المتغير[[bdi]] i [[/bdi]]في ال"
+    },
+    "511022030": {
+      "type": "description",
+      "answer": "num = 5040\nfor i in range(1, 6):\nnum = num / i\nprint(num)",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بحساب[[bdi]] \"5040/1/2/3/4/5\"[[/bdi]].\nاكتب البرنامج عل"
+    },
+    "511022040": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(mark_list[5])",
+      "score": 1.0,
+      "q_text": "أدخل برنامجًا يقوم بطباعة القيمة \"57\" من المتغير[[bdi]] mark_list [[/bdi]]على ال"
+    },
+    "511022050": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nprint(len(mark_list))",
+      "score": 1.0,
+      "q_text": "أدخل برنامجًا يقوم بطباعة عدد القيم الموجودة في المتغير[[bdi]] mark_list [[/bdi]"
+    },
+    "511022060": {
+      "type": "description",
+      "answer": "mark_list = [48, 55, 74, 85, 63, 57, 91]\nfor i in range(len(mark_list)):\nif mark_list[i] >= 85:\nprint(\"85 or above\")",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بطباعة[[bdi]] \"85 or above\" [[/bdi]]إذا كانت النتيجة 85"
+    }
+  },
+  "511023": {
+    "511023010": {
+      "type": "choice",
+      "answer": "14",
+      "choice_id": 5110230101,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تشغيل البرنامج التالي.\n\n[[code]]rank_list = [5, 7, 14, 11, 8, 6, 13]\np"
+    },
+    "511023020": {
+      "type": "choice",
+      "answer": "8\n11\n14",
+      "choice_id": 5110230201,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]size_list = [8, 11, 14]\nfor i in range("
+    },
+    "511023030": {
+      "type": "choice",
+      "answer": "3\n4\n5",
+      "choice_id": 5110230301,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]count_list = [3, 4, 5]\nfor i in range(l"
+    },
+    "511023040": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\nprint(point)",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] point_list [[/bdi]]على ا"
+    },
+    "511023050": {
+      "type": "description",
+      "answer": "word_list = [\"Good morning\", \"Good night\", \"Hello\"]\nfor word in word_list:\nprint(word)",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] word_list [[/bdi]]على ال"
+    }
+  },
+  "511024": {
+    "511024010": {
+      "type": "choice",
+      "answer": "8\n11\n14",
+      "choice_id": 5110240101,
+      "score": 1.0,
+      "q_text": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]size_list = [8, 11, 14]\nfor i in range("
+    },
+    "511024020": {
+      "type": "description",
+      "answer": "point_list = [2, 5, 8, 11]\nfor point in point_list:\nprint(point)",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] point_list [[/bdi]]على ا"
+    },
+    "511024030": {
+      "type": "description",
+      "answer": "word_list = [\"good morning\", \"good night\", \"hello\"]\nfor word in word_list:\nprint(word)",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] word_list [[/bdi]]على ال"
+    },
+    "511024040": {
+      "type": "choice",
+      "answer": "100",
+      "choice_id": 5110240401,
+      "score": 1.0,
+      "q_text": "حدد ناتج البرنامج الآتي.\n\n[[code]]A = 500\nB = 0\nif A >= 1:\n    B = B + 100\n    p"
+    },
+    "511024050": {
+      "type": "choice",
+      "answer": "الوجهة هي مدينة الملاهي",
+      "choice_id": 5110240501,
+      "score": 1.0,
+      "q_text": "حدد ناتج البرنامج الآتي.\n\n[[code]]weather = \"sunny\"\nteam = \"Team Blue\"\nif weathe"
+    },
+    "511024060": {
+      "type": "description",
+      "answer": "weather = \"rainy\"\ntime = \"morning\"\nif weather == \"rainy\":\nif time == \"morning\":\nprint(\"Let's go to the movie theater\")\nelif time == \"noon\":\nprint(\"Let's go to the library\")\nelse:\nprint(\"Let's stay home\")\nelse:\nprint(\"Let's go for a walk\")",
+      "score": 1.0,
+      "q_text": "ستقوم بإنشاء برنامج يقوم، في حالة هطول الأمطار، بتغيير الوجهة حسب وقت اليوم، وإل"
+    }
+  },
+  "511025": {
+    "511025010": {
+      "type": "choice",
+      "answer": "print(calculation3(3, 5, 10))",
+      "choice_id": 5110250101,
+      "score": 1.0,
+      "q_text": "اختر البرنامج الصحيح الذي يمرر الوسائط الثلاثة \"3\" و \"5\" و \"10\" إلى الدالة[[bdi]"
+    },
+    "511025020": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\nresult = a * b * c\nreturn result\nnum1 = calculation3(5, 10, 15)\nprint(num1)",
+      "score": 1.0,
+      "q_text": "تقوم بإنشاء برنامج حيث تعطي طباعة قيمة المتغير[[bdi]] num1 [[/bdi]]على الشاشة نف"
+    },
+    "511025030": {
+      "type": "description",
+      "answer": "def calculation3(a, b, c):\nresult = a * b * c\nreturn result\nnum1 = calculation3(5, 10, 15)\nprint(num1)\nnum2 = calculation3(4, 4, 4)\nprint(num2)",
+      "score": 1.0,
+      "q_text": "تقوم بإنشاء برنامج حيث تعطي طباعة قيمة المتغير[[bdi]] num2 [[/bdi]]على الشاشة نف"
+    },
+    "511025040": {
+      "type": "choice",
+      "answer": "print(min(num1, num2, num3))",
+      "choice_id": 5110250401,
+      "score": 1.0,
+      "q_text": "تقوم الدالة[[bdi]] min [[/bdi]]بإرجاع أصغر قيمة بين وسائطها.\nاختر البرنامج الذي "
+    },
+    "511025050": {
+      "type": "choice",
+      "answer": "80\n88\n92",
+      "choice_id": 5110250501,
+      "score": 1.0,
+      "q_text": "حدد ناتج البرنامج الآتي.\n\n[[code]]score_list = [70, 80, 66, 88, 92]\nfor score in"
+    },
+    "511025060": {
+      "type": "description",
+      "answer": "score_list = [70, 80, 66, 88, 92]\nfor score in score_list:\nif score >= 80:\nprint(score)",
+      "score": 1.0,
+      "q_text": "اكتب برنامجًا يطبع فقط قيم المتغير[[bdi]] score [[/bdi]]التي تساوي 80 أو أعلى.\nل"
+    },
+    "511025070": {
+      "type": "choice",
+      "answer": "[patch] 12 سنة أو أكثر",
+      "choice_id": 5110250701,
+      "score": 1.0,
+      "q_text": "يُستخدم المخطط الانسيابي أدناه لتحديد ما إذا كان الشخص يستطيع ركوب الأفعوانية أم"
+    }
+  }
+}

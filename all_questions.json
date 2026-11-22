@@ -1,0 +1,4353 @@
+{
+  "511001": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(\"Hello\")[[/bdi]]",
+          "id": 5110010101,
+          "question_id": 511001010
+        },
+        {
+          "content": "[[bdi]]print(\"Hello\"[[/bdi]]",
+          "id": 5110010102,
+          "question_id": 511001010
+        },
+        {
+          "content": "[[bdi]]print(Hello)[[/bdi]]",
+          "id": 5110010103,
+          "question_id": 511001010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511001,
+        "content": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Hello\"[[/bdi]] في وحدة التحكم.",
+        "hints": [
+          "أحِط الأحرف بعلامتي تنصيص مزدوجتين."
+        ],
+        "id": 511001010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "print",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511001020
+        }
+      ],
+      "question": {
+        "chapter_id": 511001,
+        "content": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) تتم طباعة [[bdi]]\"Good morning\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]Good morning[[/copy]]",
+        "hints": [
+          "أحِط الأحرف بعلامتي تنصيص مزدوجتين."
+        ],
+        "id": 511001020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511001030
+        }
+      ],
+      "question": {
+        "chapter_id": 511001,
+        "content": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"programming\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]programming[[/copy]]",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] عندما تريد طباعة الأحرف في وحدة التحكم.",
+          "أحِط الأحرف بعلامتي تنصيص مزدوجتين."
+        ],
+        "id": 511001030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511001040
+        }
+      ],
+      "question": {
+        "chapter_id": 511001,
+        "content": "يرجى إنشاء البرنامج كما هو موضح أدناه.\n\n(1) اطبع [[bdi]]\"hello\"[[/bdi]] في وحدة التحكم\n\nنسخ النص: [[copy]]hello[[/copy]]",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] عندما تريد طباعة الأحرف في وحدة التحكم.",
+          "أحِط الأحرف بعلامتي تنصيص مزدوجتين."
+        ],
+        "id": 511001040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "/Write a comment here",
+          "id": 5110010502,
+          "question_id": 511001050
+        },
+        {
+          "content": "Write a comment here#",
+          "id": 5110010503,
+          "question_id": 511001050
+        },
+        {
+          "content": "#Write a comment here",
+          "id": 5110010501,
+          "question_id": 511001050
+        },
+        {
+          "content": "Write a comment here/",
+          "id": 5110010504,
+          "question_id": 511001050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511001,
+        "content": "يرجى اختيار الطريقة الصحيحة لكتابة تعليق.",
+        "hints": [
+          "أدخل # لجعله تعليقًا."
+        ],
+        "id": 511001050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "print(\"Hello\")\nprint(\"My name is\")\nprint(\"Riki\")\nprint(\"Cody\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511001060
+        }
+      ],
+      "question": {
+        "chapter_id": 511001,
+        "content": "علّق البرنامج بحيث تكون الطباعة كما هو موضح أدناه.\n[[code]]Hello\nMy name is\nCody[[/code]]",
+        "hints": [
+          "تحقق من عدد الجمل غير الضرورية.",
+          "للتعليق لتعطيل التنفيذ، اكتب # في بداية السطر."
+        ],
+        "id": 511001060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511002": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(\"50 + 100\")[[/bdi]]",
+          "id": 5110020102,
+          "question_id": 511002010
+        },
+        {
+          "content": "[[bdi]]print(\"50\" + 100)[[/bdi]]",
+          "id": 5110020104,
+          "question_id": 511002010
+        },
+        {
+          "content": "[[bdi]]print(\"50\" + \"100\")[[/bdi]]",
+          "id": 5110020103,
+          "question_id": 511002010
+        },
+        {
+          "content": "[[bdi]]print(50 + 100)[[/bdi]]",
+          "id": 5110020101,
+          "question_id": 511002010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511002,
+        "content": "اختر البرنامج الصحيح لطباعة نتيجة حساب [[bdi]]\"50+100\"[[/bdi]] في وحدة التحكم.",
+        "hints": [
+          "لا تحتاج إلى علامتي اقتباس مزدوجتين لطباعة نتيجة الحساب."
+        ],
+        "id": 511002010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "*",
+          "id": 5110020204,
+          "question_id": 511002020
+        },
+        {
+          "content": "-",
+          "id": 5110020203,
+          "question_id": 511002020
+        },
+        {
+          "content": "/",
+          "id": 5110020201,
+          "question_id": 511002020
+        },
+        {
+          "content": "÷",
+          "id": 5110020202,
+          "question_id": 511002020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511002,
+        "content": "اختر رمز القسمة الصحيح الذي يستخدم في البرنامج.",
+        "hints": [
+          "رموز القسمة تختلف عن الرموز المستخدمة في الحسابات العادية."
+        ],
+        "id": 511002020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "print()",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511002030
+        }
+      ],
+      "question": {
+        "chapter_id": 511002,
+        "content": "اجعل الكمبيوتر يحسب [[bdi]]\"19+40\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم.",
+        "hints": [
+          "لا تحتاج إلى علامتي اقتباس مزدوجتين لطباعة نتيجة الحساب."
+        ],
+        "id": 511002030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511002040
+        }
+      ],
+      "question": {
+        "chapter_id": 511002,
+        "content": "اجعل الكمبيوتر يحسب [[bdi]]\"7-2\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم.",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] للطباعة في وحدة التحكم.",
+          "لا تحتاج إلى علامتي اقتباس مزدوجتين لطباعة نتيجة الحساب."
+        ],
+        "id": 511002040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511002050
+        }
+      ],
+      "question": {
+        "chapter_id": 511002,
+        "content": "اجعل الكمبيوتر يحسب [[bdi]]\"15÷5\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم.",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] للطباعة في وحدة التحكم.",
+          "لا تحتاج إلى علامتي اقتباس مزدوجتين لطباعة نتيجة الحساب.",
+          "استخدم \"/\" كرمز للقسمة."
+        ],
+        "id": 511002050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(\"Today is the 17th. 7 days ago was the + 17 - 7 + th.\")[[/bdi]]",
+          "id": 5110020602,
+          "question_id": 511002060
+        },
+        {
+          "content": "[[bdi]]print(\"Today is the 17th. 7 days ago was the \" + str(17 - 7) + \"th.\")[[/bdi]]",
+          "id": 5110020601,
+          "question_id": 511002060
+        },
+        {
+          "content": "[[bdi]]print(\"Today is the 17th. 7 days ago was the \" + \"17 - 7\" + \"th.\")[[/bdi]]",
+          "id": 5110020604,
+          "question_id": 511002060
+        },
+        {
+          "content": "[[bdi]]print(\"Today is the 17th. 7 days ago was the (17 - 7)th.\")[[/bdi]]",
+          "id": 5110020603,
+          "question_id": 511002060
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511002,
+        "content": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Today is the 17th. 7 days ago was the 10th.\"[[/bdi]] في وحدة التحكم.",
+        "hints": [
+          "أحط النصوص بعلامتي اقتباس مزدوجتين.",
+          "لطباعة نتيجة الحساب، لا تضع علامتي اقتباس مزدوجتين حول الصيغة.",
+          "لدمج صيغة حسابية ونصوص، ضع [[bdi]]str(formula)[[/bdi]] في الوسط وصِلها بعلامة \"+\"."
+        ],
+        "id": 511002060,
+        "seq": 6,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "print(\"The answer is 2 * 5\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511002070
+        }
+      ],
+      "question": {
+        "chapter_id": 511002,
+        "content": "اجعل الكمبيوتر يحسب [[bdi]]\"2*5\"[[/bdi]] ويطبع [[bdi]]\"The answer is 10\"[[/bdi]] في وحدة التحكم.",
+        "hints": [
+          "أحط النصوص بعلامتي اقتباس مزدوجتين.",
+          "لطباعة نتيجة الحساب، لا تضع علامتي اقتباس مزدوجتين حول الصيغة.",
+          "لدمج صيغة حسابية ونصوص، ضع [[bdi]]str(formula)[[/bdi]] في الوسط وصِلها بعلامة \"+\"."
+        ],
+        "id": 511002070,
+        "seq": 7,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "نوع رقمي",
+          "id": 5110020802,
+          "question_id": 511002080
+        },
+        {
+          "content": "نوع السلسلة النصية",
+          "id": 5110020801,
+          "question_id": 511002080
+        },
+        {
+          "content": "لا شيء مما سبق",
+          "id": 5110020803,
+          "question_id": 511002080
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511002,
+        "content": "اختر نوع البيانات الصحيح لما يلي.\n\n[[code]]print(\"50+30\")[[/code]]",
+        "hints": [
+          "القيمة محاطة بـ \" \"."
+        ],
+        "id": 511002080,
+        "seq": 8,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(type(1))[[/bdi]]",
+          "id": 5110020902,
+          "question_id": 511002090
+        },
+        {
+          "content": "[[bdi]]print(str(\"1\"))[[/bdi]]",
+          "id": 5110020903,
+          "question_id": 511002090
+        },
+        {
+          "content": "[[bdi]]print(type(\"1\"))[[/bdi]]",
+          "id": 5110020901,
+          "question_id": 511002090
+        },
+        {
+          "content": "[[bdi]]print(string(\"1\"))[[/bdi]]",
+          "id": 5110020904,
+          "question_id": 511002090
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511002,
+        "content": "اختر البرنامج الذي يطبع [[bdi]]\"<class 'str'>\"[[/bdi]] بشكل صحيح.",
+        "hints": [
+          "لكي يحدد الحاسوب نوع البيانات، استخدم [[bdi]]type()[[/bdi]]."
+        ],
+        "id": 511002090,
+        "seq": 9,
+        "type": "choice"
+      }
+    }
+  ],
+  "511003": [
+    {
+      "choices": [
+        {
+          "content": "score=",
+          "id": 5110030103,
+          "question_id": 511003010
+        },
+        {
+          "content": "score",
+          "id": 5110030102,
+          "question_id": 511003010
+        },
+        {
+          "content": "score = 0",
+          "id": 5110030101,
+          "question_id": 511003010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511003,
+        "content": "اختر البرنامج الصحيح لإنشاء المتغير [[bdi]]score.[[/bdi]]",
+        "hints": [
+          "تُنشأ المتغيرات باستخدام [[bdi]]\"variable = value\"[[/bdi]]."
+        ],
+        "id": 511003010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(score)[[/bdi]]",
+          "id": 5110030201,
+          "question_id": 511003020
+        },
+        {
+          "content": "print = score",
+          "id": 5110030203,
+          "question_id": 511003020
+        },
+        {
+          "content": "[[bdi]]print(\"score\")[[/bdi]]",
+          "id": 5110030202,
+          "question_id": 511003020
+        },
+        {
+          "content": "Print score",
+          "id": 5110030204,
+          "question_id": 511003020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511003,
+        "content": "اختر البرنامج الصحيح لطباعة قيمة المتغير [[bdi]]score[[/bdi]] في وحدة التحكم.\n*المتغير [[bdi]]score[[/bdi]] لديه قيمة بالفعل.",
+        "hints": [
+          "لنتذكر طريقة كتابة [[bdi]]print.[[/bdi]]",
+          "لا تحتاج إلى علامتي اقتباس مزدوجتين عند طباعة قيمة متغير في وحدة التحكم."
+        ],
+        "id": 511003020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511003030
+        }
+      ],
+      "question": {
+        "chapter_id": 511003,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) أسند 0 إلى المتغير [[bdi]]number[[/bdi]]\n*حتى إذا ضغطت \"تشغيل الكود\"، فلن تتم طباعة أي شيء في وحدة التحكم.\nبعد الإدخال، انقر على \"إجابة\".",
+        "hints": [
+          "في [[bdi]]Python[[/bdi]]، تمنح عمليات الإسناد أسماء للمتغيرات وتضع قيما فيها."
+        ],
+        "id": 511003030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "number = 0",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511003040
+        }
+      ],
+      "question": {
+        "chapter_id": 511003,
+        "content": "في السطر الثاني، اكتب برنامجًا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]number[[/bdi]]\n*حتى إذا ضغطت \"تشغيل الكود\"، فلن تتم طباعة أي شيء في وحدة التحكم.\nبعد الإدخال، انقر على \"إجابة\".",
+        "hints": [
+          "لإعادة إسناد قيمة، اكتب [[bdi]]variable = value.[[/bdi]]"
+        ],
+        "id": 511003040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "number = 0\nnumber = 10",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511003050
+        }
+      ],
+      "question": {
+        "chapter_id": 511003,
+        "content": "في السطر الثالث، أدخل برنامجًا كما يلي.\n\n(1) اطبع قيمة المتغير [[bdi]]number[[/bdi]] في وحدة التحكم",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] للطباعة في وحدة التحكم.",
+          "ما نريد طباعته باستخدام [[bdi]]print[[/bdi]] هو قيمة المتغير [[bdi]]number.[[/bdi]]"
+        ],
+        "id": 511003050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "number = 3",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511003060
+        }
+      ],
+      "question": {
+        "chapter_id": 511003,
+        "content": "ابتداء من السطر الثاني، أدخل برنامجًا كما يلي.\n\n(1) أسند إلى المتغير [[bdi]]number[[/bdi]] قيمته زائد 10\n(2) اطبع قيمة المتغير [[bdi]]number[[/bdi]] في وحدة التحكم",
+        "hints": [
+          "استخدم [[bdi]]print[[/bdi]] للطباعة في وحدة التحكم.",
+          "ما نريد طباعته باستخدام [[bdi]]print[[/bdi]] هو قيمة المتغير [[bdi]]number.[[/bdi]]"
+        ],
+        "id": 511003060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511004": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(\"Hello\")[[/bdi]]",
+          "id": 5110040101,
+          "question_id": 511004010
+        },
+        {
+          "content": "[[bdi]]print(\"Hello\"[[/bdi]]",
+          "id": 5110040103,
+          "question_id": 511004010
+        },
+        {
+          "content": "[[bdi]]print.print(\"Hello\")[[/bdi]]",
+          "id": 5110040102,
+          "question_id": 511004010
+        },
+        {
+          "content": "[[bdi]]print(Hello)[[/bdi]]",
+          "id": 5110040104,
+          "question_id": 511004010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511004,
+        "content": "اختر البرنامج الصحيح لطباعة [[bdi]]\"Hello\"[[/bdi]] في وحدة التحكم.",
+        "hints": null,
+        "id": 511004010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511004020
+        }
+      ],
+      "question": {
+        "chapter_id": 511004,
+        "content": "اطبع [[bdi]]\"hello\"[[/bdi]] في وحدة التحكم.\n\nنسخ النص: [[copy]]hello[[/copy]]",
+        "hints": null,
+        "id": 511004020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "Leave this text\nprint(\"Make the first line a comment\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511004030
+        }
+      ],
+      "question": {
+        "chapter_id": 511004,
+        "content": "أنشئ برنامجا كما يلي.\n\nحوّل الجملة [[bdi]]\"Leave this text\"[[/bdi]] إلى تعليق.\n*عند التنفيذ، ستتم طباعة الرسالة [[bdi]]\"Make the first line a comment\"[[/bdi]].",
+        "hints": null,
+        "id": 511004030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(\"5 + 7\")[[/bdi]]",
+          "id": 5110040402,
+          "question_id": 511004040
+        },
+        {
+          "content": "[[bdi]]print(\"5\" + 7)[[/bdi]]",
+          "id": 5110040404,
+          "question_id": 511004040
+        },
+        {
+          "content": "[[bdi]]print(\"5\" + \"7\")[[/bdi]]",
+          "id": 5110040403,
+          "question_id": 511004040
+        },
+        {
+          "content": "[[bdi]]print(5 + 7)[[/bdi]]",
+          "id": 5110040401,
+          "question_id": 511004040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511004,
+        "content": "اختر البرنامج الصحيح الذي يجعل الكمبيوتر يحسب [[bdi]]\"5+7\"[[/bdi]] ويطبع نتيجة الحساب في وحدة التحكم.",
+        "hints": null,
+        "id": 511004040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "-",
+          "id": 5110040503,
+          "question_id": 511004050
+        },
+        {
+          "content": "/",
+          "id": 5110040504,
+          "question_id": 511004050
+        },
+        {
+          "content": "*",
+          "id": 5110040501,
+          "question_id": 511004050
+        },
+        {
+          "content": "+",
+          "id": 5110040502,
+          "question_id": 511004050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511004,
+        "content": "اختر رمز الضرب الصحيح المستخدم في البرنامج.",
+        "hints": null,
+        "id": 511004050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "print(\"The answer is 3 * 4\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511004060
+        }
+      ],
+      "question": {
+        "chapter_id": 511004,
+        "content": "اجعل الكمبيوتر يحسب [[bdi]]\"3*4\"[[/bdi]] ويطبع [[bdi]]\"The answer is 12\"[[/bdi]] في وحدة التحكم.",
+        "hints": null,
+        "id": 511004060,
+        "seq": 6,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "number",
+          "id": 5110040702,
+          "question_id": 511004070
+        },
+        {
+          "content": "number = 0",
+          "id": 5110040701,
+          "question_id": 511004070
+        },
+        {
+          "content": "number=",
+          "id": 5110040703,
+          "question_id": 511004070
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511004,
+        "content": "اختر البرنامج الصحيح لإنشاء المتغير [[bdi]]number.[[/bdi]]",
+        "hints": null,
+        "id": 511004070,
+        "seq": 7,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511004080
+        }
+      ],
+      "question": {
+        "chapter_id": 511004,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) أسند 5 إلى [[bdi]]num[[/bdi]]\n(2) اطبع قيمة [[bdi]]num[[/bdi]] في وحدة التحكم",
+        "hints": null,
+        "id": 511004080,
+        "seq": 8,
+        "type": "description"
+      }
+    }
+  ],
+  "511005": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]condition:\n    process if[[/bdi]]",
+          "id": 5110050104,
+          "question_id": 511005010
+        },
+        {
+          "content": "[[bdi]]if condition:\n    process[[/bdi]]",
+          "id": 5110050101,
+          "question_id": 511005010
+        },
+        {
+          "content": "[[bdi]]if process\n    condition:[[/bdi]]",
+          "id": 5110050103,
+          "question_id": 511005010
+        },
+        {
+          "content": "[[bdi]]condition:\n    if process[[/bdi]]",
+          "id": 5110050102,
+          "question_id": 511005010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511005,
+        "content": "اختر الشكل الصحيح لبرنامج \"إذا...، فافعل شيئا\".",
+        "hints": [
+          "مثال محدد: \"إذا حصلت على 100 درجة، سأخرج لتناول الطعام.\""
+        ],
+        "id": 511005010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]50 >= num[[/bdi]]",
+          "id": 5110050202,
+          "question_id": 511005020
+        },
+        {
+          "content": "num = 50",
+          "id": 5110050203,
+          "question_id": 511005020
+        },
+        {
+          "content": "[[bdi]]num == 50[[/bdi]]",
+          "id": 5110050201,
+          "question_id": 511005020
+        },
+        {
+          "content": "50 = num",
+          "id": 5110050204,
+          "question_id": 511005020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511005,
+        "content": "اختر التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] تساوي 50\".",
+        "hints": [
+          "لنقارن ما إذا كان [[bdi]]num[[/bdi]] و50 متساويين.",
+          "تُستخدم \"=\" عند إسناد قيمة إلى متغير."
+        ],
+        "id": 511005020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511005030
+        }
+      ],
+      "question": {
+        "chapter_id": 511005,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 100، فاطبع [[bdi]]\"Correct\"[[/bdi]]\n\nنسخ النص: [[copy]]Correct[[/copy]]",
+        "hints": [
+          "التعبير الشرطي هو [[bdi]]\"num == 100\"[[/bdi]].",
+          "المعالجة التي تريد تشغيلها هي [[bdi]]print(\"Correct\")[[/bdi]]."
+        ],
+        "id": 511005030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "True",
+          "id": 5110050402,
+          "question_id": 511005040
+        },
+        {
+          "content": "False",
+          "id": 5110050401,
+          "question_id": 511005040
+        },
+        {
+          "content": "num",
+          "id": 5110050404,
+          "question_id": 511005040
+        },
+        {
+          "content": "100",
+          "id": 5110050403,
+          "question_id": 511005040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511005,
+        "content": "اختر نتيجة الطباعة للبرنامج التالي.\n\n[[code]]num = 200\nprint(num == 100)[[/code]]",
+        "hints": [
+          "لنقارن قيمة المتغير [[bdi]]num[[/bdi]] و100."
+        ],
+        "id": 511005040,
+        "seq": 4,
+        "type": "choice"
+      }
+    }
+  ],
+  "511006": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]if condition: else:\n    A\n    B[[/bdi]]",
+          "id": 5110060102,
+          "question_id": 511006010
+        },
+        {
+          "content": "[[bdi]]else:\n    B\nif condition:\n    A[[/bdi]]",
+          "id": 5110060104,
+          "question_id": 511006010
+        },
+        {
+          "content": "[[bdi]]else condition:\n    A\nif:\n    B[[/bdi]]",
+          "id": 5110060103,
+          "question_id": 511006010
+        },
+        {
+          "content": "[[bdi]]if condition:\n    A\nelse:\n    B[[/bdi]]",
+          "id": 5110060101,
+          "question_id": 511006010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511006,
+        "content": "اختر الشكل الصحيح للبرنامج: إذا كان ~ فافعل [[bdi]]A[[/bdi]]، وإلا فافعل [[bdi]]B.[[/bdi]]",
+        "hints": [
+          "\"إذا لم يكن كذلك\" تُكتب [[bdi]]else:[[/bdi]]."
+        ],
+        "id": 511006010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511006020
+        }
+      ],
+      "question": {
+        "chapter_id": 511006,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) أسند 5 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 10، فاطبع [[bdi]]\"Win\"[[/bdi]]\n(3) إذا لم يكن كذلك، فاطبع [[bdi]]\"No prize\"[[/bdi]].\n\nنسخ النص: [[copy]]Win[[/copy]] [[copy]]No prize[[/copy]]",
+        "hints": [
+          "لإسناد قيمة إلى متغير، اكتب [[bdi]]\"num = 5\"[[/bdi]].",
+          "التعبير الشرطي \"[[bdi]]A[[/bdi]] يساوي [[bdi]]B[[/bdi]]\" يُكتب [[bdi]]\"A == B\"[[/bdi]]."
+        ],
+        "id": 511006020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]num <= 80[[/bdi]]",
+          "id": 5110060301,
+          "question_id": 511006030
+        },
+        {
+          "content": "[[bdi]]num == 80[[/bdi]]",
+          "id": 5110060302,
+          "question_id": 511006030
+        },
+        {
+          "content": "num > 80",
+          "id": 5110060303,
+          "question_id": 511006030
+        },
+        {
+          "content": "num < 80",
+          "id": 5110060304,
+          "question_id": 511006030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511006,
+        "content": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] تساوي 80 أو أقل\".",
+        "hints": [
+          "\"[[bdi]]A[[/bdi]] أصغر من أو يساوي [[bdi]]B[[/bdi]]\" تشمل [[bdi]]B[[/bdi]] أيضا."
+        ],
+        "id": 511006030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]num >= 30[[/bdi]]",
+          "id": 5110060404,
+          "question_id": 511006040
+        },
+        {
+          "content": "[[bdi]]num == 30[[/bdi]]",
+          "id": 5110060402,
+          "question_id": 511006040
+        },
+        {
+          "content": "num > 30",
+          "id": 5110060401,
+          "question_id": 511006040
+        },
+        {
+          "content": "num < 30",
+          "id": 5110060403,
+          "question_id": 511006040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511006,
+        "content": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] أكبر من 30\".",
+        "hints": [
+          "\"[[bdi]]A[[/bdi]] أكبر من [[bdi]]B[[/bdi]]\" لا تشمل [[bdi]]B.[[/bdi]]"
+        ],
+        "id": 511006040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "score = 80\nif fitbBlock1:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [
+            {
+              "col_size": 11,
+              "name": "fitbBlock1"
+            }
+          ],
+          "question_id": 511006050
+        }
+      ],
+      "question": {
+        "chapter_id": 511006,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) إذا كانت قيمة المتغير [[bdi]]score[[/bdi]] تساوي 60 أو أكبر، فاطبع [[bdi]]\"Pass\"[[/bdi]]، وإلا فاطبع [[bdi]]\"Fail\"[[/bdi]].\n\n*لا تحذف البرنامج المكتوب مسبقا، بل أدخل جزء التعبير الشرطي.",
+        "hints": [
+          "أدخل التعبير الشرطي \"[[bdi]]A[[/bdi]] أكبر من أو يساوي [[bdi]]B[[/bdi]]\" في سطر [[bdi]]if.[[/bdi]]"
+        ],
+        "id": 511006050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511007": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]if condition:\n    A\nelse if condition:\n    B[[/bdi]]",
+          "id": 5110070103,
+          "question_id": 511007010
+        },
+        {
+          "content": "[[bdi]]if condition:\n    A\nelif:\n    B[[/bdi]]",
+          "id": 5110070102,
+          "question_id": 511007010
+        },
+        {
+          "content": "[[bdi]]if condition: A elif condition: B[[/bdi]]",
+          "id": 5110070104,
+          "question_id": 511007010
+        },
+        {
+          "content": "[[bdi]]if condition:\n    A\nelif condition:\n    B[[/bdi]]",
+          "id": 5110070101,
+          "question_id": 511007010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511007,
+        "content": "اختر البرنامج الذي يقول: \"إذا... فافعل [[bdi]]A.[[/bdi]] وإلا، إذا... فافعل [[bdi]]B.[[/bdi]]\"",
+        "hints": [
+          "لنتذكر طريقة كتابة عبارات [[bdi]]if[[/bdi]] و[[bdi]]elif.[[/bdi]]"
+        ],
+        "id": 511007010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "num = 2\nif num == 1:\n    print(\"It's 1\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511007020
+        }
+      ],
+      "question": {
+        "chapter_id": 511007,
+        "content": "من السطر بعد [[bdi]]print(\"It's 1\")[[/bdi]]، أدخل البرنامج كما هو موضح أدناه.\n\n(1) وإلا، إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 2، فاطبع [[bdi]]\"It's 2\"[[/bdi]]\n\nنسخ النص: [[copy]]It's 2[[/copy]]",
+        "hints": [
+          "بما أن عبارة [[bdi]]if[[/bdi]] مكتوبة بالفعل، استخدم [[bdi]]\"elif\"[[/bdi]] لإضافة التعبير الشرطي."
+        ],
+        "id": 511007020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "score = 82\nif score == 100:\n    print(\"Perfect score\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511007030
+        }
+      ],
+      "question": {
+        "chapter_id": 511007,
+        "content": "أدخل البرنامج كما هو موضح أدناه، بدءا من السطر بعد [[bdi]]print(\"Perfect score\")[[/bdi]].\n\n(1) وإلا، إذا كانت قيمة المتغير [[bdi]]score[[/bdi]] تساوي 80 أو أكثر، فاطبع [[bdi]]\"Pass\"[[/bdi]]\n\nنسخ النص: [[copy]]Pass[[/copy]]",
+        "hints": [
+          "بما أن عبارة [[bdi]]if[[/bdi]] مكتوبة بالفعل، استخدم [[bdi]]\"elif\"[[/bdi]] لإضافة التعبير الشرطي.",
+          "التعبير الشرطي هو \"هل قيمة المتغير [[bdi]]score[[/bdi]] أكبر من أو تساوي 80؟\""
+        ],
+        "id": 511007030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "Nothing is printed",
+          "id": 5110070404,
+          "question_id": 511007040
+        },
+        {
+          "content": "So close",
+          "id": 5110070401,
+          "question_id": 511007040
+        },
+        {
+          "content": "Perfect score",
+          "id": 5110070402,
+          "question_id": 511007040
+        },
+        {
+          "content": "Pass",
+          "id": 5110070403,
+          "question_id": 511007040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511007,
+        "content": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]score = 62\nif score == 100:\n    print(\"Perfect score\")\nelif score >= 80:\n    print(\"Pass\")\nelif score >= 60:\n    print(\"So close\")[[/code]]",
+        "hints": [
+          "تم إسناد 62 إلى المتغير [[bdi]]score.[[/bdi]]"
+        ],
+        "id": 511007040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511007050
+        }
+      ],
+      "question": {
+        "chapter_id": 511007,
+        "content": "أنشئ البرنامج كما هو موضح أدناه.\n\n(1) أسند 5 إلى المتغير [[bdi]]egg[[/bdi]]\n(2) إذا كان المتغير [[bdi]]egg[[/bdi]] يساوي 0، فاطبع [[bdi]]\"Out of stock\"[[/bdi]]\n(3) وإلا، إذا كان المتغير [[bdi]]egg[[/bdi]] يساوي 3 أو أقل، فاطبع [[bdi]]\"Low stock\"[[/bdi]]\n(4) إذا لم يكن كذلك، فاطبع [[bdi]]\"In stock\"[[/bdi]]\n\nنسخ النص: [[copy]]Out of stock[[/copy]] [[copy]]Low stock[[/copy]] [[copy]]In stock[[/copy]]",
+        "hints": [
+          "استخدم [[bdi]]\"elif\"[[/bdi]] لإضافة شروط إلى برنامج مكتوبة فيه عبارة [[bdi]]if[[/bdi]] بالفعل.",
+          "استخدم [[bdi]]\"else\"[[/bdi]] لتحديد المعالجة عندما لا تنطبق كل التعبيرات الشرطية."
+        ],
+        "id": 511007050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511008": [
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511008010
+        }
+      ],
+      "question": {
+        "chapter_id": 511008,
+        "content": "أنشئ البرنامج كما هو موضح أدناه.\n\n(1) أسند 7 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 7، فاطبع [[bdi]]\"Win\"[[/bdi]]\n\nنسخ النص: [[copy]]Win[[/copy]]",
+        "hints": null,
+        "id": 511008010,
+        "seq": 1,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "10",
+          "id": 5110080203,
+          "question_id": 511008020
+        },
+        {
+          "content": "True",
+          "id": 5110080201,
+          "question_id": 511008020
+        },
+        {
+          "content": "100",
+          "id": 5110080204,
+          "question_id": 511008020
+        },
+        {
+          "content": "False",
+          "id": 5110080202,
+          "question_id": 511008020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511008,
+        "content": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]num = 10\nprint(num == 10)[[/code]]",
+        "hints": null,
+        "id": 511008020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "score = 70\nif fitbBlock1:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [
+            {
+              "col_size": 11,
+              "name": "fitbBlock1"
+            }
+          ],
+          "question_id": 511008030
+        }
+      ],
+      "question": {
+        "chapter_id": 511008,
+        "content": "أكمل السطر الثاني كما يلي.\n\n(1) إذا كانت قيمة المتغير [[bdi]]score[[/bdi]] تساوي 60 أو أكثر، فاطبع [[bdi]]\"Pass\"[[/bdi]]، وإلا فاطبع [[bdi]]\"Fail\"[[/bdi]]\n*أدخل التعبير الشرطي فقط.",
+        "hints": null,
+        "id": 511008030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]num >= 20[[/bdi]]",
+          "id": 5110080404,
+          "question_id": 511008040
+        },
+        {
+          "content": "num < 20",
+          "id": 5110080401,
+          "question_id": 511008040
+        },
+        {
+          "content": "[[bdi]]num <= 20[[/bdi]]",
+          "id": 5110080403,
+          "question_id": 511008040
+        },
+        {
+          "content": "[[bdi]]num == 20[[/bdi]]",
+          "id": 5110080402,
+          "question_id": 511008040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511008,
+        "content": "اختر البرنامج الذي يحتوي على التعبير الشرطي \"قيمة المتغير [[bdi]]num[[/bdi]] أقل من 20\".",
+        "hints": null,
+        "id": 511008040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511008050
+        }
+      ],
+      "question": {
+        "chapter_id": 511008,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) أسند 100 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 100، فاطبع [[bdi]]\"Win\"[[/bdi]]\n(3) وإلا، فاطبع [[bdi]]\"No prize\"[[/bdi]]\n\nنسخ النص: [[copy]]Win[[/copy]] [[copy]]No prize[[/copy]]",
+        "hints": null,
+        "id": 511008050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "Nothing is printed",
+          "id": 5110080604,
+          "question_id": 511008060
+        },
+        {
+          "content": "Perfect score",
+          "id": 5110080602,
+          "question_id": 511008060
+        },
+        {
+          "content": "So close",
+          "id": 5110080603,
+          "question_id": 511008060
+        },
+        {
+          "content": "Pass",
+          "id": 5110080601,
+          "question_id": 511008060
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511008,
+        "content": "اختر نتيجة الطباعة عند تشغيل البرنامج أدناه.\n[[code]]score = 92\nif score == 100:\n    print(\"Perfect score\")\nelif score >= 80:\n    print(\"Pass\")\nelif score >= 60:\n    print(\"So close\")[[/code]]",
+        "hints": null,
+        "id": 511008060,
+        "seq": 6,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511008070
+        }
+      ],
+      "question": {
+        "chapter_id": 511008,
+        "content": "أنشئ البرنامج كما هو موضح أدناه.\n(1) أسند 4 إلى المتغير [[bdi]]num[[/bdi]]\n(2) إذا كان المتغير [[bdi]]num[[/bdi]] يساوي 3 أو أقل، فاطبع [[bdi]]\"It's A\"[[/bdi]]\n(3) وإلا، إذا كان [[bdi]]num[[/bdi]] يساوي 6 أو أكثر، فاطبع [[bdi]]\"It's B\"[[/bdi]]\n(4) إذا لم يكن ذلك، فاطبع [[bdi]]\"It's C\"[[/bdi]]\n\nنسخ النص: [[copy]]It's A[[/copy]] [[copy]]It's B[[/copy]] [[copy]]It's C[[/copy]]",
+        "hints": null,
+        "id": 511008070,
+        "seq": 7,
+        "type": "description"
+      }
+    }
+  ],
+  "511009": [
+    {
+      "choices": [
+        {
+          "content": "A and B",
+          "id": 5110090101,
+          "question_id": 511009010
+        },
+        {
+          "content": "A or B",
+          "id": 5110090104,
+          "question_id": 511009010
+        },
+        {
+          "content": "[[bdi]]A == B[[/bdi]]",
+          "id": 5110090103,
+          "question_id": 511009010
+        },
+        {
+          "content": "A < B",
+          "id": 5110090102,
+          "question_id": 511009010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511009,
+        "content": "اختر البرنامج الذي يعني \"يتحقق [[bdi]]A[[/bdi]] و[[bdi]]B[[/bdi]] معا\".",
+        "hints": [
+          "نستخدم الكلمة المفتاحية [[bdi]]\"and\"[[/bdi]]."
+        ],
+        "id": 511009010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "A or B",
+          "id": 5110090201,
+          "question_id": 511009020
+        },
+        {
+          "content": "A < B",
+          "id": 5110090202,
+          "question_id": 511009020
+        },
+        {
+          "content": "[[bdi]]A == B[[/bdi]]",
+          "id": 5110090203,
+          "question_id": 511009020
+        },
+        {
+          "content": "A and B",
+          "id": 5110090204,
+          "question_id": 511009020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511009,
+        "content": "اختر البرنامج الذي يعني \"يتحقق [[bdi]]A[[/bdi]] أو [[bdi]]B[[/bdi]]\".",
+        "hints": [
+          "نستخدم الكلمة المفتاحية [[bdi]]\"or\"[[/bdi]]."
+        ],
+        "id": 511009020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "Nothing is printed",
+          "id": 5110090304,
+          "question_id": 511009030
+        },
+        {
+          "content": "Error",
+          "id": 5110090303,
+          "question_id": 511009030
+        },
+        {
+          "content": "Regular price",
+          "id": 5110090301,
+          "question_id": 511009030
+        },
+        {
+          "content": "Save 20%",
+          "id": 5110090302,
+          "question_id": 511009030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511009,
+        "content": "اختر نتيجة الطباعة للبرنامج التالي.\n[[code]]age = 20\nif age <= 18 or age >= 60:\n    print(\"Save 20%\")\nelse:\n    print(\"Regular price\")[[/code]]",
+        "hints": [
+          "لنتحقق مما إذا كانت قيمة المتغير [[bdi]]age[[/bdi]] تنطبق على التعبير الشرطي."
+        ],
+        "id": 511009030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "a = 5\nb = 10\n\nif fitbBlock1:\n    print(\"The condition is met\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [
+            {
+              "col_size": 17,
+              "name": "fitbBlock1"
+            }
+          ],
+          "question_id": 511009040
+        }
+      ],
+      "question": {
+        "chapter_id": 511009,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) إذا كان المتغير [[bdi]]a[[/bdi]] يساوي 5 أو كان [[bdi]]b[[/bdi]] يساوي 10، فاطبع [[bdi]]\"The condition is met\"[[/bdi]].\n*أدخل التعبير الشرطي فقط.",
+        "hints": [
+          "إذا كان المتغير [[bdi]]a[[/bdi]] في التعبير الشرطي يساوي 5، فإن \"يساوي\" تكتب على شكل [[bdi]]\"a == 5\"[[/bdi]].",
+          "إذا كان المتغير [[bdi]]b[[/bdi]] في التعبير الشرطي يساوي 10، فإن \"يساوي\" تكتب على شكل [[bdi]]\"b == 10\"[[/bdi]]."
+        ],
+        "id": 511009040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "a = 4\nb = 3\nif fitbBlock1:\n    print(\"The condition is met\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [
+            {
+              "col_size": 17,
+              "name": "fitbBlock1"
+            }
+          ],
+          "question_id": 511009050
+        }
+      ],
+      "question": {
+        "chapter_id": 511009,
+        "content": "أنشئ برنامجا كما يلي.\n\n(1) إذا كان المتغير [[bdi]]a[[/bdi]] أكبر من أو يساوي 2 وكان [[bdi]]b[[/bdi]] أكبر من أو يساوي 3، فاطبع [[bdi]]\"The condition is met\"[[/bdi]].\n*أدخل التعبير الشرطي فقط.",
+        "hints": [
+          "في التعبير الشرطي، اكتب \"المتغير [[bdi]]a[[/bdi]] أكبر من أو يساوي 2\" على شكل [[bdi]]\"a >= 2\"[[/bdi]].",
+          "في التعبير الشرطي، اكتب \"المتغير [[bdi]]b[[/bdi]] أكبر من أو يساوي 3\" على شكل [[bdi]]\"b >= 3\"[[/bdi]]."
+        ],
+        "id": 511009050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511010": [
+    {
+      "choices": [
+        {
+          "content": "print",
+          "id": 5110100104,
+          "question_id": 511010010
+        },
+        {
+          "content": "[[bdi]]if[[/bdi]]",
+          "id": 5110100103,
+          "question_id": 511010010
+        },
+        {
+          "content": "[[bdi]]for[[/bdi]]",
+          "id": 5110100101,
+          "question_id": 511010010
+        },
+        {
+          "content": "num",
+          "id": 5110100102,
+          "question_id": 511010010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511010,
+        "content": "عندما تقوم بكتابة \"تكرار طباعة كلمة [[bdi]]apple[[/bdi]] على الشاشة 10 مرات\" كبرنامج، حدد ما تكتبه في بداية البرنامج.",
+        "hints": [
+          "تُستخدم الكلمة [[bdi]]for[[/bdi]] في برامج الحلقات."
+        ],
+        "id": 511010010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "i = 1 + 1",
+          "id": 5110100202,
+          "question_id": 511010020
+        },
+        {
+          "content": "i = i + 1",
+          "id": 5110100201,
+          "question_id": 511010020
+        },
+        {
+          "content": "i = i + 1 1",
+          "id": 5110100203,
+          "question_id": 511010020
+        },
+        {
+          "content": "i = + i",
+          "id": 5110100204,
+          "question_id": 511010020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511010,
+        "content": "اختر البرنامج الصحيح لإضافة 1 إلى المتغير [[bdi]]i[[/bdi]] في كل مرة.",
+        "hints": [
+          "لإضافة 1 إلى [[bdi]]i[[/bdi]]، تكتب [[bdi]]i = i + 1[[/bdi]]."
+        ],
+        "id": 511010020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]for i in range(10):[[/bdi]]\n    الكود الخاص بك",
+          "id": 5110100301,
+          "question_id": 511010030
+        },
+        {
+          "content": "[[bdi]]for range(10) in i:[[/bdi]]\n    الكود الخاص بك",
+          "id": 5110100304,
+          "question_id": 511010030
+        },
+        {
+          "content": "[[bdi]]for i in range(10)[[/bdi]]\n    الكود الخاص بك",
+          "id": 5110100302,
+          "question_id": 511010030
+        },
+        {
+          "content": "[[bdi]]for i range(10):[[/bdi]]\n    الكود الخاص بك",
+          "id": 5110100303,
+          "question_id": 511010030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511010,
+        "content": "اختر البرنامج الصحيح لتكرار معالجة محددة 10 مرات.",
+        "hints": [
+          "[[bdi]]range(10)[[/bdi]] هو أحد الأمثلة على كتابة \"كرر 10 مرات، بدءًا من 0\"."
+        ],
+        "id": 511010030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "for     :\n    print(\"Hello\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511010040
+        }
+      ],
+      "question": {
+        "chapter_id": 511010,
+        "content": "أنشئ برنامجك كما يلي:\n\n(1) اعرض [[bdi]]\"Hello\"[[/bdi]] على الشاشة خمس مرات.\n*استخدم [[bdi]]\"i\"[[/bdi]] كاسم للمتغير، واستخدم [[bdi]]range(5)[[/bdi]].\n\nنسخ النص: [[copy]]Hello[[/copy]]",
+        "hints": [
+          "[[bdi]]range(5)[[/bdi]] تعني \"كرر 5 مرات، بدءًا من 0\".",
+          "استخدم [[bdi]]\"i\"[[/bdi]] كاسم للمتغير.",
+          "بعد [[bdi]]for i[[/bdi]]، اكتب [[bdi]]in range(5):[[/bdi]]."
+        ],
+        "id": 511010040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511010050
+        }
+      ],
+      "question": {
+        "chapter_id": 511010,
+        "content": "أنشئ برنامجك كما يلي:\n\n(1) اعرض [[bdi]]\"Hello\"[[/bdi]] على الشاشة 7 مرات.\n*استخدم [[bdi]]\"i\"[[/bdi]] كاسم للمتغير، واستخدم [[bdi]]range(7)[[/bdi]].\n\nنسخ النص: [[copy]]Hello[[/copy]]",
+        "hints": [
+          "[[bdi]]range(7)[[/bdi]] تعني \"كرر 7 مرات، بدءًا من 0\".",
+          "استخدم [[bdi]]\"i\"[[/bdi]] كاسم للمتغير.",
+          "بعد [[bdi]]for i[[/bdi]]، اكتب [[bdi]]in range(7):[[/bdi]]."
+        ],
+        "id": 511010050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511011": [
+    {
+      "choices": [
+        {
+          "content": "A < B",
+          "id": 5110110102,
+          "question_id": 511011010
+        },
+        {
+          "content": "A and B",
+          "id": 5110110104,
+          "question_id": 511011010
+        },
+        {
+          "content": "A or B",
+          "id": 5110110101,
+          "question_id": 511011010
+        },
+        {
+          "content": "[[bdi]]A == B[[/bdi]]",
+          "id": 5110110103,
+          "question_id": 511011010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511011,
+        "content": "اختر البرنامج الذي يعني[[bdi]] \"A or B\"[[/bdi]].",
+        "hints": null,
+        "id": 511011010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "It's 9",
+          "id": 5110110203,
+          "question_id": 511011020
+        },
+        {
+          "content": "It's A",
+          "id": 5110110201,
+          "question_id": 511011020
+        },
+        {
+          "content": "It's B",
+          "id": 5110110202,
+          "question_id": 511011020
+        },
+        {
+          "content": "لا تتم طباعة أي شيء",
+          "id": 5110110204,
+          "question_id": 511011020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511011,
+        "content": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = 9\nif num <= 3 or num >= 7:\n    print(\"It's A\")\nelse:\n    print(\"It's B\")[[/code]]",
+        "hints": null,
+        "id": 511011020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "i = 1 + 1",
+          "id": 5110110302,
+          "question_id": 511011030
+        },
+        {
+          "content": "i = + i",
+          "id": 5110110304,
+          "question_id": 511011030
+        },
+        {
+          "content": "i = i + 1",
+          "id": 5110110301,
+          "question_id": 511011030
+        },
+        {
+          "content": "i = i + 1 1",
+          "id": 5110110303,
+          "question_id": 511011030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511011,
+        "content": "اختر البرنامج الصحيح لإضافة 1 إلى المتغير[[bdi]] i [[/bdi]]في كل مرة.",
+        "hints": null,
+        "id": 511011030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]][[bdi]]for i in range(10):[[/bdi]][[/bdi]]\n  العملية المحددة",
+          "id": 5110110401,
+          "question_id": 511011040
+        },
+        {
+          "content": "[[bdi]][[bdi]]for range(10) in i:[[/bdi]][[/bdi]]\n  العملية المحددة",
+          "id": 5110110404,
+          "question_id": 511011040
+        },
+        {
+          "content": "[[bdi]][[bdi]]for i range(10):[[/bdi]][[/bdi]]\n  العملية المحددة",
+          "id": 5110110403,
+          "question_id": 511011040
+        },
+        {
+          "content": "[[bdi]][[bdi]]for i in range(10)[[/bdi]][[/bdi]]\n  العملية المحددة",
+          "id": 5110110402,
+          "question_id": 511011040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511011,
+        "content": "اختر الخيار الصحيح لبرنامج يكرر عملية محددة 10 مرات.",
+        "hints": null,
+        "id": 511011040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "hello\n hello",
+          "id": 5110110501,
+          "question_id": 511011050
+        },
+        {
+          "content": "hello",
+          "id": 5110110502,
+          "question_id": 511011050
+        },
+        {
+          "content": "hello\n hello\n hello",
+          "id": 5110110503,
+          "question_id": 511011050
+        },
+        {
+          "content": "لا تتم طباعة أي شيء",
+          "id": 5110110504,
+          "question_id": 511011050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511011,
+        "content": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]for i in range(2):\n    print(\"hello\")[[/code]]",
+        "hints": null,
+        "id": 511011050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511011060
+        }
+      ],
+      "question": {
+        "chapter_id": 511011,
+        "content": "أنشئ برنامجك كما يلي:\n\n(1) اطبع[[bdi]] \"Good morning\" [[/bdi]]على الشاشة 10 مرات.\n* استخدم[[bdi]] \"i\" [[/bdi]]كاسم للمتغير و[[bdi]]range(10)[[/bdi]].\n\nنص النسخة: [[copy]]Good morning[[/copy]]",
+        "hints": null,
+        "id": 511011060,
+        "seq": 6,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "a = 4\nb = 3\nif :\n    print(\"the condition is met\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511011070
+        }
+      ],
+      "question": {
+        "chapter_id": 511011,
+        "content": "أنشئ برنامجك كما يلي:\n\n(1) إذا كانت قيمة المتغير[[bdi]] a [[/bdi]]أكبر من أو تساوي 2، وقيمة المتغير[[bdi]] b [[/bdi]]أكبر من أو تساوي 3، اطبع[[bdi]] \"the condition is met\"[[/bdi]]\n* أدخل العبارة الشرطية فقط.",
+        "hints": null,
+        "id": 511011070,
+        "seq": 7,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511011080
+        }
+      ],
+      "question": {
+        "chapter_id": 511011,
+        "content": "أنشئ برنامجك كما يلي:\n\n(1) اطبع[[bdi]] \"Hello\" [[/bdi]]على الشاشة ثلاث مرات.\n* استخدم[[bdi]] \"i\" [[/bdi]]كاسم للمتغير و[[bdi]]range(3)[[/bdi]].\n\nنص النسخة: [[copy]]Hello[[/copy]]",
+        "hints": null,
+        "id": 511011080,
+        "seq": 8,
+        "type": "description"
+      }
+    }
+  ],
+  "511012": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]Round(1.8)[[/bdi]]",
+          "id": 5110120104,
+          "question_id": 511012010
+        },
+        {
+          "content": "[[bdi]]round(1.8)[[/bdi]]",
+          "id": 5110120101,
+          "question_id": 511012010
+        },
+        {
+          "content": "[[bdi]]roundoff(1.8)[[/bdi]]",
+          "id": 5110120102,
+          "question_id": 511012010
+        },
+        {
+          "content": "[[bdi]]math.round(1.8)[[/bdi]]",
+          "id": 5110120103,
+          "question_id": 511012010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511012,
+        "content": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد.",
+        "hints": [
+          "في اللغة الإنجليزية، التقريب هو[[bdi]] \"round off\"[[/bdi]]."
+        ],
+        "id": 511012010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(min())[[/bdi]]",
+          "id": 5110120202,
+          "question_id": 511012020
+        },
+        {
+          "content": "[[bdi]]print(max())[[/bdi]]",
+          "id": 5110120203,
+          "question_id": 511012020
+        },
+        {
+          "content": "[[bdi]]print(Random())[[/bdi]]",
+          "id": 5110120204,
+          "question_id": 511012020
+        },
+        {
+          "content": "[[bdi]]print(random.random())[[/bdi]]",
+          "id": 5110120201,
+          "question_id": 511012020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511012,
+        "content": "اختر البرنامج الصحيح لطباعة رقم عشوائي.\n* افترض أن عملية الاستيراد قد تمت بالفعل.",
+        "hints": [
+          "تُكتب كلمة \"عشوائي\" بأحرف صغيرة."
+        ],
+        "id": 511012020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(math.floor(10.5))[[/bdi]]",
+          "id": 5110120301,
+          "question_id": 511012030
+        },
+        {
+          "content": "[[bdi]]print(max(10.5))[[/bdi]]",
+          "id": 5110120303,
+          "question_id": 511012030
+        },
+        {
+          "content": "[[bdi]]print(min(10.5))[[/bdi]]",
+          "id": 5110120304,
+          "question_id": 511012030
+        },
+        {
+          "content": "[[bdi]]print(round(10.5))[[/bdi]]",
+          "id": 5110120302,
+          "question_id": 511012030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511012,
+        "content": "اختر الطريقة الصحيحة لكتابة دالة تقوم بتقريب عدد عشري إلى الأسفل.",
+        "hints": [
+          "فكّر ملياً في معنى الكلمة."
+        ],
+        "id": 511012030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511012040
+        }
+      ],
+      "question": {
+        "chapter_id": 511012,
+        "content": "أدخل برنامجك كما يلي:\n\n(1) استخدم دالة لتقريب العدد \"5.5\" وطباعته على الشاشة.\n(2) استخدم دالة لتقريب العدد العشري \"8.8\" إلى أقرب عدد صحيح أصغر، وطباعته على الشاشة.\n\nاستخدم الدالتين[[bdi]] \"math.floor\" [[/bdi]]و[[bdi]]\"round\"[[/bdi]].",
+        "hints": [
+          "القيمة المراد تقريبها هي \"5.5\"، والقيمة المراد تقريبها إلى الأسفل هي \"8.8\"."
+        ],
+        "id": 511012040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import random\nif :\n    print(\"A bright day\")\nelse:\n    print(\"Take it slow and do your best\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511012050
+        }
+      ],
+      "question": {
+        "chapter_id": 511012,
+        "content": "أنشئ برنامجًا يطبع[[bdi]] \"A bright day\" [[/bdi]]إذا كان الرقم العشوائي يساوي 0.5 أو أكثر، و[[bdi]]\"Take it slow and do your best\" [[/bdi]]في غير ذلك.\n\nأدخل التعبير الشرطي لـ \"إذا كانت القيمة العشوائية تساوي 0.5 أو أكثر\".\nاستخدم الدالة[[bdi]] \"random.random()\"[[/bdi]].",
+        "hints": [
+          "تُكتب عبارة[[bdi]] \"A [[/bdi]]هو[[bdi]] B [[/bdi]]أو أكثر\" على النحو التالي: [[bdi]]\"A >= B\"[[/bdi]]."
+        ],
+        "id": 511012050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import math\nimport random\nprint( );",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511012060
+        }
+      ],
+      "question": {
+        "chapter_id": 511012,
+        "content": "أنشئ برنامجًا يُعيد عددًا صحيحًا عشوائيًا كما يلي:\n\n(1) استخدم الدالة[[bdi]] \"random.random\" [[/bdi]]لإعادة عدد عشوائي.\n(2) اضرب العدد العشوائي الناتج في 10.\n(3) استخدم الدالة[[bdi]] \"math.floor\" [[/bdi]]لإعادة عدد صحيح.",
+        "hints": [
+          "تُكتب الدالة[[bdi]] \"random.random\" [[/bdi]]على النحو التالي: [[bdi]]\"random.random()\"[[/bdi]].",
+          "لضرب العدد في 10، يمكنك استخدام \"* 10\" لضربه في[[bdi]] \"random.random\"[[/bdi]].",
+          "لتقريب العدد العشري إلى الأسفل، ضع[[bdi]] \"random.random\" [[/bdi]]و \"* 10\" في وسيط[[bdi]] \"math.floor\"[[/bdi]]."
+        ],
+        "id": 511012060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511013": [
+    {
+      "choices": [
+        {
+          "content": "20",
+          "id": 5110130103,
+          "question_id": 511013010
+        },
+        {
+          "content": "120",
+          "id": 5110130104,
+          "question_id": 511013010
+        },
+        {
+          "content": "60",
+          "id": 5110130101,
+          "question_id": 511013010
+        },
+        {
+          "content": "40",
+          "id": 5110130102,
+          "question_id": 511013010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511013,
+        "content": "اختر نتيجة البرنامج التالي.\n\n[[code]]print(max(20, 40, 60))[[/code]]",
+        "hints": [
+          "تعني كلمة[[bdi]] \"max\" [[/bdi]]القيمة القصوى."
+        ],
+        "id": 511013010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]](num) calc def:[[/bdi]]\n المعالجة",
+          "id": 5110130203,
+          "question_id": 511013020
+        },
+        {
+          "content": "[[bdi]]calc(num) def:[[/bdi]]\n المعالجة",
+          "id": 5110130202,
+          "question_id": 511013020
+        },
+        {
+          "content": "[[bdi]]def calc(num):[[/bdi]]\n المعالجة",
+          "id": 5110130201,
+          "question_id": 511013020
+        },
+        {
+          "content": "[[bdi]]def (num) calc:[[/bdi]]\n المعالجة",
+          "id": 5110130204,
+          "question_id": 511013020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511013,
+        "content": "اختر البرنامج الصحيح لإنشاء دالة باسم[[bdi]] calc [[/bdi]]مع وسيط باسم[[bdi]] num.[[/bdi]]",
+        "hints": [
+          "لإنشاء دالة، يلزم تعريفها أولاً."
+        ],
+        "id": 511013020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "3",
+          "id": 5110130302,
+          "question_id": 511013030
+        },
+        {
+          "content": "15",
+          "id": 5110130301,
+          "question_id": 511013030
+        },
+        {
+          "content": "5",
+          "id": 5110130304,
+          "question_id": 511013030
+        },
+        {
+          "content": "0",
+          "id": 5110130303,
+          "question_id": 511013030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511013,
+        "content": "حدد ما سيظهر على الشاشة بعد تشغيل البرنامج التالي.\n\n[[code]]def calc(num):\n    result = num * 3\n    return result\nprint(calc(5))[[/code]]",
+        "hints": [
+          "دعونا نتحقق من كيفية عمل الدالة[[bdi]] calc.[[/bdi]]",
+          "لنتحقق من وسيط الدالة[[bdi]] calc.[[/bdi]]",
+          "عملية (معالجة) الدالة[[bdi]] calc [[/bdi]]هي[[bdi]] num * 3[[/bdi]]."
+        ],
+        "id": 511013030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calc(num):\n    result = num * 5\n    return result",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511013040
+        }
+      ],
+      "question": {
+        "chapter_id": 511013,
+        "content": "أضف برنامجًا يستدعي الدالة[[bdi]] \"calc\"[[/bdi]].\nضع الرقم \"3\" كوسيط.",
+        "hints": [
+          "اسم الدالة هو[[bdi]] \"calc\"[[/bdi]].",
+          "الحجة هي \"3\"."
+        ],
+        "id": 511013040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calc(num):\n    result = num * 7\nprint(calc(10))",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511013050
+        }
+      ],
+      "question": {
+        "chapter_id": 511013,
+        "content": "أضف إلى البرنامج المكتوب برنامجًا يقوم بإرجاع قيمة المتغير[[bdi]] \"result\"[[/bdi]].",
+        "hints": [
+          "لإرجاع قيمة، استخدم[[bdi]] \"return\"[[/bdi]]."
+        ],
+        "id": 511013050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511014": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]round(1.8)[[/bdi]]",
+          "id": 5110140101,
+          "question_id": 511014010
+        },
+        {
+          "content": "[[bdi]]math.round(1.8)[[/bdi]]",
+          "id": 5110140103,
+          "question_id": 511014010
+        },
+        {
+          "content": "[[bdi]]roundoff(1.8)[[/bdi]]",
+          "id": 5110140102,
+          "question_id": 511014010
+        },
+        {
+          "content": "[[bdi]]Round(1.8)[[/bdi]]",
+          "id": 5110140104,
+          "question_id": 511014010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511014,
+        "content": "يرجى تحديد الدالة الصحيحة لتقريب العدد.",
+        "hints": null,
+        "id": 511014010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "20",
+          "id": 5110140203,
+          "question_id": 511014020
+        },
+        {
+          "content": "40",
+          "id": 5110140202,
+          "question_id": 511014020
+        },
+        {
+          "content": "120",
+          "id": 5110140204,
+          "question_id": 511014020
+        },
+        {
+          "content": "60",
+          "id": 5110140201,
+          "question_id": 511014020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511014,
+        "content": "حدد نتيجة تشغيل البرنامج التالي.\n\n[[code]]print(max(20, 40, 60))[[/code]]",
+        "hints": null,
+        "id": 511014020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(max())[[/bdi]]",
+          "id": 5110140303,
+          "question_id": 511014030
+        },
+        {
+          "content": "[[bdi]]print(min())[[/bdi]]",
+          "id": 5110140302,
+          "question_id": 511014030
+        },
+        {
+          "content": "[[bdi]]print(random.random())[[/bdi]]",
+          "id": 5110140301,
+          "question_id": 511014030
+        },
+        {
+          "content": "[[bdi]]print(Random())[[/bdi]]",
+          "id": 5110140304,
+          "question_id": 511014030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511014,
+        "content": "يرجى اختيار البرنامج الصحيح لإخراج قيمة عددية عشوائية.\n* افترض أنه تم استيراده مسبقًا.",
+        "hints": null,
+        "id": 511014030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "12",
+          "id": 5110140401,
+          "question_id": 511014040
+        },
+        {
+          "content": "13",
+          "id": 5110140402,
+          "question_id": 511014040
+        },
+        {
+          "content": "11",
+          "id": 5110140403,
+          "question_id": 511014040
+        },
+        {
+          "content": "لا يوجد ناتج",
+          "id": 5110140404,
+          "question_id": 511014040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511014,
+        "content": "اختر نتيجة تشغيل البرنامج أدناه.\n\n[[code]]import math\nprint(math.floor(12.8))[[/code]]",
+        "hints": null,
+        "id": 511014040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import math\nimport random\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511014050
+        }
+      ],
+      "question": {
+        "chapter_id": 511014,
+        "content": "أنشئ برنامجًا يُعيد عددًا صحيحًا عشوائيًا كما يلي:\n\n(1) استخدم الدالة[[bdi]] \"random.random\" [[/bdi]]لإعادة قيمة عددية عشوائية.\n(2) اضرب القيمة العددية العشوائية المُعادة في 10.\n(3) استخدم الدالة[[bdi]] \"math.floor\" [[/bdi]]لإعادة عدد صحيح.",
+        "hints": null,
+        "id": 511014050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]][[bdi]]calc(num) def:[[/bdi]][[/bdi]]\nالمعالجة",
+          "id": 5110140602,
+          "question_id": 511014060
+        },
+        {
+          "content": "[[bdi]][[bdi]](num) calc def:[[/bdi]][[/bdi]]\nالمعالجة",
+          "id": 5110140603,
+          "question_id": 511014060
+        },
+        {
+          "content": "[[bdi]][[bdi]]def calc(num):[[/bdi]][[/bdi]]\nالمعالجة",
+          "id": 5110140601,
+          "question_id": 511014060
+        },
+        {
+          "content": "[[bdi]][[bdi]]def (num) calc:[[/bdi]][[/bdi]]\nالمعالجة",
+          "id": 5110140604,
+          "question_id": 511014060
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511014,
+        "content": "يرجى تحديد البرنامج الصحيح لإنشاء دالة باسم الدالة[[bdi]] calc [[/bdi]]واسم الوسيط[[bdi]] num.[[/bdi]]",
+        "hints": null,
+        "id": 511014060,
+        "seq": 6,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calc(num):\n    result = num * 7\nprint(calc(10))",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511014070
+        }
+      ],
+      "question": {
+        "chapter_id": 511014,
+        "content": "أضف إلى البرنامج المكتوب سطرًا يُعيد قيمة المتغير[[bdi]] \"result\"[[/bdi]].",
+        "hints": null,
+        "id": 511014070,
+        "seq": 7,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calc(num):\n    result = num * 5\n    return result",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511014080
+        }
+      ],
+      "question": {
+        "chapter_id": 511014,
+        "content": "أضف برنامجًا يستدعي الدالة[[bdi]] \"calc\"[[/bdi]].\nاستخدم \"3\" كوسيط.",
+        "hints": null,
+        "id": 511014080,
+        "seq": 8,
+        "type": "description"
+      }
+    }
+  ],
+  "511015": [
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "num = [ ]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511015010
+        }
+      ],
+      "question": {
+        "chapter_id": 511015,
+        "content": "ضع القيم التالية في القائمة:\n5، 10، 15\n\n* لا يظهر أي ناتج حتى عند تشغيل البرنامج.",
+        "hints": [
+          "أدخل الأرقام مفصولة بفواصل."
+        ],
+        "id": 511015010,
+        "seq": 1,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "15",
+          "id": 5110150201,
+          "question_id": 511015020
+        },
+        {
+          "content": "20",
+          "id": 5110150203,
+          "question_id": 511015020
+        },
+        {
+          "content": "10",
+          "id": 5110150202,
+          "question_id": 511015020
+        },
+        {
+          "content": "2",
+          "id": 5110150204,
+          "question_id": 511015020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511015,
+        "content": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = [5, 10, 15, 20, 25]\nprint(num[2])[[/code]]",
+        "hints": [
+          "[[bdi]]\"num[2]\" [[/bdi]]تعني استخراج القيمة الثانية من القائمة."
+        ],
+        "id": 511015020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "num = [5, 10, 15, 20, 25]\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511015030
+        }
+      ],
+      "question": {
+        "chapter_id": 511015,
+        "content": "اعرض جميع القيم الموجودة في القائمة على الشاشة.\n* لا تُدخل القيم مباشرةً.\n* دون حذف البرنامج المكتوب، أضف ما بداخل أقواس[[bdi]] print [[/bdi]]إلى البرنامج.",
+        "hints": [
+          "عندما تقوم بإخراج القيم في قائمة، فإنك تكتبها بنفس الطريقة التي تكتب بها قيمة متغير."
+        ],
+        "id": 511015030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "2",
+          "id": 5110150402,
+          "question_id": 511015040
+        },
+        {
+          "content": "3",
+          "id": 5110150403,
+          "question_id": 511015040
+        },
+        {
+          "content": "1",
+          "id": 5110150404,
+          "question_id": 511015040
+        },
+        {
+          "content": "6",
+          "id": 5110150401,
+          "question_id": 511015040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511015,
+        "content": "اختر نتيجة تشغيل البرنامج التالي.\n\n[[code]]num = [1, 2, 3]\nsum = 0\nfor i in range(3):\n    sum = sum + num[i]\nprint(sum)[[/code]]",
+        "hints": [
+          "إنه برنامج يقوم بجمع القيم الموجودة في القائمة."
+        ],
+        "id": 511015040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "num = [5, 10, 15, 20, 25]\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511015050
+        }
+      ],
+      "question": {
+        "chapter_id": 511015,
+        "content": "اعرض طول القائمة على الشاشة.\n* لا تُدخل رقم الطول مباشرةً.",
+        "hints": [
+          "يمكنك التحقق من الطول باستخدام دالة[[bdi]] len.[[/bdi]]"
+        ],
+        "id": 511015050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511016": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('u', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110160103,
+          "question_id": 511016010
+        },
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('i', \"31321\")[[/bdi]]",
+          "id": 5110160104,
+          "question_id": 511016010
+        },
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110160101,
+          "question_id": 511016010
+        },
+        {
+          "content": "[[bdi]]rank_array = array.array('i', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110160102,
+          "question_id": 511016010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511016,
+        "content": "اختر البرنامج الصحيح لإنشاء مصفوفة تحتوي على أعداد صحيحة فقط.",
+        "hints": [
+          "يجب عليك[[bdi]] import array [[/bdi]]قبل استخدامها."
+        ],
+        "id": 511016010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "20",
+          "id": 5110160202,
+          "question_id": 511016020
+        },
+        {
+          "content": "3",
+          "id": 5110160203,
+          "question_id": 511016020
+        },
+        {
+          "content": "40",
+          "id": 5110160204,
+          "question_id": 511016020
+        },
+        {
+          "content": "30",
+          "id": 5110160201,
+          "question_id": 511016020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511016,
+        "content": "اختر مخرجات البرنامج التالي.\n\n[[code]]import array\nteam_array = array.array('i', [10, 20, 30, 40, 50])\nprint(team_array[2])[[/code]]",
+        "hints": [
+          "تبدأ فهارس المصفوفة من 0."
+        ],
+        "id": 511016020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import array\n\nround_array = \nprint()\nprint()",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511016030
+        }
+      ],
+      "question": {
+        "chapter_id": 511016,
+        "content": "أدخل البرنامج كما يلي:\n\n(1) اكتب[[bdi]] import array [[/bdi]]في بداية البرنامج.\n(2) عيّن المتغير[[bdi]] round_array [[/bdi]]باستخدام[[bdi]] array.array('i', [1, 2, 3, 4, 5])[[/bdi]].\n(3) اطبع العنصرين 1 و4 من[[bdi]] round_array [[/bdi]]في وحدة التحكم.",
+        "hints": [
+          "تبدأ فهارس المصفوفة من 0."
+        ],
+        "id": 511016030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "6",
+          "id": 5110160401,
+          "question_id": 511016040
+        },
+        {
+          "content": "5",
+          "id": 5110160402,
+          "question_id": 511016040
+        },
+        {
+          "content": "8",
+          "id": 5110160404,
+          "question_id": 511016040
+        },
+        {
+          "content": "14",
+          "id": 5110160403,
+          "question_id": 511016040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511016,
+        "content": "اختر مخرجات البرنامج التالي.\n\n[[code]]import array\npoint_array = array.array('i', [8, 12, 15, 9, 11, 14])\nprint(len(point_array))[[/code]]",
+        "hints": [
+          "تبدأ فهارس المصفوفة من 0."
+        ],
+        "id": 511016040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]][38 53 65][[/bdi]]",
+          "id": 5110160501,
+          "question_id": 511016050
+        },
+        {
+          "content": "[[bdi]][38 50 65][[/bdi]]",
+          "id": 5110160503,
+          "question_id": 511016050
+        },
+        {
+          "content": "[[bdi]][35 50 62 3][[/bdi]]",
+          "id": 5110160504,
+          "question_id": 511016050
+        },
+        {
+          "content": "[[bdi]][35 50 62][[/bdi]]",
+          "id": 5110160502,
+          "question_id": 511016050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511016,
+        "content": "اختر مخرجات البرنامج التالي.\n\n[[code]]import numpy\nread_array = numpy.array([35, 50, 62])\nprint(read_array + 3)[[/code]]",
+        "hints": [
+          "عدد العناصر في المصفوفة لا يتغير."
+        ],
+        "id": 511016050,
+        "seq": 5,
+        "type": "choice"
+      }
+    }
+  ],
+  "511017": [
+    {
+      "choices": [
+        {
+          "content": "10",
+          "id": 5110170102,
+          "question_id": 511017010
+        },
+        {
+          "content": "15",
+          "id": 5110170101,
+          "question_id": 511017010
+        },
+        {
+          "content": "20",
+          "id": 5110170103,
+          "question_id": 511017010
+        },
+        {
+          "content": "2",
+          "id": 5110170104,
+          "question_id": 511017010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511017,
+        "content": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]num = [5, 10, 15, 20, 25]\nprint(num[2])[[/code]]",
+        "hints": null,
+        "id": 511017010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "num = [5, 10, 15, 20, 25]\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511017020
+        }
+      ],
+      "question": {
+        "chapter_id": 511017,
+        "content": "اطبع جميع القيم الموجودة في القائمة على الشاشة.\n* لا تكتب القيم مباشرةً.\n* لا تحذف البرنامج المكتوب مسبقًا. أضف برنامجك داخل أقواس[[bdi]] print.[[/bdi]]",
+        "hints": null,
+        "id": 511017020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "3",
+          "id": 5110170303,
+          "question_id": 511017030
+        },
+        {
+          "content": "1",
+          "id": 5110170304,
+          "question_id": 511017030
+        },
+        {
+          "content": "2",
+          "id": 5110170302,
+          "question_id": 511017030
+        },
+        {
+          "content": "6",
+          "id": 5110170301,
+          "question_id": 511017030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511017,
+        "content": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]num = [1, 2, 3]\nsum = 0\nfor i in range(3):\n    sum = sum + num[i]\nprint(sum)[[/code]]",
+        "hints": null,
+        "id": 511017030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "40",
+          "id": 5110170404,
+          "question_id": 511017040
+        },
+        {
+          "content": "20",
+          "id": 5110170402,
+          "question_id": 511017040
+        },
+        {
+          "content": "3",
+          "id": 5110170403,
+          "question_id": 511017040
+        },
+        {
+          "content": "30",
+          "id": 5110170401,
+          "question_id": 511017040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511017,
+        "content": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]import array\nteam_array = array.array('i', [10, 20, 30, 40, 50])\nprint(team_array[2])[[/code]]",
+        "hints": null,
+        "id": 511017040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('i', \"31321\")[[/bdi]]",
+          "id": 5110170504,
+          "question_id": 511017050
+        },
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('i', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110170501,
+          "question_id": 511017050
+        },
+        {
+          "content": "[[bdi]]rank_array = array.array('i', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110170502,
+          "question_id": 511017050
+        },
+        {
+          "content": "[[bdi]]import array\nrank_array = array.array('u', [3, 1, 3, 2, 1])[[/bdi]]",
+          "id": 5110170503,
+          "question_id": 511017050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511017,
+        "content": "اختر البرنامج الصحيح لإنشاء مصفوفة من الأعداد الصحيحة فقط.",
+        "hints": null,
+        "id": 511017050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "8",
+          "id": 5110170604,
+          "question_id": 511017060
+        },
+        {
+          "content": "6",
+          "id": 5110170601,
+          "question_id": 511017060
+        },
+        {
+          "content": "14",
+          "id": 5110170603,
+          "question_id": 511017060
+        },
+        {
+          "content": "5",
+          "id": 5110170602,
+          "question_id": 511017060
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511017,
+        "content": "حدد ناتج تشغيل البرنامج التالي.\n\n[[code]]import array\npoint_array = array.array('i', [8, 12, 15, 9, 11, 14])\nprint(len(point_array))[[/code]]",
+        "hints": null,
+        "id": 511017060,
+        "seq": 6,
+        "type": "choice"
+      }
+    }
+  ],
+  "511018": [
+    {
+      "choices": [
+        {
+          "content": "حدث خطأ",
+          "id": 5110180103,
+          "question_id": 511018010
+        },
+        {
+          "content": "OFF",
+          "id": 5110180102,
+          "question_id": 511018010
+        },
+        {
+          "content": "ON",
+          "id": 5110180101,
+          "question_id": 511018010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511018,
+        "content": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n[[bdi]]True [[/bdi]]تعني تشغيل و[[bdi]] False [[/bdi]]تعني إيقاف تشغيل لـ[[bdi]] lamp_on.[[/bdi]]\n\n[[code]]lamp_on = True\n\nif lamp_on:\n    print(\"ON\")\nelse:\n    print(\"OFF\")[[/code]]",
+        "hints": [
+          "عندما يكون التعبير الشرطي هو[[bdi]] True[[/bdi]]، يتم تشغيل المعالجة."
+        ],
+        "id": 511018010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]<class 'int'>[[/bdi]]",
+          "id": 5110180203,
+          "question_id": 511018020
+        },
+        {
+          "content": "[[bdi]]<class 'str'>[[/bdi]]",
+          "id": 5110180202,
+          "question_id": 511018020
+        },
+        {
+          "content": "[[bdi]]<class 'bool'>[[/bdi]]",
+          "id": 5110180201,
+          "question_id": 511018020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511018,
+        "content": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n\n[[code]]is_ready = False\nprint(type(is_ready))[[/code]]",
+        "hints": [
+          "تشمل أنواع البيانات[[bdi]] int [[/bdi]]و[[bdi]] str [[/bdi]]و[[bdi]] bool [[/bdi]]وغيرها.",
+          "[[bdi]]True [[/bdi]]و[[bdi]] False [[/bdi]]من النوع[[bdi]] bool.[[/bdi]]"
+        ],
+        "id": 511018020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "str",
+          "id": 5110180301,
+          "question_id": 511018030
+        },
+        {
+          "content": "int",
+          "id": 5110180303,
+          "question_id": 511018030
+        },
+        {
+          "content": "bool",
+          "id": 5110180302,
+          "question_id": 511018030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511018,
+        "content": "ما هو نوع البيانات للقيمة المعينة للمتغير[[bdi]] team_name [[/bdi]]أدناه؟\n\n[[code]]team_name = \"False\"[[/code]]",
+        "hints": [
+          "تشمل أنواع البيانات[[bdi]] int [[/bdi]]و[[bdi]] str [[/bdi]]و[[bdi]] bool [[/bdi]]وغيرها.",
+          "إذا كان محاطًا بـ[[bdi]] has (double quotation marks)[[/bdi]]، فهو من نوع[[bdi]] String.[[/bdi]]"
+        ],
+        "id": 511018030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "A",
+          "id": 5110180402,
+          "question_id": 511018040
+        },
+        {
+          "content": "حدث خطأ",
+          "id": 5110180403,
+          "question_id": 511018040
+        },
+        {
+          "content": "B",
+          "id": 5110180401,
+          "question_id": 511018040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511018,
+        "content": "اختر ناتج البرنامج التالي من الخيارات المتاحة.\n\n[[code]]can_play = False\n\nif can_play:\n    print(\"A\")\nelse:\n    print(\"B\")[[/code]]",
+        "hints": [
+          "عندما يكون التعبير الشرطي هو[[bdi]] True[[/bdi]]، يتم تشغيل المعالجة.",
+          "عندما يكون التعبير الشرطي هو[[bdi]] False[[/bdi]]، يتم تشغيل معالجة[[bdi]] else.[[/bdi]]"
+        ],
+        "id": 511018040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "OFF",
+          "id": 5110180502,
+          "question_id": 511018050
+        },
+        {
+          "content": "حدث خطأ",
+          "id": 5110180503,
+          "question_id": 511018050
+        },
+        {
+          "content": "ON",
+          "id": 5110180501,
+          "question_id": 511018050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511018,
+        "content": "يشغّل البرنامج التالي مصباح الغرفة أو يطفئه وفقًا للوقت الحالي.\nاختر ناتج هذا البرنامج من الخيارات المتاحة.\nفي المتغير[[bdi]] lamp_on[[/bdi]]، تعني[[bdi]] True [[/bdi]]أن المصباح يعمل، وتعني[[bdi]] False [[/bdi]]أنه متوقف، وتمثل[[bdi]] hour [[/bdi]]الوقت الحالي.\n\n\n[[code]]lamp_on = False\nhour = 21\n\nif hour > 17 and hour < 23:\n    lamp_on = True\nelse:\n    lamp_on = False\n\nif lamp_on:\n    print(\"ON\")\nelse:\n    print(\"OFF\")[[/code]]",
+        "hints": [
+          "تحقق من القيمة التي يحملها[[bdi]] lamp_on.[[/bdi]]",
+          "عندما يكون التعبير الشرطي هو[[bdi]] True[[/bdi]]، يتم تشغيل المعالجة.",
+          "[[bdi]]\"and\" [[/bdi]]يعني أنه يجب استيفاء كلا الشرطين في نفس الوقت."
+        ],
+        "id": 511018050,
+        "seq": 5,
+        "type": "choice"
+      }
+    }
+  ],
+  "511019": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]import math\nprint(math.floor(4.7))[[/bdi]]",
+          "id": 5110190101,
+          "question_id": 511019010
+        },
+        {
+          "content": "[[bdi]]import math\nprint(math.Floor(4.7))[[/bdi]]",
+          "id": 5110190103,
+          "question_id": 511019010
+        },
+        {
+          "content": "[[bdi]]print(math.floor(4.7))[[/bdi]]",
+          "id": 5110190102,
+          "question_id": 511019010
+        },
+        {
+          "content": "[[bdi]]import math\nprint(floor(4.7))[[/bdi]]",
+          "id": 5110190104,
+          "question_id": 511019010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511019,
+        "content": "اختر البرنامج الصحيح الذي يستخدم[[bdi]] math.floor.[[/bdi]]",
+        "hints": null,
+        "id": 511019010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "6\n5",
+          "id": 5110190202,
+          "question_id": 511019020
+        },
+        {
+          "content": "6\n6",
+          "id": 5110190204,
+          "question_id": 511019020
+        },
+        {
+          "content": "5\n6",
+          "id": 5110190201,
+          "question_id": 511019020
+        },
+        {
+          "content": "5\n5",
+          "id": 5110190203,
+          "question_id": 511019020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511019,
+        "content": "اختر ناتج البرنامج التالي.\n\n[[code]]import math\nprint(math.floor(5.8))\nprint(round(5.8))[[/code]]",
+        "hints": null,
+        "id": 511019020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "عدد صحيح من 1 إلى 10",
+          "id": 5110190302,
+          "question_id": 511019030
+        },
+        {
+          "content": "عدد صحيح من 2 إلى 8",
+          "id": 5110190303,
+          "question_id": 511019030
+        },
+        {
+          "content": "نفس الرقم في كل مرة",
+          "id": 5110190304,
+          "question_id": 511019030
+        },
+        {
+          "content": "رقم من 0 إلى أقل من 1",
+          "id": 5110190301,
+          "question_id": 511019030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511019,
+        "content": "اختر العبارة الصحيحة حول القيمة التي تم إرجاعها بواسطة[[bdi]] random.random()[[/bdi]].",
+        "hints": null,
+        "id": 511019030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import math\nimport random\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511019040
+        }
+      ],
+      "question": {
+        "chapter_id": 511019,
+        "content": "أنشئ برنامجًا يعرض عددًا صحيحًا عشوائيًا مكونًا من رقم واحد، كما يلي.\n\n① اكتب[[bdi]] import math [[/bdi]]و[[bdi]] import random[[/bdi]]\n② اعرض[[bdi]] math.floor(random.random() * 10) [[/bdi]]على الشاشة",
+        "hints": null,
+        "id": 511019040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import random\nif :\n    print(\"Grand prize!\")\nelse:\n    print(\"Consolation prize\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511019050
+        }
+      ],
+      "question": {
+        "chapter_id": 511019,
+        "content": "في البرنامج، أدخل تعبيرًا شرطيًا يقول إذا[[bdi]] \"the random value is 0.7 or greater.\"[[/bdi]]\nاستخدم الدالة[[bdi]] random.random()[[/bdi]].",
+        "hints": null,
+        "id": 511019050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511020": [
+    {
+      "choices": [
+        {
+          "content": "ON",
+          "id": 5110200101,
+          "question_id": 511020010
+        },
+        {
+          "content": "OFF",
+          "id": 5110200102,
+          "question_id": 511020010
+        },
+        {
+          "content": "حدث خطأ",
+          "id": 5110200103,
+          "question_id": 511020010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511020,
+        "content": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n[[bdi]]True [[/bdi]]تعني تشغيل و[[bdi]] False [[/bdi]]تعني إيقاف تشغيل لـ[[bdi]] lamp_on.[[/bdi]]\n\n[[code]]lamp_on = True\n\nif lamp_on:\n    print(\"ON\")\nelse:\n    print(\"OFF\")[[/code]]",
+        "hints": null,
+        "id": 511020010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "bool",
+          "id": 5110200202,
+          "question_id": 511020020
+        },
+        {
+          "content": "int",
+          "id": 5110200203,
+          "question_id": 511020020
+        },
+        {
+          "content": "str",
+          "id": 5110200201,
+          "question_id": 511020020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511020,
+        "content": "ما هو نوع البيانات للقيمة المعينة للمتغير[[bdi]] team_name [[/bdi]]أدناه؟\n\n[[code]]team_name = \"False\"[[/code]]",
+        "hints": null,
+        "id": 511020020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]<class 'bool'>[[/bdi]]",
+          "id": 5110200301,
+          "question_id": 511020030
+        },
+        {
+          "content": "[[bdi]]<class 'str'>[[/bdi]]",
+          "id": 5110200302,
+          "question_id": 511020030
+        },
+        {
+          "content": "[[bdi]]<class 'int'>[[/bdi]]",
+          "id": 5110200303,
+          "question_id": 511020030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511020,
+        "content": "اختر مخرجات البرنامج التالي من الخيارات المتاحة.\n\n[[code]]is_ready = False\nprint(type(is_ready))[[/code]]",
+        "hints": null,
+        "id": 511020030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]import math\nprint(math.floor(4.7))[[/bdi]]",
+          "id": 5110200401,
+          "question_id": 511020040
+        },
+        {
+          "content": "[[bdi]]print(math.floor(4.7))[[/bdi]]",
+          "id": 5110200402,
+          "question_id": 511020040
+        },
+        {
+          "content": "[[bdi]]import math\nprint(floor(4.7))[[/bdi]]",
+          "id": 5110200404,
+          "question_id": 511020040
+        },
+        {
+          "content": "[[bdi]]import math\nprint(math.Floor(4.7))[[/bdi]]",
+          "id": 5110200403,
+          "question_id": 511020040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511020,
+        "content": "اختر البرنامج الصحيح الذي يستخدم[[bdi]] math.floor.[[/bdi]]",
+        "hints": null,
+        "id": 511020040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import math\nimport random\nprint( )",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511020050
+        }
+      ],
+      "question": {
+        "chapter_id": 511020,
+        "content": "أنشئ برنامجًا يعرض عددًا صحيحًا عشوائيًا مكونًا من رقم واحد، كما يلي.\n\n① اكتب[[bdi]] import math [[/bdi]]و[[bdi]] import random[[/bdi]]\n② اعرض[[bdi]] math.floor(random.random() * 10) [[/bdi]]على الشاشة",
+        "hints": null,
+        "id": 511020050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "import random\nif :\n    print(\"Grand prize!\")\nelse:\n    print(\"Consolation prize\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511020060
+        }
+      ],
+      "question": {
+        "chapter_id": 511020,
+        "content": "في البرنامج، أدخل تعبيرًا شرطيًا يقول إذا[[bdi]] \"the random value is 0.7 or greater.\"[[/bdi]]\nاستخدم الدالة[[bdi]] random.random()[[/bdi]].",
+        "hints": null,
+        "id": 511020060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511021": [
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "A = 5\nB = 10\nif A > B:\n    print(\"A is bigger\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511021010
+        }
+      ],
+      "question": {
+        "chapter_id": 511021,
+        "content": "أضف شرطًا ثانيًا إلى البرنامج الموضح،\nبحيث إذا كان[[bdi]] A [[/bdi]]أصغر من[[bdi]] B[[/bdi]]، فإن اطبع[[bdi]] \"B is bigger\" [[/bdi]]إلى الشاشة.\nيجب أن يكون التعبير الشرطي الثاني هو[[bdi]] \"A < B\"[[/bdi]].\n\nنسخة النص: [[copy]]B is bigger[[/copy]]",
+        "hints": null,
+        "id": 511021010,
+        "seq": 1,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "or",
+          "id": 5110210203,
+          "question_id": 511021020
+        },
+        {
+          "content": "and",
+          "id": 5110210201,
+          "question_id": 511021020
+        },
+        {
+          "content": "&",
+          "id": 5110210202,
+          "question_id": 511021020
+        },
+        {
+          "content": "|",
+          "id": 5110210204,
+          "question_id": 511021020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511021,
+        "content": "اختر العامل الصحيح الذي يمثل[[bdi]] \"multiple conditions being true at the same time\" (و).[[/bdi]]",
+        "hints": null,
+        "id": 511021020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "math = 100\nenglish = 100\nif math == 100:\n    print(\"Math is 100 points\")",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511021030
+        }
+      ],
+      "question": {
+        "chapter_id": 511021,
+        "content": "أنشئ برنامجًا يطبع[[bdi]] \"Math is 100 points\" [[/bdi]]إذا كانت[[bdi]] math [[/bdi]]تساوي 100 نقطة، ويطبع[[bdi]] \"Math and English are 100 points\" if[[/bdi]]، ومن بين هذه النقاط، اللغة الإنجليزية أيضًا تساوي 100 نقطة.\nومع ذلك، لا تستخدم[[bdi]] \" and \"[[/bdi]]، مما يعني[[bdi]] \"and\"[[/bdi]].\nنسخة النص: [[copy]]Math and English are 100 points[[/copy]]",
+        "hints": null,
+        "id": 511021030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511021040
+        }
+      ],
+      "question": {
+        "chapter_id": 511021,
+        "content": "اكتب برنامجًا يقوم بما يلي.\n \n(1) اطبع[[bdi]] \"Good morning\" [[/bdi]]على الشاشة 7 مرات\n* استخدم اسم المتغير[[bdi]] name \"i\" [[/bdi]]وقم بتعيين القيمة 0 له أولاً.\n* استخدم طريقة الكتابة التي تضيف 1.\n \nنسخة النص: [[copy]]Good morning[[/copy]]",
+        "hints": null,
+        "id": 511021040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "تمت طباعة 100",
+          "id": 5110210502,
+          "question_id": 511021050
+        },
+        {
+          "content": "ينتج عنه خطأ",
+          "id": 5110210501,
+          "question_id": 511021050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511021,
+        "content": "حدد نتيجة تنفيذ البرنامج الآتي من بين الخيارات.\n\n[[code]]for i in range(3):\n    num = 100\nprint(num)[[/code]]",
+        "hints": null,
+        "id": 511021050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "00001",
+          "id": 5110210604,
+          "question_id": 511021060
+        },
+        {
+          "content": "00100",
+          "id": 5110210603,
+          "question_id": 511021060
+        },
+        {
+          "content": "00000",
+          "id": 5110210602,
+          "question_id": 511021060
+        },
+        {
+          "content": "00010",
+          "id": 5110210601,
+          "question_id": 511021060
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511021,
+        "content": "حدد نتيجة تنفيذ البرنامج الآتي من بين الخيارات.\n\n[[code]]for i in range(4):\n    print(\"0\")\n    if i == 2:\n        print(\"1\")[[/code]]",
+        "hints": null,
+        "id": 511021060,
+        "seq": 6,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "i = 5",
+          "id": 5110210702,
+          "question_id": 511021070
+        },
+        {
+          "content": "[[bdi]]i += 5[[/bdi]]",
+          "id": 5110210701,
+          "question_id": 511021070
+        },
+        {
+          "content": "i + = 5",
+          "id": 5110210703,
+          "question_id": 511021070
+        },
+        {
+          "content": "i =+ 5",
+          "id": 5110210704,
+          "question_id": 511021070
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511021,
+        "content": "اختر البرنامج المكافئ للعبارة[[bdi]] \"i = i + 5\"[[/bdi]].",
+        "hints": null,
+        "id": 511021070,
+        "seq": 7,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def divide3(num):\n    result = num / 3\n    return result",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511021080
+        }
+      ],
+      "question": {
+        "chapter_id": 511021,
+        "content": "لقد أنشأت دالة[[bdi]] \"divide3\" [[/bdi]]تقسم القيمة إلى 3 أجزاء متساوية، لذا مرر القيمة \"12345\" إلى[[bdi]] divide3 [[/bdi]]واطبع النتيجة على الشاشة.",
+        "hints": null,
+        "id": 511021080,
+        "seq": 8,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]def motion[[/bdi]]\n  البرنامج المراد تشغيله",
+          "id": 5110210902,
+          "question_id": 511021090
+        },
+        {
+          "content": "الحركة[[bdi]]() def[[/bdi]]\n  البرنامج المراد تشغيله",
+          "id": 5110210904,
+          "question_id": 511021090
+        },
+        {
+          "content": "[[bdi]]motion def[[/bdi]]\n  البرنامج المراد تشغيله",
+          "id": 5110210903,
+          "question_id": 511021090
+        },
+        {
+          "content": "[[bdi]]def motion()[[/bdi]]\n  البرنامج المراد تشغيله",
+          "id": 5110210901,
+          "question_id": 511021090
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511021,
+        "content": "اختر البرنامج الصحيح لإنشاء حركة الدالة[[bdi]] motion [[/bdi]]وسائط.",
+        "hints": null,
+        "id": 511021090,
+        "seq": 9,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511021100
+        }
+      ],
+      "question": {
+        "chapter_id": 511021,
+        "content": "أنشئ دالة[[bdi]] mul [[/bdi]]تأخذ وسيطين.\n (1) أنشئ دالة باسم[[bdi]] \"mul\" [[/bdi]]مع أسماء الوسائط[[bdi]] \"num1\" [[/bdi]]و[[bdi]] \"num2\"[[/bdi]]\n (2) قم بتعيين[[bdi]] \"num1 x num2\" [[/bdi]]للمتغير[[bdi]] \"result\"[[/bdi]]\n (3) أعد المتغير[[bdi]] \"result\"[[/bdi]]\n (4) استدعِ الدالة[[bdi]] mul [[/bdi]]مع الوسائط \"9\" و\"7\" واطبع النتيجة على الشاشة.",
+        "hints": null,
+        "id": 511021100,
+        "seq": 10,
+        "type": "description"
+      }
+    }
+  ],
+  "511022": [
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511022010
+        }
+      ],
+      "question": {
+        "chapter_id": 511022,
+        "content": "أنشئ برنامجًا يقوم بحساب[[bdi]] \"7x7x7x7x7\"[[/bdi]].\nاكتب البرنامج على النحو التالي.\n(1) أنشئ المتغير[[bdi]] num [[/bdi]]وقم بتعيين قيمته إلى 1\n(2) كرر العملية الحسابية[[bdi]] \"num = num * 7\" [[/bdi]]خمس مرات\n* بالنسبة لجملة[[bdi]] for[[/bdi]]، استخدم[[bdi]] range(5) [[/bdi]]بحيث تتكرر 5 مرات.\n(3) في النهاية، اطبع قيمة المتغير[[bdi]] num [[/bdi]]على الشاشة مرة واحدة",
+        "hints": null,
+        "id": 511022010,
+        "seq": 1,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "0->1->2->3->4->5->6->7",
+          "id": 5110220203,
+          "question_id": 511022020
+        },
+        {
+          "content": "1->2->3->4->5->6->7",
+          "id": 5110220201,
+          "question_id": 511022020
+        },
+        {
+          "content": "0->1->2->3->4->5->6",
+          "id": 5110220204,
+          "question_id": 511022020
+        },
+        {
+          "content": "1->2->3->4->5->6",
+          "id": 5110220202,
+          "question_id": 511022020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511022,
+        "content": "اختر الخيار الذي يوضح بصورة صحيحة كيفية تغير قيمة المتغير[[bdi]] i [[/bdi]]في البرنامج الآتي.\n\n[[code]]num = 1\nfor i in range(1, 8):\n    num = num * 2\nprint(num)[[/code]]",
+        "hints": null,
+        "id": 511022020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511022030
+        }
+      ],
+      "question": {
+        "chapter_id": 511022,
+        "content": "ستقوم بإنشاء برنامج يقوم بحساب[[bdi]] \"5040/1/2/3/4/5\"[[/bdi]].\nاكتب البرنامج على النحو التالي.\n(1) أنشئ المتغير[[bdi]] num [[/bdi]]وقم بتعيين القيمة 5040 له\n(2) كرر إسناد العملية الحسابية[[bdi]] \"variable num divided by i\" [[/bdi]]إلى المتغير[[bdi]] num [[/bdi]]خمس مرات\n* بالنسبة لجملة[[bdi]] for[[/bdi]]، استخدم[[bdi]] range(1, 6) [[/bdi]]بحيث يتغير المتغير[[bdi]] i [[/bdi]]من 1 إلى 5 بالترتيب.\n(3) في النهاية، اطبع قيمة المتغير[[bdi]] num [[/bdi]]على الشاشة مرة واحدة",
+        "hints": null,
+        "id": 511022030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "mark_list = [48, 55, 74, 85, 63, 57, 91]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511022040
+        }
+      ],
+      "question": {
+        "chapter_id": 511022,
+        "content": "أدخل برنامجًا يقوم بطباعة القيمة \"57\" من المتغير[[bdi]] mark_list [[/bdi]]على الشاشة.\nلا تكتب \"57\" مباشرة.",
+        "hints": null,
+        "id": 511022040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "mark_list = [48, 55, 74, 85, 63, 57, 91]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511022050
+        }
+      ],
+      "question": {
+        "chapter_id": 511022,
+        "content": "أدخل برنامجًا يقوم بطباعة عدد القيم الموجودة في المتغير[[bdi]] mark_list [[/bdi]]على الشاشة.",
+        "hints": null,
+        "id": 511022050,
+        "seq": 5,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "mark_list = [48, 55, 74, 85, 63, 57, 91]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511022060
+        }
+      ],
+      "question": {
+        "chapter_id": 511022,
+        "content": "ستقوم بإنشاء برنامج يقوم بطباعة[[bdi]] \"85 or above\" [[/bdi]]إذا كانت النتيجة 85 أو أعلى.\n\nأنشئ برنامجك على النحو التالي.\n(1) جملة[[bdi]] for [[/bdi]]تتكرر لعدد القيم في المتغير[[bdi]] mark_list[[/bdi]]\n(2) في العملية المتكررة[[bdi]] in (1)[[/bdi]]، إذا كانت قيمة المتغير[[bdi]] mark_list [[/bdi]]تساوي 85 أو أعلى، اطبع[[bdi]] \"85 or above\" [[/bdi]]على الشاشة\n\nنسخة النص: [[copy]]85 or above[[/copy]]",
+        "hints": null,
+        "id": 511022060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511023": [
+    {
+      "choices": [
+        {
+          "content": "14",
+          "id": 5110230101,
+          "question_id": 511023010
+        },
+        {
+          "content": "7",
+          "id": 5110230102,
+          "question_id": 511023010
+        },
+        {
+          "content": "11",
+          "id": 5110230103,
+          "question_id": 511023010
+        },
+        {
+          "content": "rank_list[2]",
+          "id": 5110230104,
+          "question_id": 511023010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511023,
+        "content": "حدد نتيجة تشغيل البرنامج التالي.\n\n[[code]]rank_list = [5, 7, 14, 11, 8, 6, 13]\nprint(rank_list[2])[[/code]]",
+        "hints": [
+          "انتبه جيداً لكيفية حساب قيم القوائم."
+        ],
+        "id": 511023010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "size_list[i]",
+          "id": 5110230204,
+          "question_id": 511023020
+        },
+        {
+          "content": "8",
+          "id": 5110230203,
+          "question_id": 511023020
+        },
+        {
+          "content": "14\n11\n8",
+          "id": 5110230202,
+          "question_id": 511023020
+        },
+        {
+          "content": "8\n11\n14",
+          "id": 5110230201,
+          "question_id": 511023020
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511023,
+        "content": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]size_list = [8, 11, 14]\nfor i in range(3):\n    print(size_list[i])[[/code]]",
+        "hints": [
+          "انتبه جيداً لكيفية حساب قيم القوائم."
+        ],
+        "id": 511023020,
+        "seq": 2,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "count_list[i]",
+          "id": 5110230304,
+          "question_id": 511023030
+        },
+        {
+          "content": "3\n4\n5",
+          "id": 5110230301,
+          "question_id": 511023030
+        },
+        {
+          "content": "5\n4\n3",
+          "id": 5110230302,
+          "question_id": 511023030
+        },
+        {
+          "content": "3",
+          "id": 5110230303,
+          "question_id": 511023030
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511023,
+        "content": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]count_list = [3, 4, 5]\nfor i in range(len(count_list)):\n    print(count_list[i])[[/code]]",
+        "hints": [
+          "[[bdi]]len(count_list) [[/bdi]]يأخذ عدد القيم في المتغير[[bdi]] count_list.[[/bdi]]"
+        ],
+        "id": 511023030,
+        "seq": 3,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "point_list = [2, 5, 8, 11]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511023040
+        }
+      ],
+      "question": {
+        "chapter_id": 511023,
+        "content": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] point_list [[/bdi]]على الشاشة.\n\nأنشئ برنامجك على النحو التالي.\n(1) اكتب القائمة بعد[[bdi]] in[[/bdi]]، واطبع جميع قيم المتغير[[bdi]] point_list[[/bdi]]\nومع ذلك، يجب أن يكون المتغير الذي يخزن كل قيمة مأخوذة من المتغير[[bdi]] point_list [[/bdi]]هو نقطة.",
+        "hints": [
+          "لكتابة قائمة بعد[[bdi]] in[[/bdi]]، اكتب[[bdi]] for point in point_list:[[/bdi]]."
+        ],
+        "id": 511023040,
+        "seq": 4,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511023050
+        }
+      ],
+      "question": {
+        "chapter_id": 511023,
+        "content": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] word_list [[/bdi]]على الشاشة.\nالسلاسل المراد وضعها في[[bdi]] word_list: Good morning, Good night, Hello[[/bdi]]\n\nأنشئ برنامجك على النحو التالي.\n(1) أضف قيمًا إلى المتغير[[bdi]] word_list[[/bdi]]\n(2) اكتب القائمة بعد[[bdi]] in[[/bdi]]، واطبع جميع قيم المتغير[[bdi]] word_list[[/bdi]]\nومع ذلك، يجب أن يكون المتغير الذي يخزن كل قيمة مأخوذة من المتغير[[bdi]] word_list [[/bdi]]كلمة.\n\nنسخة النص: [[copy]]Good morning[[/copy]] [[copy]]Good night[[/copy]] [[copy]]Hello[[/copy]]",
+        "hints": [
+          "لوضع السلاسل النصية في قائمة، تحتاج إلى وضعها بين \"\"."
+        ],
+        "id": 511023050,
+        "seq": 5,
+        "type": "description"
+      }
+    }
+  ],
+  "511024": [
+    {
+      "choices": [
+        {
+          "content": "8\n11\n14",
+          "id": 5110240101,
+          "question_id": 511024010
+        },
+        {
+          "content": "size_list[i]",
+          "id": 5110240104,
+          "question_id": 511024010
+        },
+        {
+          "content": "8",
+          "id": 5110240103,
+          "question_id": 511024010
+        },
+        {
+          "content": "14\n11\n8",
+          "id": 5110240102,
+          "question_id": 511024010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511024,
+        "content": "حدد نتيجة تنفيذ البرنامج الآتي.\n\n[[code]]size_list = [8, 11, 14]\nfor i in range(3):\n    print(size_list[i])[[/code]]",
+        "hints": null,
+        "id": 511024010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "point_list = [2, 5, 8, 11]",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511024020
+        }
+      ],
+      "question": {
+        "chapter_id": 511024,
+        "content": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] point_list [[/bdi]]على الشاشة.\n\nأنشئ البرنامج على النحو التالي.\n(1) اكتب القائمة بعد[[bdi]] in [[/bdi]]واطبع جميع قيم المتغير[[bdi]] point_list.[[/bdi]]\nاستخدم النقطة المتغيرة للاحتفاظ بكل قيمة يتم إخراجها من المتغير[[bdi]] point_list.[[/bdi]]",
+        "hints": null,
+        "id": 511024020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511024030
+        }
+      ],
+      "question": {
+        "chapter_id": 511024,
+        "content": "ستقوم بإنشاء برنامج يقوم بطباعة جميع قيم المتغير[[bdi]] word_list [[/bdi]]على الشاشة.\nالسلاسل المراد وضعها في[[bdi]] word_list: good morning, good night, hello[[/bdi]]\n\nأنشئ البرنامج على النحو التالي.\n(1) أضف قيمًا إلى المتغير[[bdi]] word_list.[[/bdi]]\n(2) اكتب القائمة بعد[[bdi]] in[[/bdi]]، واطبع جميع قيم المتغير[[bdi]] word_list.[[/bdi]]\nاستخدم الكلمة المتغيرة للاحتفاظ بكل قيمة يتم إخراجها من المتغير[[bdi]] word_list.[[/bdi]]\n\nنسخة النص: [[bdi]]good morning good night hello[[/bdi]]",
+        "hints": null,
+        "id": 511024030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "100",
+          "id": 5110240401,
+          "question_id": 511024040
+        },
+        {
+          "content": "B",
+          "id": 5110240403,
+          "question_id": 511024040
+        },
+        {
+          "content": "لا شيء مطبوع",
+          "id": 5110240404,
+          "question_id": 511024040
+        },
+        {
+          "content": "500",
+          "id": 5110240402,
+          "question_id": 511024040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511024,
+        "content": "حدد ناتج البرنامج الآتي.\n\n[[code]]A = 500\nB = 0\nif A >= 1:\n    B = B + 100\n    print(B)[[/code]]",
+        "hints": null,
+        "id": 511024040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "لا شيء مطبوع",
+          "id": 5110240504,
+          "question_id": 511024050
+        },
+        {
+          "content": "الوجهة هي حوض الأسماك",
+          "id": 5110240503,
+          "question_id": 511024050
+        },
+        {
+          "content": "الوجهة هي مدينة الملاهي",
+          "id": 5110240501,
+          "question_id": 511024050
+        },
+        {
+          "content": "الوجهة هي الحديقة",
+          "id": 5110240502,
+          "question_id": 511024050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511024,
+        "content": "حدد ناتج البرنامج الآتي.\n\n[[code]]weather = \"sunny\"\nteam = \"Team Blue\"\nif weather == \"sunny\":\n    if team == \"Team Red\":\n        print(\"Destination is the park\")\n    else:\n        print(\"Destination is the amusement park\")\nelse:\n    print(\"Destination is the aquarium\")[[/code]]",
+        "hints": null,
+        "id": 511024050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "weather = \"rainy\"\ntime = \"morning\"\nif weather == \"rainy\":\n    # Write the program for rainy days here\nelse:\n    # Write the program for other days here",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511024060
+        }
+      ],
+      "question": {
+        "chapter_id": 511024,
+        "content": "ستقوم بإنشاء برنامج يقوم، في حالة هطول الأمطار، بتغيير الوجهة حسب وقت اليوم، وإلا فإنه يذهب في نزهة.\nإذا كان الجو ممطراً، فإن الوجهة هي دار السينما في الصباح، والمكتبة في الظهر، وإلا فالمنزل.\n\nاتبع الخطوات التالية لإكمال البرنامج.\n(1) قم بتفرع العملية بناءً على ما إذا كان المتغير[[bdi]] weather [[/bdi]]ممطرًا أم لا.\n(2) قم بإنشاء البرنامج لحالة المطر.\n  - إذا كان المتغير[[bdi]] time [[/bdi]]هو الصباح، اطبع[[bdi]] \"Let's go to the movie theater\"[[/bdi]].\n  - إذا كان المتغير[[bdi]] time [[/bdi]]هو الظهر، اطبع[[bdi]] \"Let's go to the library\"[[/bdi]].\n  - وإلا، اطبع[[bdi]] \"Let's stay home\"[[/bdi]].\n(3) إذا لم يكن المتغير[[bdi]] weather [[/bdi]]ممطرًا، اطبع[[bdi]] \"Let's go for a walk\"[[/bdi]].\n\nنسخة النص: [[copy]]Let's go to the movie theater[[/copy]] [[copy]]Let's go to the library[[/copy]] [[copy]]Let's stay home[[/copy]] [[copy]]Let's go for a walk[[/copy]]",
+        "hints": null,
+        "id": 511024060,
+        "seq": 6,
+        "type": "description"
+      }
+    }
+  ],
+  "511025": [
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(calculation3(3, 5, 10))[[/bdi]]",
+          "id": 5110250101,
+          "question_id": 511025010
+        },
+        {
+          "content": "[[bdi]]calculation3(3, 5, 10)[[/bdi]]",
+          "id": 5110250102,
+          "question_id": 511025010
+        },
+        {
+          "content": "[[bdi]]print(return calculation3(3, 5, 10))[[/bdi]]",
+          "id": 5110250104,
+          "question_id": 511025010
+        },
+        {
+          "content": "[[bdi]]print(def calculation3(3, 5, 10)[[/bdi]]",
+          "id": 5110250103,
+          "question_id": 511025010
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511025,
+        "content": "اختر البرنامج الصحيح الذي يمرر الوسائط الثلاثة \"3\" و \"5\" و \"10\" إلى الدالة[[bdi]] \"calculation3\" [[/bdi]]ويطبع النتيجة على الشاشة.",
+        "hints": null,
+        "id": 511025010,
+        "seq": 1,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nprint(num1)",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511025020
+        }
+      ],
+      "question": {
+        "chapter_id": 511025,
+        "content": "تقوم بإنشاء برنامج حيث تعطي طباعة قيمة المتغير[[bdi]] num1 [[/bdi]]على الشاشة نفس نتيجة حساب الدالة[[bdi]] \"calculation3\"[[/bdi]].\n\nدون حذف البرنامج الأصلي، قم بإنشاء برنامجك فوق السطر[[bdi]] print(num1)[[/bdi]].\n(1) أنشئ المتغير[[bdi]] \"num1\" [[/bdi]]وأسند إليه نتيجة الدالة[[bdi]] \"calculation3\"[[/bdi]]",
+        "hints": null,
+        "id": 511025020,
+        "seq": 2,
+        "type": "description"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "def calculation3(a, b, c):\n    result = a * b * c\n    return result\nnum1 = calculation3(5, 10, 15)\nprint(num1)",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511025030
+        }
+      ],
+      "question": {
+        "chapter_id": 511025,
+        "content": "تقوم بإنشاء برنامج حيث تعطي طباعة قيمة المتغير[[bdi]] num2 [[/bdi]]على الشاشة نفس نتيجة حساب الدالة[[bdi]] \"calculation3\"[[/bdi]].\n\nدون حذف البرنامج الأصلي، أنشئ برنامجك من السطر 7 فصاعدًا.\n(1) قم بإنشاء المتغير[[bdi]] \"num2\" [[/bdi]]وقم بتعيين نتيجة الدالة[[bdi]] \"calculation3\" [[/bdi]]إليه، مع تمرير الوسائط \"4\" و \"4\" و \"4\"",
+        "hints": null,
+        "id": 511025030,
+        "seq": 3,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "[[bdi]]print(num1, num2, num3)[[/bdi]]",
+          "id": 5110250403,
+          "question_id": 511025040
+        },
+        {
+          "content": "[[bdi]]print(min(num1, num2, num3))[[/bdi]]",
+          "id": 5110250401,
+          "question_id": 511025040
+        },
+        {
+          "content": "[[bdi]]min(num1, num2, num3)[[/bdi]]",
+          "id": 5110250402,
+          "question_id": 511025040
+        },
+        {
+          "content": "[[bdi]]print(return min(num1, num2, num3))[[/bdi]]",
+          "id": 5110250404,
+          "question_id": 511025040
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511025,
+        "content": "تقوم الدالة[[bdi]] min [[/bdi]]بإرجاع أصغر قيمة بين وسائطها.\nاختر البرنامج الذي يطبع أصغر قيمة بين[[bdi]] num1 [[/bdi]]و[[bdi]] num2 [[/bdi]]و[[bdi]] num3[[/bdi]].",
+        "hints": null,
+        "id": 511025040,
+        "seq": 4,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "70\n66",
+          "id": 5110250503,
+          "question_id": 511025050
+        },
+        {
+          "content": "80\n88\n92",
+          "id": 5110250501,
+          "question_id": 511025050
+        },
+        {
+          "content": "92",
+          "id": 5110250504,
+          "question_id": 511025050
+        },
+        {
+          "content": "70\n80\n66\n88\n92",
+          "id": 5110250502,
+          "question_id": 511025050
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511025,
+        "content": "حدد ناتج البرنامج الآتي.\n\n[[code]]score_list = [70, 80, 66, 88, 92]\nfor score in score_list:\n    if score >= 80:\n        print(score)[[/code]]",
+        "hints": null,
+        "id": 511025050,
+        "seq": 5,
+        "type": "choice"
+      }
+    },
+    {
+      "choices": null,
+      "descriptions": [
+        {
+          "code": "score_list = [70, 80, 66, 88, 92]\n\nfor score in score_list:",
+          "editable": true,
+          "lang": "python",
+          "placeholders": [],
+          "question_id": 511025060
+        }
+      ],
+      "question": {
+        "chapter_id": 511025,
+        "content": "اكتب برنامجًا يطبع فقط قيم المتغير[[bdi]] score [[/bdi]]التي تساوي 80 أو أعلى.\nلا تقم بحذف البرنامج الأصلي.",
+        "hints": null,
+        "id": 511025060,
+        "seq": 6,
+        "type": "description"
+      }
+    },
+    {
+      "choices": [
+        {
+          "content": "إذا كان عمرك 18 سنة أو أكثر، يمكنك الركوب بمفردك.",
+          "id": 5110250702,
+          "question_id": 511025070
+        },
+        {
+          "content": "إذا كان عمرك 12 سنة أو أكثر وكان طولك 140 سم أو أكثر، يمكنك الركوب بمفردك.",
+          "id": 5110250701,
+          "question_id": 511025070
+        },
+        {
+          "content": "حتى إذا كان عمرك أقل من 12 سنة، يمكنك الركوب بمفردك.",
+          "id": 5110250703,
+          "question_id": 511025070
+        },
+        {
+          "content": "إذا كان طولك 140 سم أو أكثر، يمكنك الركوب بمفردك.",
+          "id": 5110250704,
+          "question_id": 511025070
+        }
+      ],
+      "descriptions": null,
+      "question": {
+        "chapter_id": 511025,
+        "content": "يُستخدم المخطط الانسيابي أدناه لتحديد ما إذا كان الشخص يستطيع ركوب الأفعوانية أم لا.\nمن بين الخيارات أدناه، اختر العبارة الخاطئة بناءً على ما يمكن استنتاجه من هذا المخطط الانسيابي.\n\n[[img]]test25-7.png[[/img]]",
+        "hints": null,
+        "id": 511025070,
+        "seq": 7,
+        "type": "choice"
+      }
+    }
+  ]
+}

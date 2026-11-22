@@ -1,0 +1,520 @@
+{
+  "1": [
+    {
+      "answer": "print(\"Hello, Python!\")"
+    },
+    {
+      "answer": "Start"
+    },
+    {
+      "answer": "print(42)"
+    },
+    {
+      "answer": "الأول يطبع 7، والثاني يطبع النص 5 + 2."
+    },
+    {
+      "answer": "print(\"Mona\")\nprint(\"Welcome\")"
+    },
+    {
+      "answer": "A\nB"
+    }
+  ],
+  "2": [
+    {
+      "answer": "14"
+    },
+    {
+      "answer": "print(48 / 6)"
+    },
+    {
+      "answer": "hahaha"
+    },
+    {
+      "answer": "print(\"Sum = \" + str(7 + 5))"
+    },
+    {
+      "answer": "3"
+    },
+    {
+      "answer": "2"
+    }
+  ],
+  "3": [
+    {
+      "answer": "apples = 6\nprint(apples)"
+    },
+    {
+      "answer": "7"
+    },
+    {
+      "answer": "name = \"Sara\""
+    },
+    {
+      "answer": "6"
+    },
+    {
+      "answer": "total = 12 + 9\nprint(total)"
+    },
+    {
+      "answer": "10"
+    }
+  ],
+  "4": [
+    {
+      "answer": "7"
+    },
+    {
+      "answer": "score = 15\nprint(score + 5)"
+    },
+    {
+      "answer": "int"
+    },
+    {
+      "answer": "str"
+    },
+    {
+      "answer": "# يبدأ البرنامج هنا"
+    },
+    {
+      "answer": "16"
+    }
+  ],
+  "5": [
+    {
+      "answer": "if age >= 18:\n    print(\"Adult\")"
+    },
+    {
+      "answer": "Pass"
+    },
+    {
+      "answer": "if value == 0:\n    print(\"Zero\")"
+    },
+    {
+      "answer": "لا يطبع شيئًا."
+    },
+    {
+      "answer": "if temperature < 0:\n    print(\"Below freezing\")"
+    },
+    {
+      "answer": "True"
+    }
+  ],
+  "6": [
+    {
+      "answer": "if n % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")"
+    },
+    {
+      "answer": "small"
+    },
+    {
+      "answer": "if hour < 17:\n    print(\"Open\")\nelse:\n    print(\"Closed\")"
+    },
+    {
+      "answer": "ينفذ فرع else لأن 50 ليست أكبر من 50."
+    },
+    {
+      "answer": "if number > 0:\n    print(\"Positive\")\nelse:\n    print(\"Not positive\")"
+    },
+    {
+      "answer": "zero"
+    }
+  ],
+  "7": [
+    {
+      "answer": "if score >= 90:\n    print(\"A\")\nelif score >= 80:\n    print(\"B\")\nelse:\n    print(\"C\")"
+    },
+    {
+      "answer": "B"
+    },
+    {
+      "answer": "if temp < 10:\n    print(\"Cold\")\nelif temp < 25:\n    print(\"Mild\")\nelse:\n    print(\"Hot\")"
+    },
+    {
+      "answer": "Hot"
+    },
+    {
+      "answer": "if n < 0:\n    print(\"Negative\")\nelif n == 0:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")"
+    },
+    {
+      "answer": "فرع elif x < 15."
+    }
+  ],
+  "8": [
+    {
+      "answer": "B"
+    },
+    {
+      "answer": "if grade >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Retry\")"
+    },
+    {
+      "answer": "الشرط False؛ العدد فردي."
+    },
+    {
+      "answer": "if a > b:\n    print(a)\nelse:\n    print(b)"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "False"
+    }
+  ],
+  "9": [
+    {
+      "answer": "if age >= 18 and has_id:\n    print(\"Allowed\")"
+    },
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "if x < 1 or x > 10:\n    print(\"Outside\")"
+    },
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "if member or has_pass:\n    print(\"Enter\")"
+    }
+  ],
+  "10": [
+    {
+      "answer": "i = 1\nwhile i <= 3:\n    print(i)\n    i += 1"
+    },
+    {
+      "answer": "0\n1\n2"
+    },
+    {
+      "answer": "for n in range(2, 6):\n    print(n)"
+    },
+    {
+      "answer": "6"
+    },
+    {
+      "answer": "4 مرات."
+    },
+    {
+      "answer": "n = 5\nwhile n >= 3:\n    print(n)\n    n -= 1"
+    }
+  ],
+  "11": [
+    {
+      "answer": "9"
+    },
+    {
+      "answer": "for n in range(3, 16, 3):\n    print(n)"
+    },
+    {
+      "answer": "5 مرات."
+    },
+    {
+      "answer": "2\n4\n6"
+    },
+    {
+      "answer": "count = 0\nfor n in [1, 2, 3, 4]:\n    if n % 2 == 0:\n        count += 1"
+    },
+    {
+      "answer": "10"
+    }
+  ],
+  "12": [
+    {
+      "answer": "def greet():\n    print(\"Hello\")"
+    },
+    {
+      "answer": "greet()"
+    },
+    {
+      "answer": "Hi"
+    },
+    {
+      "answer": "def line():\n    print(\"-----\")"
+    },
+    {
+      "answer": "تبدأ تعريف دالة."
+    },
+    {
+      "answer": "8"
+    }
+  ],
+  "13": [
+    {
+      "answer": "def square(x):\n    return x * x"
+    },
+    {
+      "answer": "14"
+    },
+    {
+      "answer": "def add(a, b):\n    return a + b"
+    },
+    {
+      "answer": "print يعرض قيمة؛ return يعيدها إلى موضع الاستدعاء."
+    },
+    {
+      "answer": "def is_positive(n):\n    return n > 0"
+    },
+    {
+      "answer": "12"
+    }
+  ],
+  "14": [
+    {
+      "answer": "def cube(n):\n    return n ** 3"
+    },
+    {
+      "answer": "7"
+    },
+    {
+      "answer": "def max_of_two(a, b):\n    if a > b:\n        return a\n    return b"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "def welcome(name):\n    return \"Hello \" + name"
+    },
+    {
+      "answer": "3"
+    }
+  ],
+  "15": [
+    {
+      "answer": "fruits = [\"apple\", \"pear\"]"
+    },
+    {
+      "answer": "4"
+    },
+    {
+      "answer": "9"
+    },
+    {
+      "answer": "3"
+    },
+    {
+      "answer": "scores = [80, 95, 72]"
+    },
+    {
+      "answer": "30"
+    }
+  ],
+  "16": [
+    {
+      "answer": "nums.append(8)"
+    },
+    {
+      "answer": "[1, 2, 3]"
+    },
+    {
+      "answer": "2"
+    },
+    {
+      "answer": "colors[0] = \"green\""
+    },
+    {
+      "answer": "12"
+    },
+    {
+      "answer": "print(items[-1])"
+    }
+  ],
+  "17": [
+    {
+      "answer": "[2, 9, 6]"
+    },
+    {
+      "answer": "for name in names:\n    print(name)"
+    },
+    {
+      "answer": "5"
+    },
+    {
+      "answer": "tasks = []"
+    },
+    {
+      "answer": "2"
+    },
+    {
+      "answer": "5 in nums"
+    }
+  ],
+  "18": [
+    {
+      "answer": "bool"
+    },
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "True"
+    }
+  ],
+  "19": [
+    {
+      "answer": "def total_two(a, b):\n    return a + b"
+    },
+    {
+      "answer": "def total_three(a, b, c):\n    return a + b + c"
+    },
+    {
+      "answer": "3"
+    },
+    {
+      "answer": "def count_items(items):\n    return len(items)"
+    },
+    {
+      "answer": "def count_positive(nums):\n    count = 0\n    for n in nums:\n        if n > 0:\n            count += 1\n    return count"
+    },
+    {
+      "answer": "12"
+    }
+  ],
+  "20": [
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "def in_range(x):\n    return x >= 0 and x <= 100"
+    },
+    {
+      "answer": "9"
+    },
+    {
+      "answer": "def all_positive(nums):\n    for n in nums:\n        if n <= 0:\n            return False\n    return True"
+    },
+    {
+      "answer": "False"
+    },
+    {
+      "answer": "True"
+    }
+  ],
+  "21": [
+    {
+      "answer": "6"
+    },
+    {
+      "answer": "if x >= 1 and x <= 10:\n    print(\"In range\")"
+    },
+    {
+      "answer": "6"
+    },
+    {
+      "answer": "def parity(n):\n    if n % 2 == 0:\n        return \"even\"\n    return \"odd\""
+    },
+    {
+      "answer": "blue"
+    },
+    {
+      "answer": "print(max(values))"
+    }
+  ],
+  "22": [
+    {
+      "answer": "11"
+    },
+    {
+      "answer": "for n in nums:\n    if n > 0:\n        print(n)"
+    },
+    {
+      "answer": "4"
+    },
+    {
+      "answer": "def sum_list(nums):\n    total = 0\n    for n in nums:\n        total += n\n    return total"
+    },
+    {
+      "answer": "9"
+    },
+    {
+      "answer": "if name != \"\":\n    print(\"Has name\")"
+    }
+  ],
+  "23": [
+    {
+      "answer": "total = 0\nfor n in nums:\n    total += n"
+    },
+    {
+      "answer": "1\n2\n3"
+    },
+    {
+      "answer": "for i in range(len(items)):\n    print(i)"
+    },
+    {
+      "answer": "3"
+    },
+    {
+      "answer": "for n in nums:\n    print(n * 2)"
+    },
+    {
+      "answer": "30"
+    }
+  ],
+  "24": [
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "def count_items(items):\n    return len(items)"
+    },
+    {
+      "answer": "count = 0\nfor n in values:\n    if n % 2 != 0:\n        count += 1"
+    },
+    {
+      "answer": "6"
+    },
+    {
+      "answer": "if len(word) > 5:\n    print(\"Long\")"
+    },
+    {
+      "answer": "7"
+    }
+  ],
+  "25": [
+    {
+      "answer": "even"
+    },
+    {
+      "answer": "for n in range(1, 6):\n    print(n)"
+    },
+    {
+      "answer": "14"
+    },
+    {
+      "answer": "def first_item(items):\n    return items[0]"
+    },
+    {
+      "answer": "True"
+    },
+    {
+      "answer": "if len(data) == 0:\n    print(\"Empty\")"
+    },
+    {
+      "answer": "9"
+    },
+    {
+      "answer": "def positive_count(nums):\n    count = 0\n    for n in nums:\n        if n > 0:\n            count += 1\n    return count"
+    },
+    {
+      "answer": "4"
+    },
+    {
+      "answer": "def average(nums):\n    return sum(nums) / len(nums)"
+    },
+    {
+      "answer": "7"
+    },
+    {
+      "answer": "if score >= 60:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    }
+  ]
+}
